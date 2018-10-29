@@ -1,0 +1,63 @@
+body {
+    background-image: url("media/me.jpg");
+    background-color: powderblue;
+    border: 2px solid black;
+}
+
+#navBar {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    float: left;
+
+}
+
+#navBar li {
+    float: left;
+    padding: 16px;
+}
+
+#navBar a:active {
+    background-color:#CFB83B;
+}
+    
+h1 {
+    color: black;
+}
+
+p {
+    color: gray;
+}
+
+#about_now {
+    color:blue;
+}
+
+.section {
+    color:gray;
+    background-image: url("media/me.jpg");
+}
+
+a {
+    border:0;
+}
+
+a:link {
+    color:green;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    text-decpration: none;
+}
+
+a:hover {
+    color:white;
+}
+
+a:visited {
+    
+}

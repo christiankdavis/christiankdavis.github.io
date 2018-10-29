@@ -1,47 +1,42 @@
 ﻿<!DOCTYPE html>
-<html>
+
+<!-- comments are made like this-->
+
+<html lang="en-US">
 <head>
-    <meta charset=“UTF-8” />
-    <title>CKD Home</title>
-    <style>
-    body {background-color: #111;}
-    .NavBar {
-    list-style-type: none; margin: 0; padding: 0;
-    background-color: #333;
-    position: -webkit-sticky; position: sticky; top: 0;
-    }
-
-    .bg { background-image:"media/me.jpg";
-        height: 100%;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-        
-    li { display: inline;}
-    li a {color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
-    li a:hover {
-    background-color: #111;
-    }
-    li a:active {
-    background-color: #CFB53B}
-    .me_1 {
-        max-width:50%; display: block; margin-left: auto; margin-right: auto;
-    }
-
-    .name {color:#CFB53B; text-align:center;}
-
-    </style>
+    <title>Christian KeShawn Davis</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="styles.css"/>
+    <script src="scripts.js"></script>
 </head>
-<body background="media/me.jpg">
-    <h1 class="name">Christian KeShawn Davis</h1>
-    <img class ="me_1" src="media/me.jpg" alt="Picture of me in Stanford Engineering Quad" style=""/>
-    <ul class="NavBar">
-        <li><a href="#About"> About Me </a></li>
-        <li><a href="#Projects"> Projects </a></li>
-        <li><a href="#Deep"> Beyond The Projects </a></li>
-        <li><a href="#Writing"> Writing </a></li>
-        <li><a href="#Contact"> Contact Me </a></li>
-    </ul>
-</body>
 </html>
+
+<body>
+
+    <ul id="navBar">
+        <li><a href="#about">About me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#beyond">Beyond the Projects</a></li>
+        <li><a href="#writing">Writing</a></li>
+        <li><a href="#contact">Contact Me</a></li>
+    </ul>
+
+    <h1 class="section" id="about">About Me</h1>
+    <button type="button" onclick="myFunction()">Switch it Up!</button>
+    <a href="https://www.linkedin.com/in/christiankdavis/" title="Go to my LinkedIn profile"><img src="media/me.jpg" alt="a picture of me" width="222" height="222"/></a>
+    <h3>Growing Up</h3>
+    <p>Abandoned as a pup, I was found by Muriel and her husband, Eustace.</p>
+    <h3>Now</h3>
+    <p id="about_now">I'm an <a href="http://aphia.stanford.edu/" target="_blank">Alpha</a> now.</p>
+    <h3>Moving Forward</h3>
+    <hr/>
+    <h1 title="Nada thing" id="projects">Projects</h1>
+    <hr/>
+    <h1 class="section" id="beyond">Beyond the Projects</h1>
+    <hr/>
+    <h1 id="writing">Writing</h1>
+    <hr/>
+    <h1 id="contact">Contact Me</h1>
+    <p>But, if you want to return to top, <a href="#about">Click Here!</a></p>
+
+</body>
