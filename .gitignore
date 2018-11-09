@@ -31,5 +31,6 @@
 *.out
 *.app
 
-# Randoms
+# Random Files
 .DS_Store
+index2.html
