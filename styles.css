@@ -1,7 +1,15 @@
-/*body {
+body {
     background-image: url("media/me.jpg");
     background-color: powderblue;
     border: 2px solid black;
+}
+
+.main_img {
+    position: fixed;
+    width: 25%;
+    height: 100%;
+    top: 0%;
+    right: 0%;
 }
 
 #navBar {
@@ -11,30 +19,23 @@
     overflow: hidden;
     background-color: none;
     float: left;
+    position:fixed;
+    top: 0%;
+    right:20%;
+    background-color: black;
+    width: 5%;
 
 }
 
 #navBar li {
     float: left;
     padding: 16px;
+    width: 10%;
+    display: block;
 }
 
 #navBar a:active {
     background-color:#CFB83B;
-}*/
-
-#comingSoom {
-    position:fixed;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.main_img {
-    position: fixed;
-    top: 140px;
-    left: 50px;
 }
     
 h1 {
@@ -51,7 +52,6 @@ p {
 
 .section {
     color:gray;
-    background-image: url("media/me.jpg");
 }
 
 a {
