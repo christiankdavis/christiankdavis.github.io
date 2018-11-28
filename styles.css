@@ -1,77 +1,21 @@
 body {
-    background-image: url("media/me.jpg");
-    background-color: powderblue;
-    border: 2px solid black;
-}
-
-.main_img {
-    position: fixed;
-    width: 25%;
-    height: 100%;
-    top: 0%;
-    right: 0%;
-}
-
-#navBar {
-    list-style-type:none;
+    background-color: #CFB53B;
     margin: 0;
     padding: 0;
+}
+
+#navBar{
+    list-style-type: none;
+    position: fixed;
+    right: 10%;
+    top: 10%;
+}
+
+.section{
+    height: 100vh;
     overflow: hidden;
-    background-color: none;
-    float: left;
-    position:fixed;
-    top: 0%;
-    right:20%;
-    background-color: black;
-    width: 5%;
-
 }
 
-#navBar li {
-    float: left;
-    padding: 16px;
-    width: 10%;
-    display: block;
-}
-
-#navBar a:active {
-    background-color:#CFB83B;
-}
-    
-h1 {
-    color: black;
-}
-
-p {
-    color: gray;
-}
-
-#about_now {
-    color:blue;
-}
-
-.section {
-    color:gray;
-}
-
-a {
-    border:0;
-}
-
-a:link {
-    color:green;
-    text-decoration: none;
-}
-
-a:visited {
-    color: pink;
-    text-decpration: none;
-}
-
-a:hover {
-    color:white;
-}
-
-a:visited {
-    
+.background_img{
+    width: 100%;
 }
