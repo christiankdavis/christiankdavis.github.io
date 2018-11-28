@@ -4,6 +4,15 @@ body {
     padding: 0;
 }
 
+#coming_soon{
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
 #navBar{
     list-style-type: none;
     position: fixed;
@@ -11,11 +20,48 @@ body {
     top: 10%;
 }
 
+#navBar li {
+    padding: 10%;
+    display: block;
+    background-color: #CFB53B;
+    border-radius: 50%;
+    text-align: center;
+    opacity: 0.5;
+}
+
+#navBar li:hover {
+    opacity: 1.0;
+}
+
+.current {
+    opacity: 1.0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a.active {
+    color: gray;
+}
+
 .section{
     height: 100vh;
+    width: 100%;
     overflow: hidden;
 }
 
 .background_img{
+    position: absolute;
     width: 100%;
+    z-index: -1;
 }
+
+#title{
+    text-align: center;
+    top: 25%;
+    color: #CFB53B;
+    font-size: 222%;
+}
+
