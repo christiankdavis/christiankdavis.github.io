@@ -27,7 +27,6 @@ function navHighlight(currentPage) {
 }
 
 
-//navHighlight('#navBar', 'index.html#main', 'current'); /* menu link selector, home page, highlight class */
 
 window.onload = fixBackgroundSize;
 window.onresize = fixBackgroundSize;
