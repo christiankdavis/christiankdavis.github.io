@@ -18,23 +18,37 @@ body {
     position: fixed;
     right: 10%;
     top: 10%;
+    white-space: nowrap;
+}
+
+#navBar:hover li{
+    padding: 15%;
+    border-radius: 60%;
 }
 
 #navBar li {
     padding: 10%;
     display: block;
-    background-color: #CFB53B;
     border-radius: 50%;
     text-align: center;
-    opacity: 0.5;
 }
 
 #navBar li:hover {
     opacity: 1.0;
 }
 
+#navBar li:active {
+    background-color: #CFB53B;
+}
+
+.notCurrent {
+    opacity: 0.5;
+    background-color: black;
+}
+
 .current {
     opacity: 1.0;
+    background-color: #CFB53B;
 }
 
 a {
@@ -56,6 +70,7 @@ a.active {
     position: absolute;
     width: 100%;
     z-index: -1;
+    overflow-y: hidden;
 }
 
 #title{

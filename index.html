@@ -6,7 +6,6 @@
 <head>
     <title>Christian KeShawn Davis</title>
     <meta charset="UTF-8"/>
-    <meta content = "width=device-width,initial-scale=1.0,user-scalable=yes,minimum-scale=3.0" id="viewport" name="viewport">
     <link rel="stylesheet" href="styles.css"/>
     <script src="scripts.js"></script>
 </head>
@@ -14,36 +13,39 @@
 
 <body>
 
-    <div class="navBar-wrapper">
-        <ul id="navBar">
-            <li><a href="#main">CKD</a></li>
-            <li><a href="#about">About me</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#more">Beyond the Projects</a></li>
-            <li><a href="#contact">Contact Me</a></li>
-        </ul>
-    </div>
+    <div id = "page-wrapper" onmousewheel ="myFunction('contact')">
+        <div class="navBar-wrapper">
+            <ul id="navBar">
+                <li class="current"><a href="#main" onclick="navHighlight('main')">CKD</a></li>
+                <li class="notCurrent"><a href="#about" onclick="navHighlight('about')">About me</a></li>
+                <li class="notCurrent"><a href="#projects" onclick="navHighlight('projects')">Projects</a></li>
+                <li class="notCurrent"><a href="#more" onclick="navHighlight('more')">Beyond</a></li>
+                <li class="notCurrent"><a href="#contact" onclick="navHighlight('contact')">Contact Me</a></li>
+            </ul>
+        </div>
 
-    <div class="section" id="main">
-        <img class="background_img" src="media/me2.JPG" alt="a picture of me"/>
-        <h1 id="title"><strong>Christian KeShawn Davis</strong></h1>
-        <img id="coming_soon" src="media/coming_soon.jpg" alt="coming soon banner"/>
-    </div>
+        <div class="section" id="main">
+            <img class="background_img" src="media/me2.JPG" alt="a picture of me"/>
+            <h1 id="title"><strong>Christian KeShawn Davis</strong></h1>
+            <img id="coming_soo" src="media/coming_soon.jp" alt="coming soon banner"/>
+        </div>
 
-    <div class="section" id="about">
-        <img class="background_img" src="media/chicago.jpg" alt="a picture of me"/>
-    </div>
+        <div class="section" id="about">
+            <img class="background_img" src="media/chicago.jpg" alt="a picture of Chicago"/>
+        </div>
 
-    <div class="section" id="projects">
-        <img class="background_img" src="media/puerto_rico.jpg" alt="a picture of me"/>
-    </div>
+        <div class="section" id="projects">
+            <img class="background_img" src="media/puerto_rico.jpg" alt="a picture of a street in San Juan"/>
+        </div>
 
-    <div class="section" id="more">
-        <img class="background_img" src="media/chicago.jpg" alt="a picture of me"/>
-    </div>
+        <div class="section" id="more">
+            <img class="background_img" src="media/stanny.jpg" alt="a picture of Stanford"/>
+        </div>
 
-    <div class="section" id="contact">
-        <p>But, if you want to return to top, <a href="#main">Click Here!</a></p>
-    </div>
+        <div class="section" id="contact">
+            <img class="background_img" src="media/me3.JPG" alt="a picture of me"/>
+            <p>But, if you want to return to top, <a href="#main">Click Here!</a></p>
+        </div>
 
+    </div>
 </body>
