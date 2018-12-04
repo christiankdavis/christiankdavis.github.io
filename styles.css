@@ -33,12 +33,12 @@ body {
     background-color: #CFB53B;
 }
 
-.notCurrent {
+.inactive {
     opacity: 0.5;
     background-color: black;
 }
 
-.current {
+.active {
     opacity: 1.0;
     background-color: #CFB53B;
 }
