@@ -15,7 +15,7 @@ body {
 
 #navBar:hover li{
     padding: 15%;
-    border-radius: 60%;
+    border-radius: 100%;
 }
 
 #navBar li {
@@ -65,7 +65,7 @@ a.active {
     overflow-y: hidden;
 }
 
-#title{
+#title {
     text-align: center;
     top: 25%;
     color: #CFB53B;
@@ -93,4 +93,12 @@ a.active {
     left: 30%;
     right: 30%;
     text-align: center;
+}
+
+#main_text {
+    position: absolute;
+    color:white;
+    bottom: 10%;
+    left: 10%;
+    right: 10%;
 }
