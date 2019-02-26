@@ -72,6 +72,10 @@ a.active {
     font-size: 222%;
 }
 
+#main_text {
+    text-align: center;
+}
+
 .info_slide {
     width: 40%;
     heigth: 100%;
