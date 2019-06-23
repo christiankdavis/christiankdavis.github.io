@@ -106,3 +106,7 @@ a.active {
     left: 10%;
     right: 10%;
 }
+
+.body_text {
+    font-size: 85%;
+}
