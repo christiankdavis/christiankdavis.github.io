@@ -1,111 +1,171 @@
-body {
-    background-color: #CFB53B;
-    margin: 0;
-    padding: 0;
+body, html {
+  padding: 0;
+  margin: 0;
+  background-color:rgb(250, 214, 206);
 }
 
-#navBar{
-    list-style-type: none;
-    position: fixed;
-    right: 5%;
-    top: 5%;
-    white-space: nowrap;
-    z-index: 1;
+div.wrapper {
+  font-family: 'Proxima Nova';
+  width: 900px;
 }
 
-#navBar:hover li{
-    padding: 15%;
-    border-radius: 100%;
+div.clearfix {
+  float: none;
+  clear: both;
 }
 
-#navBar li {
-    padding: 10%;
-    display: block;
-    border-radius: 50%;
-    text-align: center;
+div.back,
+div.forward,
+div.letter-wrapper {
+  float: left;
 }
 
-#navBar li:hover {
-    opacity: 1.0;
+div.back,
+div.forward {
+  width: 15%;
 }
 
-#navBar li:active {
-    background-color: #CFB53B;
+div.back p,
+div.forward p {
+  top: 30%;
+  position: relative;
+  margin: 0;
+  font-weight: 700;
+  cursor: pointer;
 }
 
-.inactive {
-    opacity: 0.5;
-    background-color: black;
+div.back p span,
+div.forward p span {
+  position: relative;
+  border-radius: 1em;
+  padding: .5em 1em;
+  margin-left: .5em;
+  margin-right: .5em;
 }
 
-.active {
-    opacity: 1.0;
-    background-color: #CFB53B;
+
+div.back p:hover span,
+div.forward p:hover span {
+  background-color: rgb(214, 183, 232);
 }
 
-a {
-    text-decoration: none;
+div.forward {
+  text-align: left;
 }
 
-a.active {
-    color: #cfb53b;
+div.back {
+  text-align: right;
 }
 
-.section {
-    height: 90vh; //change the percentage on this?
-    width: 100%;
-    overflow: hidden;
+div.letter-wrapper {
+  max-width: 630px;
+  width: 630px;
+  /*padding: 1em;*/
 }
 
-.background_img {
+.cursive {
+  font-family: 'Dancing Script';
+  font-size: 1.25em;
+}
+
+.letter {
+  display: none;
+  max-width: 100%;
+  border-radius: 1em;
+  position: relative;
+  padding: 1em 2em;
+  overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.letter:nth-of-type(odd) {
+  background-color: rgba(232, 133, 135, .5);
+}
+
+.letter:nth-of-type(even) {
+  background-color: rgba(214, 183, 232, .5);
+}
+
+.letter.active {
+  display: block;
+}
+
+.letter div {
+  width: 100%;
+}
+
+.letter .body,
+.letter .writer,
+.letter .cursive {
+  z-index: 5;
+}
+
+.body {
+  font-size: 1em;
+}
+
+.writer {
+  white-space: pre;
+  margin-top: .5em;
+  font-family: 'Dancing Script'
+}
+
+#englishwriter:before {
+  content: "Love always,\A";
+  /* font */
+}
+
+#frenchwriter:before {
+  content: "Toujours l'amour,\A"
+}
+
+#spanishwriter:before {
+  content: "Ama siempre,\A"
+}
+
+
+.heart {
     position: absolute;
-    width: 100%;
-    z-index: -1;
-    overflow-y: hidden;
-}
-
-#title {
-    text-align: center;
-    top: 25%;
-    color: #CFB53B;
-    font-size: 222%;
-}
-
-#main_text {
-    text-align: center;
-}
-
-.info_slide {
-    width: 40%;
-    heigth: 100%;
-    position: absolute;
+    width: 100px !important;
+    height: 90px;
     z-index: 0;
-    opacity: 0.7;
+    opacity: .4;
+    bottom: 10px;
+    right: 50px;
 }
-
-.left {
-    background-color: #faf8eb;
-}
-
-.right {
-    background-color: #faf8eb;
-    right: 0%;
-}
-
-.center {
-    left: 30%;
-    right: 30%;
-    text-align: center;
-}
-
-#main_text {
+.heart:before,
+.heart:after {
     position: absolute;
-    color:white;
-    bottom: 10%;
-    left: 10%;
-    right: 10%;
+    content: "";
+    left: 50px;
+    top: 0;
+    width: 50px;
+    height: 80px;
+    background: red;
+    -moz-border-radius: 50px 50px 0 0;
+    border-radius: 50px 50px 0 0;
+    -webkit-transform: rotate(-45deg) scale(2,2);
+       -moz-transform: rotate(-45deg) scale(2,2);
+        -ms-transform: rotate(-45deg) scale(2,2);
+         -o-transform: rotate(-45deg) scale(2,2);
+            transform: rotate(-45deg) scale(2,2);
+    -webkit-transform-origin: 0 100%;
+       -moz-transform-origin: 0 100%;
+        -ms-transform-origin: 0 100%;
+         -o-transform-origin: 0 100%;
+            transform-origin: 0 100%;
 }
-
-.body_text {
-    font-size: 85%;
+.heart:after {
+    left: 0;
+    -webkit-transform: rotate(45deg) scale(2,2);
+       -moz-transform: rotate(45deg) scale(2,2);
+        -ms-transform: rotate(45deg) scale(2,2);
+         -o-transform: rotate(45deg) scale(2,2);
+            transform: rotate(45deg) scale(2,2);
+    -webkit-transform-origin: 100% 100%;
+       -moz-transform-origin: 100% 100%;
+        -ms-transform-origin: 100% 100%;
+         -o-transform-origin: 100% 100%;
+            transform-origin :100% 100%;
 }
