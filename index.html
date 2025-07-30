@@ -1,438 +1,138 @@
-	<!DOCTYPE HTML>
-	<!--
-		Read Only by HTML5 UP
-		html5up.net | @n33co
-		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-	-->
-	<html>
-	<head>
-		<title>lineage</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-	<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christian KeShawn Davis - Coming Soon</title>
+  <style>
+    :root {
+      --bg-dark: #0f1624;
+      --card-light: #ffffff;
+      --gold: #CFB53B;
+      --text-light: #e5e9f0;
+      --text-dark: #0f1624;
+      --accent: #2b3a67;
+      --input-bg: #f5f5f5;
+      --btn-bg: var(--gold);
+      --btn-hover: #b2963b;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: var(--bg-dark);
+      overflow: hidden;
+      font-family: 'Poppins', sans-serif;
+      color: var(--text-light);
+    }
+    canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-		<!-- Wrapper -->
-		<div id="wrapper">
+    .card {
+      position: relative;
+      background: var(--card-light);
+      color: var(--text-dark);
+      padding: 3rem 2rem;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+      max-width: 380px;
+      width: 95%;
+      text-align: center;
+      z-index: 1;
+    }
 
-			<!-- Main -->
-			<div id="main">
+    .gear {
+      width: 48px;
+      height: 48px;
+      margin: 0 auto 1rem;
+      background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23CFB53B" d="M487.4 315.7l-42.8-24.7c2.5-16.6 2.5-33.7 0-50.3l42.8-24.7c7-4 9.6-13 5.6-19.8l-45.6-79c-4-6.8-13-9.6-19.8-5.6l-42.8 24.7c-13.2-11.2-28.1-20-44.1-26l-6.4-48c-1-7.5-7.2-13.2-14.8-13.2h-91.2c-7.6 0-13.8 5.7-14.8 13.2l-6.4 48c-16 6-30.9 14.8-44.1 26l-42.8-24.7c-6.8-4-15.7-1.2-19.8 5.6l-45.6 79c-4 6.8-1.2 15.8 5.6 19.8l42.8 24.7c-2.5 16.6-2.5 33.7 0 50.3l-42.8 24.7c-7 4-9.6 13-5.6 19.8l45.6 79c4 6.8 13 9.6 19.8 5.6l42.8-24.7c13.2 11.2 28.1 20 44.1 26l6.4 48c1 7.5 7.2 13.2 14.8 13.2h91.2c7.6 0 13.8-5.7 14.8-13.2l6.4-48c16-6 30.9-14.8 44.1-26l42.8 24.7c6.8 4 15.7 1.2 19.8-5.6l45.6-79c4-6.8 1.2-15.8-5.6-19.8zM256 336c-44.2 0-80-35.8-80-80s35.8-80 80-80 80 35.8 80 80-35.8 80-80 80z"/></svg>');
+      background-size: cover;
+      animation: rotate 8s linear infinite;
+    }
+    @keyframes rotate { to { transform: rotate(360deg); } }
 
-				<!-- Two -->
-				<section id="two">
-					<div class="container">
+    h1 { font-size: 1.8rem; letter-spacing: 1px; margin-bottom: 0.25rem; }
+    h2 { font-size: 0.9rem; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; }
+    p { font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.5; }
 
+    .info { list-style: none; margin-bottom: 1.5rem; text-align: left; padding: 0 1rem; }
+    .info li { display: flex; align-items: center; margin: 0.5rem 0; }
+    .info li span { width: 1.2rem; margin-right: 0.6rem; font-size: 1.2rem; color: var(--gold); }
 
-							<div id="popup4" class="overlay">
-								<div class="popup">
-								<div class="one-whole">
-									<h2 style="text-align: center;">Our Visionary Pearls</h2>
-									<p style="text-align: center;">Dedicated to the Pearls and their uncompromising vision:</p>
-									<p style="text-align: center;"><em>The Brothers of Kanem</em><br />
-										May, 27 1978<br />
-										Pearl Bruce Barker<br />
-										Pearl Loren Hunter<br />
-										Pearl Asbury Lockett<br />
-										Pearl Kirk Millet<br />
-										Pearl Michael Monmouth<br />
-										Pearl Leon Orr<br />
-										Pearl Webster Procter<br />
-										Dean of Pledges: Theodore R. Harris, Jr.</p>
+    form { display: flex; gap: 0.5rem; margin-bottom: 1rem; padding: 0 1rem; }
+    form input {
+      flex: 1;
+      padding: 0.6rem 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      background: var(--input-bg);
+    }
+    form button {
+      padding: 0.6rem 1rem;
+      background: var(--btn-bg);
+      color: var(--text-light);
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    form button:hover { background: var(--btn-hover); }
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 1978</h4>
-												<p style="text-align: center;">Timothy T. Brandon (SF State)<br />
-													Marc A. Dobson (SF State)<br />
-													James Duvall (SF State)<br />
-													Walter Lovely, Jr. (SF State)<br />
-													Lonnie S. Holmes (SF State)<br />
-													James G. Hunt (SF State)<br />
-													Marshall Titus (USC)<br />
-											</div>
+    .social { display: flex; justify-content: center; gap: 1rem; }
+    .social a { font-size: 1.2rem; color: var(--gold); transition: transform 0.2s; }
+    .social a:hover { transform: translateY(-3px); }
+  </style>
+</head>
+<body>
+  <canvas id="bg"></canvas>
+  <div class="card">
+    <div class="gear"></div>
+    <h1>Christian KeShawn Davis</h1>
+    <h2>Site Under Construction</h2>
+    <p>Stanford CS ’20 • Chicago → Brooklyn, NY<br>Advocating for equity in tech & education.</p>
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Winter 1979</h4>
-												<p style="text-align: center;">
-													Tony McDonald (SF State)<br />
-													Kevin Newsome (SF State)<br />
-													Victor Payne (SF State)
-												</p>
-											</div>
+    <ul class="info">
+      <li><span>🎓</span> B.S. Computer Science, Stanford ‘20</li>
+      <li><span>📍</span> Chicago native; now in Brooklyn</li>
+      <li><span>⚖️</span> Equity & education advocate</li>
+    </ul>
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1979</h4>
-												<p style="text-align: center;">Rafael Allen<br />
-													Ronald Hardrict<br />
-													Gregory Kelly<br />
-													Dennis Monmouth<br />
-													James Sommerville<br />
-													Michael Tanaka<br />
-													Furman Walls</p>
-											</div>
+    <!-- Formspree integration -->
+    <form action="https://formspree.io/f/mwpqqlon" method="POST">
+      <input type="email" name="email" placeholder="Your email" required />
+      <button type="submit">Notify Me</button>
+    </form>
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1982</h4>
-												<h4 style="text-align: center;"><em>Umoja: The Message is Unity</em></h4>
-												<p style="text-align: center;">Tony L. Nolen</p>
-											</div>
+    <div class="social">
+      <a href="https://twitter.com/" aria-label="Twitter" target="_blank" rel="noopener noreferrer">🐦</a>
+      <a href="https://github.com/" aria-label="GitHub" target="_blank" rel="noopener noreferrer">🐙</a>
+      <a href="https://www.linkedin.com/in/christiankdavis/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">💼</a>
+    </div>
+  </div>
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1983</h4>
-												<h4 style="text-align: center;"><em>Aethiop: Brothers of Tomorrow</em></h4>
-												<p style="text-align: center;">Michael A. Guthrie<br />
-													Joseph Q. Lynch<br />
-													David M. Porter, Jr.<br />
-													Gerald R. Shaw<br />
-													Dennis R. Thomas</p>
-											</div>
+  <script>
+    // Animated background dots
+    const canvas = document.getElementById('bg');
+    const ctx = canvas.getContext('2d');
+    let w, h;
+    function resize() { w = canvas.width = innerWidth; h = canvas.height = innerHeight; }
+    window.onresize = resize; resize();
+    const dots = Array.from({ length: 80 }).map(() => ({ x: Math.random()*w, y: Math.random()*h, r: Math.random()*2+1, vx: (Math.random()-0.5)*0.3, vy: (Math.random()-0.5)*0.3 }));
+    function draw() {
+      ctx.clearRect(0,0,w,h);
+      dots.forEach(d => {
+        d.x += d.vx; d.y += d.vy;
+        if (d.x<0||d.x>w) d.vx *= -1;
+        if (d.y<0||d.y>h) d.vy *= -1;
+        ctx.beginPath(); ctx.arc(d.x, d.y, d.r, 0, Math.PI*2);
+        ctx.fillStyle = 'rgba(207,181,59,0.5)'; ctx.fill();
+      });
+      requestAnimationFrame(draw);
+    }
+    draw();
+  </script>
+</body>
+</html>
 
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1984</h4>
-												<h4 style="text-align: center;"><em>Manding: Guardians of Secrecy and the Unspoken Word</em></h4>
-												<p style="text-align: center;">
-												Kenneth C. Christmas, Jr.<br />
-													David A. Fleming<br />
-													Stephen E. Randall<br />
-													Craig D. Spearman<br />
-													James H. Woodard</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1985</h4>
-												<h4 style="text-align: center;"><em>Askari Ya Mawe: Guardians of the Jewels</em></h4>
-												<p style="text-align: center;">
-													William R. Pate<br />
-													Dean E. Robinson<br />
-													Walter H. Thomas, Jr.</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1986</h4>
-												<h4 style="text-align: center;"><em>Ulimi Wa Moto: Keepers of the Flame</em></h4>
-												<p style="text-align: center;">Ramon S. Chapa<br />
-													Robin M. Dennings<br />
-													Mark C. Garner<br />
-													Charles R. Givens<br />
-													Nathan B. Hill<br />
-													Byron K. Strother</p>
-											</div>
-											
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1987</h4>
-												<h4 style="text-align: center;"><em>Kuendesha Kwa Urithi: Continuation ofthe Legacy</em></h4>
-												<p style="text-align: center;">
-													Destafino Bracy<br />
-													Riico Dotson<br />
-													Matthew L. McLeod</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1988</h4>
-												<h4 style="text-align: center;"><em>Kuto Kanana Msingi Imara: Preceding From a Strong Foundation</em></h4>
-												<p style="text-align: center;">
-													Magnus G. Christon<br />
-													Brian R. Booker</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 1988</h4>
-												<h4 style="text-align: center;"><em>Mwanso Ni Eusi Na Mwisho Ni Zahabu:<br />
-													In the Beginning is Black, In the End it is Gold</em></h4>
-													<p style="text-align: center;">Jethro A. Townsend<br />
-														Darrell B. Bridgers<br />
-														N. Duru Ahanotu<br />
-														Sande O. Okelo<br />
-														Carter M. Stewart<br />
-														Robert V. Joseph<br />
-														Oliver K. Cunningham</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1989</h4>
-												<h4 style="text-align: center;"><em>Kalibu Mpya, Umaji Mpya: New Crucible, New Creation</em></h4>
-												<p style="text-align: center;">Lawrence D. Gilliam<br />
-													Barry A. Terrence<br />
-													Zerrick A. Bynum<br />
-													Damien Atkins<br />
-													Ronald A. Worthy<br />
-													Jervey F. Tucker<br />
-													D. Frederick Sparks</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1990</h4>
-												<h4 style="text-align: center;"><em>Fujo Yamalizika Gizani: Chaos Ends In Darkness<br />
-												</em></h4>
-												<p style="text-align: center;">John O. Hampton, Jr.<br />
-													Andre-Jean S. Lundkvist<br />
-													Ron E. James<br />
-													Christophe D. Mosby</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1991</h4>
-												<h4 style="text-align: center;"><em>Vivuli Vyetu Viniajionyesha Kwa MuanganzaWa Zahabu:<br />
-													Our Shadows Are Revealed By the Golden Light</em></h4>
-													<p style="text-align: center;">N&#8217;Gai W. K. Croal<br />
-														Jeffery L. Warfield<br />
-														Qasim S. Jami<br />
-														Richard C. Green<br />
-														Gary A. Ganzie (San Jose Alumni Chapter Eta Sigma Lambda)<br />
-														James T. Jordan<br />
-														Anthony S. Clark<br />
-														Robert C. Ernest, III<br />
-														Ronald P. Berry, Jr.<br />
-														Carl B. Hampton<br />
-														William C. Martin<br />
-														Derrick A. Richardson</p>
-														<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1992</h4>
-												<h4 style="text-align: center;"><em>Elimu Haena Mwisho: Knowledge Has No End<br />
-												</em></h4>
-												<p style="text-align: center;">George T. Perry, Jr.<br />
-													Christopher E. Donald<br />
-													Kevin M. Harrington</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1993</h4>
-												<h4 style="text-align: center;"><em>Ueweve Luleta Mwangaza: Enlightenment Casts No Shadow<br />
-												</em></h4>
-												<p style="text-align: center;">L. Reed Kennedy<br />
-													Alonzo T. Sexton<br />
-													Andrew R. Robinson<br />
-													Michael S. Smith</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 1994</h4>
-												<h4 style="text-align: center;"><em>Tokana Nanyi Wawili Tutastawi Sana: From Two Shall Come Many<br />
-												</em></h4>
-												<p style="text-align: center;">Johnathon E. Briggs<br />
-													Tracy A. Pruitt</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1996</h4>
-												<h4 style="text-align: center;"><em>Kuunda Njia Ya Ufanisi: Forging A Path of Excellence<br />
-												</em></h4>
-												<p style="text-align: center;">Phillip A. Cooper, Jr.<br />
-													Anthony R. Bookman<br />
-													Charles E. Young II<br />
-													Kadar A. Hamilton<br />
-													William I. Copeland<br />
-													Kwame N. Cain</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 1997</h4>
-												<h4 style="text-align: center;"><em>Hishima: Respect<br />
-												</em></h4>
-												<p style="text-align: center;">Sharcus Steen<br />
-													Roscoe Jones, Jr.</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1998</h4>
-												<h4 style="text-align: center;"><em>A Warrior in Jewels<br />
-												</em></h4>
-												<p style="text-align: center;">R. Tyson Clark</p>
-												<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 1999</h4>
-												<h4 style="text-align: center;"><em>Wanafunzi Wa Kweli: Disciples of Truth<br />
-												</em></h4>
-												<p style="text-align: center;">Kevin M. Pleasant<br />
-													Sean J. Mc Intosh<br />
-													Edjah K. Nduom<br />
-													Jamal R. Watkins<br />
-													Olatunde M. Sobomehin<br />
-													Wayne A. Moore, Jr.</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2001</h4>
-												<h4 style="text-align: center;"><em>Through Diversity Shines the Golden Light<br />
-												</em></h4>
-												<p style="text-align: center;">Kevin M. Dious<br />
-													Robert M. A. Dukes<br />
-													Rahshiene I. Taha<br />
-													Brian D. Mariner<br />
-													Bob W. Bell<br />
-													Ibrahim A. Idakoji<br />
-													David X. Lytle<br />
-													Kiazi K. Malonga<br />
-													Oladele P. Sobomehin<br />
-													Marcus A. Williams</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 2003</h4>
-												<h4 style="text-align: center;"><em>Pingamizi za Taabu Haziwezi Kuangamiza ile iliyofufuka na Mwanga:<br />
-													Adversity Cannot Destroy What The Light Has Resurrected<br />
-												</em></h4>
-												<p style="text-align: center;">Adrian B. Boscolo-Hightower<br />
-													Ajani B. Husbands<br />
-													Michael L. Brown, II<br />
-													Miklos A. Raibon<br />
-													Phillip J. Arowosegbe<br />
-													Gerard A. Johnson<br />
-													Abayomi A. Fashoro</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2004</h4>
-												<h4 style="text-align: center;"><em>Mwangaza Wa Dhahabu Unatenganisha Wenye Nguvu Na Wanyonge:<br />
-													The Golden Light Separates The Strong From The Weak<br />
-												</em></h4>
-												<p style="text-align: center;">Ochuko E. Metitiri<br />
-													Justin D. Turner<br />
-													Chris D. Cowan</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2005</h4>
-												<h4 style="text-align: center;"><em>Kuendesha Kwa Urithi: Continuing The Legacy<br />
-												</em></h4>
-												<p style="text-align: center;">Marcus A. McLaughlin<br />
-													Xuan C. Smith<br />
-													Chika O. Okafor<br />
-													Baudelio Gutierrez, Jr.</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2006</h4>
-												<h4 style="text-align: center;"><em>Ndugu Saba  Wenye Azma Isiyopungua Waibuka Kutoka Gizani:<br />
-													Out of the Darkness Emerge Seven Brothers of Unrelenting Determination<br />
-												</em></h4>
-												<p style="text-align: center;">Justin C. Key<br />
-													Jared T. Murphy<br />
-													Obinna C. Emenike<br />
-													Ryan C. Boles<br />
-													John C. Dryden<br />
-													Robert J. Watkins<br />
-													Warren M.C. King</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2007</h4>
-												<h4 style="text-align: center;"><em>Biddi Inashinda Kipingamizi Chatabu: Determination Triumphs Over Adversity<br />
-												</em></h4>
-												<p style="text-align: center;">Austin J. Henderson<br />
-													Demetric R. Sanders<br />
-													Olaremi S. Sobomehin</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2008</h4>
-												<h4 style="text-align: center;"><em>Walijuliwa Kwa Wengi, Walitetawa Kwa Haba, Walisaniwa Pamoja: Known By Many, Challenged by Few, Forged As One. <br />
-												</em></h4>
-												<p style="text-align: center;">Andrew Rosenwald Levette, III<br />
-													Emmanuel Ahanuwa Igbinosa<br />
-													Rance Gary Dubois Graham-Bailey</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 2009</h4>
-												<h4 style="text-align: center;"><em>Hudhihirisha Ya Dhahabu Kuzaliwa Upya Katika Uso Wa Machafuko: Chaos Ushers in the Golden Rebirth<br />
-												</em></h4>
-												<p style="text-align: center;">Adetaye Lloyd Joseph Adeseye<br />
-													Elijah Joseph Frazier<br />
-													Cameron Eugene Henry<br />
-													Matthew Antonio Ashton<br />
-													William Dion Wagstaff Jr.<br />
-													Julian John Frederick Kelly</p>
-													<p style="text-align: center;">
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 2011</h4>
-												<h4 style="text-align: center;"><em>Nne Ndugu Mwaminifu Shinda Majaribio Ya Muda: Four Loyal Brothers Transcend the Trials of Time</em></h4>
-												<p style="text-align: center;">Garry Scott Mitchell Jr.<br />
-													James Douglas Haddon<br />
-													Matthew Christopher Malone<br />
-													Charles Chanda Mukanga Mwalimu</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2013</h4>
-												<h4 style="text-align: center;"><em>Nguvu Na Umoja, Kusonga Mbele Kwa Imani: Strengthened by Unity, Moving Forward by Faith</em></h4>
-												<p style="text-align: center;">Remound W. Wright III<br />
-													Oluwatosin A. M. B. Sonuyi<br />
-													Dyvon T. Walker<br />
-													Wade G. Morgan<br />
-													Brandon M. Hightower<br />
-													</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Spring 2015</h4>
-												<h4 style="text-align: center;"><em>Mashujaa Watatu Kuungana na Kugundua Nija Dha: Three Warriors Unite to Discover the Golden Road to Victory</em></h4>
-												<p style="text-align: center;">Bryant E. Johnson<br />
-													Vander D. Harris<br />
-													Kevin D. Tynes, Jr.<br />
-												</p>
-											</div>
-
-											<div class="one-fourth">
-												<h4 style="text-align: center;">Fall 2015</h4>
-												<h4 style="text-align: center;"><em>Mwanga Kuongoza Katika Roho Na Huruma: The Enlightened Lead with Spirit and Compassion</em></h4>
-												<p style="text-align: center;">Benjamin W. Williams<br />
-													Aaron C. Barron<br />
-												</p>
-											</div>
-
-                       <div class="one-fourth">
-                        <h4 style="text-align: center;">Spring 2018</h4>
-                        <h4 style="text-align: center;"><em>Waangalizi Waaminifu wa Urithi wa Thamani: Loyal Caretakers of the Golden Legacy</em></h4>
-                        <p style="text-align: center;">Christopher CJ Turner<br />
-                          Christian KeShawn Davis<br />
-                          Chase S. Davis<br />
-                          Sheck B. Mulbah<br />
-                        </p>
-                      </div>
-								</div>
-								</div>
-							</div>
-									</ul>
-								</div>
-							</section>
-						
-
-						</div>
-
-					</div>
-
-					<!-- Scripts -->
-					<script src="assets/js/jquery.min.js"></script>
-					<script src="assets/js/jquery.scrollzer.min.js"></script>
-					<script src="assets/js/jquery.scrolly.min.js"></script>
-					<script src="assets/js/skel.min.js"></script>
-					<script src="assets/js/util.js"></script>
-					<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-					<script src="assets/js/main.js"></script>
-
-				</body>
-				</html>
