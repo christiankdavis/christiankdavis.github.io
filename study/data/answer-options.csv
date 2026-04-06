@@ -759,3 +759,43 @@ id,question_id,option_text,is_correct
 758,190,safeguard patient confidentiality.,FALSE
 759,190,report child abuse.,TRUE
 760,190,All of these are required by HIPAA.,FALSE
+761,191,Albuterol,FALSE
+762,191,Aspirin,TRUE
+763,191,Oxygen,FALSE
+764,191,Nitroglycerin,FALSE
+765,192,side effect of nitroglycerin.,TRUE
+766,192,anaphylactic reaction to nitroglycerin.,FALSE
+767,192,untoward reaction to nitroglycerin.,FALSE
+768,192,allergic reaction to nitroglycerin.,FALSE
+769,193,Lower the head of the stretcher and take the patient's blood pressure.,TRUE
+770,193,Advise the patient that this is a normal occurrence and administer a second dose of nitroglycerin.,FALSE
+771,193,Administer activated charcoal to prevent further absorption of the nitroglycerin and closely monitor the patient's blood pressure.,FALSE
+772,193,Increase the amount of oxygen you are giving to the patient before administering a second dose of nitroglycerin.,FALSE
+773,194,"Right patient, right medication, in date, right dose, right route",FALSE
+774,194,"Right patient, right medication, right time, right dose, right route",TRUE
+775,194,"Right decision, right medication, right order, right dose, right place",FALSE
+776,194,"In date, right medication, right order, right dose, right time",FALSE
+777,195,Chronic obstructive pulmonary disease,FALSE
+778,195,Drug overdose,FALSE
+779,195,Chest pain,FALSE
+780,195,"Severe allergies to peanut butter, shellfish, penicillin, or bee stings",TRUE
+781,196,typically only performed in the prehospital environment.,FALSE
+782,196,given in the field only with respect to blood transfusions.,FALSE
+783,196,beyond the scope of the EMT level.,TRUE
+784,196,used in advanced life support only when the patient is intubated.,FALSE
+785,197,to administer aspirin to the patient.,TRUE
+786,197,to administer both aspirin and nitroglycerin to the patient.,FALSE
+787,197,to administer nitroglycerin to the patient.,FALSE
+788,197,no orders.,FALSE
+789,198,take out and inspect the fluid bag.,TRUE
+790,198,select the proper administration set.,FALSE
+791,198,make sure the flow regulator is closed.,FALSE
+792,198,connect the extension set to the administration set.,FALSE
+793,199,"An EMT must know the sources, characteristics, and effects of each medication that the physician may prescribe.",FALSE
+794,199,"As an EMT, you will be trusted to administer medications in emergency situations; many of these may be lifesaving, but there is potential to do harm.",TRUE
+795,199,"As an EMT, you will be trusted to administer medications in emergency situations, although many of these may do nothing but give the patient false hope.",FALSE
+796,199,"An EMT must know the manufacturer, sources, characteristics, and effects of every medication that the patient may use.",FALSE
+797,200,contraindication.,FALSE
+798,200,indication.,FALSE
+799,200,side effect.,TRUE
+800,200,untoward effect.,FALSE
