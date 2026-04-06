@@ -78,7 +78,7 @@ id,question_id,option_text,is_correct
 77,20,"Warm dry skin, difficulty breathing, and hypertension",FALSE
 78,20,Irreversible shock caused by the lack of blood flowing to the vital organs like the brain and heart,FALSE
 79,20,Disease process that robs the patient of adequate breathing and perfusion,FALSE
-80,20,Cyanosis (blue or gray skin) and deterioration of the patient's mental status,FALSE
+80,20,Cyanosis (blue or gray skin) and deterioration of the patient's mental status,TRUE
 81,21,"The patient's body was pushed forcefully out from under her head, causing injury to the cervical spine.",TRUE
 82,21,"The patient impacted the steering wheel with her chest, causing a fracture of the sternum.",FALSE
 83,21,"The patient took the down-and-under pathway, causing trauma to her lower extremities.",FALSE
@@ -359,3 +359,83 @@ id,question_id,option_text,is_correct
 358,90,"Tell the patient the mask is for his benefit, and you will restrain him if necessary to place it on him.",FALSE
 359,90,Document that the patient was uncooperative and refused oxygen.,FALSE
 360,90,"Explain the importance of oxygen, and ask the patient to at least try to leave the mask on, but assure him that if he can't tolerate it, you can try another method.",TRUE
+361,91,Decrease in blood pressure,FALSE
+362,91,Decreased perfusion of tissues,FALSE
+363,91,Dilation of coronary arteries,FALSE
+364,91,Constriction of blood vessels,TRUE
+365,92,Chemical name of the medication,FALSE
+366,92,Expiration date of the medication,FALSE
+367,92,Patient's response to the medication,TRUE
+368,92,All of these,FALSE
+369,93,indication.,FALSE
+370,93,untoward effect.,FALSE
+371,93,side effect.,TRUE
+372,93,contraindication.,FALSE
+373,94,"Aspirin, oral glucose, oxygen, prescribed bronchodilator inhalers, nitroglycerin, epinephrine auto-injectors, and naloxone",TRUE
+374,94,"Any over-the-counter medication, oral glucose, and oxygen",FALSE
+375,94,"Aspirin, acetaminophen, oral glucose, insulin, prescribed bronchodilator inhalers, nitroglycerin, and epinephrine auto-injectors",FALSE
+376,94,"Prescribed bronchodilator inhalers, prescribed nitroglycerin, and prescribed epinephrine auto-injectors",FALSE
+377,95,It prevents a deadly fever from developing.,FALSE
+378,95,It reduces the inflammation in the heart.,FALSE
+379,95,It reduces the amount of pain in the heart.,FALSE
+380,95,It reduces the ability of the blood to form clots.,TRUE
+381,96,Off-line,TRUE
+382,96,On-line,FALSE
+383,96,Verbal,FALSE
+384,96,Written,FALSE
+385,97,"It constricts the blood vessels, forcing the toxic lactic acid out of the heart.",FALSE
+386,97,"It dilates the blood vessels, allowing more blood flow to wash away the toxic lactic acid.",FALSE
+387,97,"It dilates the blood vessels, allowing more blood to enter the heart muscle.",TRUE
+388,97,"It constricts the blood vessels, forcing more blood into the heart muscle.",FALSE
+389,98,Epinephrine,FALSE
+390,98,Nitrostat,TRUE
+391,98,4 dihydroxyphenyl acetate,FALSE
+392,98,Oxygen,FALSE
+393,99,used in advanced life support only when the patient is intubated.,FALSE
+394,99,typically only performed in the prehospital environment.,FALSE
+395,99,beyond the scope of the EMT level.,TRUE
+396,99,given in the field only with respect to blood transfusions.,FALSE
+397,100,sublingual,TRUE
+398,100,parenteral,FALSE
+399,100,oral,FALSE
+400,100,enteral,FALSE
+401,101,auscultate for breath sounds.,FALSE
+402,101,check for appropriate chest rise.,FALSE
+403,101,"say ""hello.""",TRUE
+404,101,determine the respiratory rate.,FALSE
+405,102,Regular chest movements,FALSE
+406,102,Equal expansion of both sides of the chest on inhalation,FALSE
+407,102,Nasal flaring,TRUE
+408,102,Movement of air around the mouth and nose,FALSE
+409,103,Loss of muscle tone and airway collapse,TRUE
+410,103,Bronchospasms,FALSE
+411,103,Hyperoxia,FALSE
+412,103,Depressed alveolar function,FALSE
+413,104,carina,TRUE
+414,104,alveoli,FALSE
+415,104,bronchioles,FALSE
+416,104,glottic opening,FALSE
+417,105,Bronchi,TRUE
+418,105,Pharynx,FALSE
+419,105,Uvula,FALSE
+420,105,Tonsils,FALSE
+421,106,It eliminates the need for manual positioning of the patient's head to keep the airway open.,FALSE
+422,106,It is ideal for patients with a suspected skull fracture.,FALSE
+423,106,It may be tolerated by many patients with a gag reflex.,TRUE
+424,106,All of these,FALSE
+425,107,burns.,FALSE
+426,107,the tongue.,TRUE
+427,107,facial trauma.,FALSE
+428,107,infections.,FALSE
+429,108,gurgling.,FALSE
+430,108,snoring.,FALSE
+431,108,stridor.,TRUE
+432,108,hoarseness.,FALSE
+433,109,The tongue is not as likely to obstruct the airway as in an adult.,FALSE
+434,109,Gastric distention is unlikely.,FALSE
+435,109,"Due to their short necks, pediatric patients require a greater degree of hyperextension to open the airway than do adults.",FALSE
+436,109,The trachea is easily obstructed by swelling.,TRUE
+437,110,Using a 14 French suction catheter,FALSE
+438,110,Irrigating the mouth with sterile water to dilute the material before suctioning,FALSE
+439,110,Using large bore suction tubing without a tip or catheter attached,TRUE
+440,110,Using a rigid pharyngeal suction tip,FALSE
