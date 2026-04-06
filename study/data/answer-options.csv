@@ -1,0 +1,361 @@
+id,question_id,option_text,is_correct
+1,1,"If a water-soluble lubricant is not available, a silicon spray can be substituted.",FALSE
+2,1,It can only be placed in the right nostril.,FALSE
+3,1,The length of the device is not as important as it is with oropharyngeal airways.,FALSE
+4,1,The bevel should be turned toward the nasal septum or the base of the nostril.,TRUE
+5,2,Insert the catheter or tip to the desired depth prior to applying suction.,TRUE
+6,2,Begin suctioning as you insert the suction tip or catheter into the mouth.,FALSE
+7,2,"Suction continuously, both while inserting and withdrawing the suction tip or catheter.",FALSE
+8,2,"Suction intermittently, both while inserting and withdrawing the suction tip or catheter.",FALSE
+9,3,45,FALSE
+10,3,90,FALSE
+11,3,270,FALSE
+12,3,180,TRUE
+13,4,Stridor,FALSE
+14,4,Gurgling,FALSE
+15,4,Hoarseness,FALSE
+16,4,Snoring,TRUE
+17,5,perform chest thrusts.,FALSE
+18,5,ease the head forward a little.,TRUE
+19,5,finger sweep the airway.,FALSE
+20,5,tilt the head back further.,FALSE
+21,6,300; 30,FALSE
+22,6,300; 330,FALSE
+23,6,30; 30,FALSE
+24,6,30;300,TRUE
+25,7,gurgling.,FALSE
+26,7,snoring.,FALSE
+27,7,stridor.,TRUE
+28,7,hoarseness.,FALSE
+29,8,45,FALSE
+30,8,60,FALSE
+31,8,30,FALSE
+32,8,10,TRUE
+33,9,It eliminates the need for manual positioning of the patient's head to keep the airway open.,FALSE
+34,9,It is ideal for patients with a suspected skull fracture.,FALSE
+35,9,It may be tolerated by many patients with a gag reflex.,TRUE
+36,9,All of these,FALSE
+37,10,They cannot be used in a patient with a gag reflex.,TRUE
+38,10,They require the use of a water-soluble lubricant.,FALSE
+39,10,They cannot be used in patients with a suspected skull fracture.,FALSE
+40,10,They do not come in pediatric sizes.,FALSE
+41,11,regulator,FALSE
+42,11,partial rebreather mask,TRUE
+43,11,nasal cannula,FALSE
+44,11,tracheostomy mask,FALSE
+45,12,The rate does not decrease minute volume; it actually increases it.,FALSE
+46,12,The rate causes turbulence in the trachea that increases the friction and decreases the amount of air movement.,FALSE
+47,12,The lungs may not have adequate time to fill and exchange gas.,TRUE
+48,12,It is due to the delay in the movement of the intercostal muscles and the pleural space.,FALSE
+49,13,hyperventilation.,FALSE
+50,13,oxygenation.,FALSE
+51,13,internal respiration.,TRUE
+52,13,external respiration.,FALSE
+53,14,2,FALSE
+54,14,6,TRUE
+55,14,8,FALSE
+56,14,4,FALSE
+57,15,A patient with upper airway inflammation,FALSE
+58,15,A patient with chronic bronchitis,FALSE
+59,15,A patient with quadriplegia,FALSE
+60,15,A patient with a stoma,TRUE
+61,16,"When continuation of a respiratory challenge causes the systems to fail, the pupils to dilate, and the skin to become hot and dry due to the demand for oxygen.",FALSE
+62,16,When a compensatory mechanism is no longer needed and the patient goes into respiratory arrest.,FALSE
+63,16,"When continuation of a respiratory challenge results in the systems being unable to keep up with the demand, and the skin color and mental status change.",TRUE
+64,16,When a patient who is short of breath presents in the tripod position with noisy respirations that suddenly clear up and return to normal.,FALSE
+65,17,internal respiration.,FALSE
+66,17,diffusion.,FALSE
+67,17,pulmonary respiration.,TRUE
+68,17,cellular respiration.,FALSE
+69,18,cardiac arrest is imminent.,FALSE
+70,18,the gag reflex is returning.,FALSE
+71,18,air is escaping through a hole in the lung and filling the pleural space.,TRUE
+72,18,the patient is becoming more alert and is breathing independently.,FALSE
+73,19,"1,000",FALSE
+74,19,200,TRUE
+75,19,500,FALSE
+76,19,300,FALSE
+77,20,"Warm dry skin, difficulty breathing, and hypertension",FALSE
+78,20,Irreversible shock caused by the lack of blood flowing to the vital organs like the brain and heart,FALSE
+79,20,Disease process that robs the patient of adequate breathing and perfusion,FALSE
+80,20,Cyanosis (blue or gray skin) and deterioration of the patient's mental status,FALSE
+81,21,"The patient's body was pushed forcefully out from under her head, causing injury to the cervical spine.",TRUE
+82,21,"The patient impacted the steering wheel with her chest, causing a fracture of the sternum.",FALSE
+83,21,"The patient took the down-and-under pathway, causing trauma to her lower extremities.",FALSE
+84,21,"The patient took the up-and-over pathway, striking her head on the windshield.",FALSE
+85,22,A news media helicopter hovering overhead at the scene of a vehicle collision.,FALSE
+86,22,The sound of a barking and growling dog upon approaching the door to a residence.,TRUE
+87,22,A vehicle collision involving a tractor-trailer that appears to be empty.,FALSE
+88,22,A bystander who is smoking a cigarette at the scene of an assault at a local park.,FALSE
+89,23,The need for additional resources must be determined on both medical and trauma calls.,TRUE
+90,23,Determining the number of patients is not important on a medical call.,FALSE
+91,23,Scene size-up does not play a role in determining the nature of the illness.,FALSE
+92,23,Information from bystanders is not important on trauma calls.,FALSE
+93,24,Gloves and gown only are needed.,FALSE
+94,24,"Gloves, gown, and face mask with eye shield are needed.",TRUE
+95,24,There is no need for Standard Precautions because you have no open injuries.,FALSE
+96,24,"Gloves, gown, eye protection, and an N-95 or HEPA respirator are needed.",FALSE
+97,25,a trauma center.,TRUE
+98,25,the closest hospital.,FALSE
+99,25,an urgent care center.,FALSE
+100,25,a neurosurgery center.,FALSE
+101,26,A 300-pound woman complaining of back pain,FALSE
+102,26,A call for a sick person at home during which an odor of natural gas is detected,FALSE
+103,26,A patient with emphysema who is on oxygen therapy at home,TRUE
+104,26,A call to a manufacturing plant where a worker has his hand caught in a machine,FALSE
+105,27,The large crowd that has been drinking and is now yelling at you,TRUE
+106,27,The fact that the patient has been moved from where she was found,FALSE
+107,27,The crowd stating the patient is not breathing,FALSE
+108,27,All of these,FALSE
+109,28,borrowing turnout gear from the fire department.,FALSE
+110,28,putting your unit back in service and leaving the scene.,FALSE
+111,28,using your fire extinguisher to put out the fire.,FALSE
+112,28,remaining a safe distance from the car until the fire is out.,TRUE
+113,29,park about 50 feet from the truck.,FALSE
+114,29,consult the Emergency Response Guidebook.,TRUE
+115,29,park downwind from the tanker truck.,FALSE
+116,29,remove the bystanders from the scene.,FALSE
+117,30,Second law of motion,FALSE
+118,30,Newton's law of moving energy,FALSE
+119,30,Law of inertia,TRUE
+120,30,Law of kinetic energy,FALSE
+121,31,Reason why the patient summoned EMS,TRUE
+122,31,Events immediately preceding the call for EMS,FALSE
+123,31,Overall impression of the patient's condition,FALSE
+124,31,All of these,FALSE
+125,32,The normal pulse rate is slower.,FALSE
+126,32,Capillary refill is not as reliable an indicator of circulatory status.,FALSE
+127,32,The normal respiratory rate is faster.,TRUE
+128,32,An adult's tongue is proportionally larger than that of a child and should always be considered as a potential airway obstruction.,FALSE
+129,33,Systematic approach to assessment,TRUE
+130,33,Obtaining a detailed medical history,FALSE
+131,33,Thorough scene size-up,FALSE
+132,33,Use of intuition,FALSE
+133,34,Scene size-up,FALSE
+134,34,General impression,TRUE
+135,34,Primary assessment,FALSE
+136,34,Secondary assessment,FALSE
+137,35,expose his chest.,FALSE
+138,35,ask him if he is okay.,TRUE
+139,35,feel for a pulse.,FALSE
+140,35,open his airway.,FALSE
+141,36,abdominal pain.,FALSE
+142,36,allergic reaction.,FALSE
+143,36,chest discomfort.,FALSE
+144,36,respiratory distress.,TRUE
+145,37,To find all of the patient's signs and symptoms,FALSE
+146,37,To detect and treat immediately life-threatening problems,TRUE
+147,37,To discover trends of improvement or deterioration in the patient's condition,FALSE
+148,37,To detect dangers to the patient and/or EMS crew,FALSE
+149,38,apply oxygen.,FALSE
+150,38,ask him to calm down.,FALSE
+151,38,control the bleeding.,TRUE
+152,38,assess his airway.,FALSE
+153,39,"General impression, mental status, airway, breathing, circulation, patient priority",TRUE
+154,39,"Mental status, general impression, airway, breathing, circulation, patient priority",FALSE
+155,39,"Patient priority, general impression, mental status, airway, breathing, circulation",FALSE
+156,39,None of these,FALSE
+157,40,3-year-old child with a fever and cough,TRUE
+158,40,50-year-old woman complaining of chest pain,FALSE
+159,40,24-year-old homeless man who has spent the night outside in the rain,FALSE
+160,40,92-year-old man complaining of weakness on his right side,FALSE
+161,41,"Color, equality, and reactivity",FALSE
+162,41,"Reactivity, gaze, and equality",FALSE
+163,41,"Movement, gaze, and equality",FALSE
+164,41,"Size, equality, and reactivity",TRUE
+165,42,Insert an airway adjunct.,FALSE
+166,42,Quickly check the pulse.,FALSE
+167,42,Suction the airway.,TRUE
+168,42,Open the airway with a head tilt.,FALSE
+169,43,91 percent,FALSE
+170,43,102 percent,FALSE
+171,43,95 percent,FALSE
+172,43,98 percent,TRUE
+173,44,warm the patient's hands and try again.,TRUE
+174,44,try a different pulse oximeter.,FALSE
+175,44,place the probe on the patient's earlobe.,FALSE
+176,44,place the probe on the patient's toe.,FALSE
+177,45,Millimeters of mercury,TRUE
+178,45,Beats per minute,FALSE
+179,45,Milligrams per deciliter,FALSE
+180,45,Atmospheric pressure,FALSE
+181,46,diastolic blood pressure.,FALSE
+182,46,systolic blood pressure.,TRUE
+183,46,central venous pressure.,FALSE
+184,46,pulse pressure.,FALSE
+185,47,complete,FALSE
+186,47,repeated,FALSE
+187,47,accurate,TRUE
+188,47,unbiased,FALSE
+189,48,only if the pulse rate changes.,FALSE
+190,48,at least every 15 minutes.,FALSE
+191,48,only if the patient gets worse.,FALSE
+192,48,at least every 5 minutes.,TRUE
+193,49,Noisy breathing,FALSE
+194,49,Shallow breathing,TRUE
+195,49,Labored breathing,FALSE
+196,49,Normal breathing,FALSE
+197,50,30 mmHg beyond the point where the pulse disappears,TRUE
+198,50,Until the Velcro starts to crackle,FALSE
+199,50,Until the gauge reads 200 mmHg,FALSE
+200,50,Until the patient says it hurts,FALSE
+201,51,Worst-case scenarios,FALSE
+202,51,Differentials,FALSE
+203,51,Red flags,TRUE
+204,51,All of these,FALSE
+205,52,Orthopnea,FALSE
+206,52,Crepitation,TRUE
+207,52,Rhonchi,FALSE
+208,52,Edema,FALSE
+209,53,Pulse and respiratory rate,FALSE
+210,53,"Patient's ability to know person, place, time, and purpose",TRUE
+211,53,List of allergies,FALSE
+212,53,Last oral intake,FALSE
+213,54,It allows you to treat the patient during diagnosis.,FALSE
+214,54,It slows the process of diagnosis.,FALSE
+215,54,It provides a more accurate diagnosis.,FALSE
+216,54,It speeds up the process of diagnosis.,TRUE
+217,55,Constantly reassess the patient to make sure you are correct.,FALSE
+218,55,"Ask your partner her opinion; if she also agrees that it is asthma, the diagnosis is correct.",FALSE
+219,55,Think of all possible causes of respiratory distress and rule them in or out as potential diagnoses based on your clinical findings.,TRUE
+220,55,Keep your EMT textbook with you on the ambulance and review it to confirm your diagnosis.,FALSE
+221,56,The EMT must rule in or out the most serious conditions associated with the patient's presentation.,TRUE
+222,56,The EMT must perform a patient assessment to begin the process of forming a diagnosis.,FALSE
+223,56,The EMT does not have time to form a differential diagnosis and must rely on prior experience when treating a patient.,FALSE
+224,56,"Due to the limited time spent with the patient, the EMT must rely on a differential diagnosis.",FALSE
+225,57,Are you having pain anywhere beside your chest?,TRUE
+226,57,Does anything make the pain better or worse?,FALSE
+227,57,Are you having pain in your arm?,FALSE
+228,57,Are you experiencing any other symptoms?,FALSE
+229,58,Are you having pain anywhere beside your chest?,FALSE
+230,58,Can you describe how the pain in your chest feels?,TRUE
+231,58,"On a scale of 0 to 10, with 10 being the worst, how would you rate your level of pain?",FALSE
+232,58,Does anything make the pain worse?,FALSE
+233,59,Palpate the patient's abdomen for tenderness and guarding.,FALSE
+234,59,Perform a physical examination.,FALSE
+235,59,Take the patient's roommate aside and ask about the patient's medical history.,FALSE
+236,59,Ask the patient to describe the pain and find out if she has other complaints.,TRUE
+237,60,The emergency physician is concerned with scene safety.,FALSE
+238,60,Time is available in the emergency department to make a diagnosis.,FALSE
+239,60,An EMT's focus is on life threats first.,FALSE
+240,60,The EMT is working with limited resources.,TRUE
+241,61,Skull,FALSE
+242,61,Abdominal,FALSE
+243,61,Spine,TRUE
+244,61,Cardiac,FALSE
+245,62,Deformity,FALSE
+246,62,Abrasion,FALSE
+247,62,Contusion,TRUE
+248,62,Laceration,FALSE
+249,63,His signs,FALSE
+250,63,His symptoms,TRUE
+251,63,His syndrome,FALSE
+252,63,His diagnosis,FALSE
+253,64,Tracheostomy,FALSE
+254,64,Pneumothorax,FALSE
+255,64,Stoma,TRUE
+256,64,Crepitation,FALSE
+257,65,Questioning about any other complaints or areas of pain,FALSE
+258,65,Detailed physical exam,TRUE
+259,65,"Providing emotional support, if necessary",FALSE
+260,65,Secondary assessment,FALSE
+261,66,Why were you in such a hurry?,FALSE
+262,66,How much fuel is in your car?,FALSE
+263,66,How fast was the vehicle going?,TRUE
+264,66,Have you been in a crash before?,FALSE
+265,67,Palpate the painful area last.,TRUE
+266,67,Do not palpate the painful area.,FALSE
+267,67,Palpate the painful area first.,FALSE
+268,67,Palpate the area at the beginning and end of the exam.,FALSE
+269,68,Tension pneumothorax,FALSE
+270,68,Flutter segment,FALSE
+271,68,Intercostal retractions,FALSE
+272,68,Paradoxical motion,TRUE
+273,69,High blood pressure,FALSE
+274,69,Blood loss,TRUE
+275,69,Blood collecting around the heart in the pericardial sac,FALSE
+276,69,Closed head injury,FALSE
+277,70,Seat belt use by the vehicle occupants,TRUE
+278,70,Deformity of the interior compartment of the vehicle,FALSE
+279,70,Collisions that occur at night,FALSE
+280,70,A vehicle without air bags,FALSE
+281,71,increase the flow rate of the nasal cannula to 4 liters per minute.,FALSE
+282,71,switch your patient to a nonrebreather mask at 15 liters per minute.,TRUE
+283,71,assist the patient's breathing with a bag-valve mask.,FALSE
+284,71,call medical direction for orders to administer his inhaler.,FALSE
+285,72,Averaging,FALSE
+286,72,Analysis,FALSE
+287,72,Trending,TRUE
+288,72,Critical thinking,FALSE
+289,73,Shake her to keep her awake.,FALSE
+290,73,Assist her with using her metered-dose inhaler.,FALSE
+291,73,Ask your partner to pull over and wait for ALS backup.,FALSE
+292,73,Begin ventilating her with a bag-valve mask.,TRUE
+293,74,15 minutes,TRUE
+294,74,30 minutes,FALSE
+295,74,10 minutes,FALSE
+296,74,5 minutes,FALSE
+297,75,Increase the amount of oxygen being delivered to the patient.,FALSE
+298,75,Place the patient in the recovery position.,FALSE
+299,75,Assist ventilations with a bag-valve-mask device.,FALSE
+300,75,Suction the airway.,TRUE
+301,76,primary assessment.,FALSE
+302,76,primary and secondary assessment.,FALSE
+303,76,secondary assessment.,FALSE
+304,76,reassessment.,TRUE
+305,77,remove him from the long spine board.,FALSE
+306,77,reassess him every 5 minutes.,TRUE
+307,77,call medical direction for orders.,FALSE
+308,77,spinal immobilize him.,FALSE
+309,78,wait and let the hospital staff reassess the bleeding.,FALSE
+310,78,take another set of vital signs to see if her blood pressure has dropped.,FALSE
+311,78,"in a reassuring tone, explain what you need to do.",TRUE
+312,78,ask her to check herself to see if she is still bleeding.,FALSE
+313,79,Every 5 minutes,TRUE
+314,79,Every 10 minutes,FALSE
+315,79,Every 15 minutes,FALSE
+316,79,Every 30 minutes,FALSE
+317,80,Patient with a gunshot wound,FALSE
+318,80,Patient having difficulty breathing,FALSE
+319,80,All patients should be reassessed,TRUE
+320,80,Patient with chest pain,FALSE
+321,81,Inaccurate recording of times and mileage,FALSE
+322,81,Patient refusal of treatment and transport,TRUE
+323,81,Failing to get the receiving physician's signature on the patient care report,FALSE
+324,81,Failure to document all of a patient's medications on the patient care report,FALSE
+325,82,Listen to the frequency first to avoid stepping on another transmission.,TRUE
+326,82,Speak loudly to convey the urgency of the message.,FALSE
+327,82,Interrupt less-urgent radio traffic to get your message across.,FALSE
+328,82,"Use the phrase, ""Attention, attention, I have priority traffic.""",FALSE
+329,83,Pertinent past illnesses,FALSE
+330,83,Pertinent physical exam findings,FALSE
+331,83,Name of the patient's health insurance provider,TRUE
+332,83,Major past illnesses of the patient,FALSE
+333,84,Document any pertinent information that was said by the stepmother and child exactly in quotations.,TRUE
+334,84,Document only the actual exam findings. Do not document anything that was said.,FALSE
+335,84,Document what was said as well as your opinion that the child was too afraid to tell the truth.,FALSE
+336,84,Document who you suspect caused the injuries in the narrative so that law enforcement has a record of the incident.,FALSE
+337,85,Ask the patient if it is alright with her if you provide the individual with a copy of the prehospital care report.,FALSE
+338,85,Get permission from medical control.,FALSE
+339,85,Provide the documentation if the individual shows proper identification.,FALSE
+340,85,State that you are unable to comply with the request due to patient confidentiality.,TRUE
+341,86,Mr.Smith,TRUE
+342,86,Sir,FALSE
+343,86,Smitty,FALSE
+344,86,Joe,FALSE
+345,87,"""It doesn't matter, we have to do it anyway.""",FALSE
+346,87,"""If you're stressed out like this, it's going to hurt a lot more.""",FALSE
+347,87,"""Relax, this is not a painful procedure.""",FALSE
+348,87,"""I will do my best, but it may hurt while we put the splint on.""",TRUE
+349,88,Stand behind the patient's chair.,FALSE
+350,88,Stand next to the chair.,FALSE
+351,88,Sit or kneel at the same level as the patient.,TRUE
+352,88,Sit on the floor at the patient's feet.,FALSE
+353,89,Estimated time of arrival,FALSE
+354,89,Patient's response to medical care provided,FALSE
+355,89,Address at which the patient was located,TRUE
+356,89,Unit identification,FALSE
+357,90,"Tell the patient he will soon become unconscious without the mask, and then you will be able to place it on him.",FALSE
+358,90,"Tell the patient the mask is for his benefit, and you will restrain him if necessary to place it on him.",FALSE
+359,90,Document that the patient was uncooperative and refused oxygen.,FALSE
+360,90,"Explain the importance of oxygen, and ask the patient to at least try to leave the mask on, but assure him that if he can't tolerate it, you can try another method.",TRUE

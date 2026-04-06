@@ -1,1 +1,17 @@
-{"name":"EMT Review","short_name":"EMT Review","start_url":"/","display":"standalone","background_color":"#f4fbfa","lang":"en","scope":"/","description":"Mobile-friendly EMT quiz review app","theme_color":"#0f766e","icons":[{"src":"/pwa-192.png","sizes":"192x192","type":"image/png"},{"src":"/pwa-512.png","sizes":"512x512","type":"image/png"},{"src":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
+{
+  "name": "EMT Review",
+  "short_name": "EMT Review",
+  "start_url": "/study/",
+  "display": "standalone",
+  "background_color": "#f4fbfa",
+  "lang": "en",
+  "id": "/study/",
+  "scope": "/study/",
+  "description": "Mobile-friendly EMT quiz review app",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "/pwa-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/pwa-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
