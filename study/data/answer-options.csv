@@ -439,3 +439,323 @@ id,question_id,option_text,is_correct
 438,110,Irrigating the mouth with sterile water to dilute the material before suctioning,FALSE
 439,110,Using large bore suction tubing without a tip or catheter attached,TRUE
 440,110,Using a rigid pharyngeal suction tip,FALSE
+441,111,"Blood moves by way of the pulmonary capillaries, air arrives at the alveoli, and osmosis occurs.",FALSE
+442,111,"Air moves into the airway, blood arrives via the pulmonary veins, and osmosis occurs.",FALSE
+443,111,"Air moves into the alveoli, blood is transported by the pulmonary capillaries, and diffusion occurs.",TRUE
+444,111,"Blood moves from the left heart to the lungs, air arrives in the alveoli sacs, and diffusion occurs.",FALSE
+445,112,Disease process that robs the patient of adequate breathing and perfusion,FALSE
+446,112,Irreversible shock caused by the lack of blood flowing to the vital organs like the brain and heart,FALSE
+447,112,Cyanosis (blue or gray skin) and deterioration of the patient's mental status,TRUE
+448,112,"Warm dry skin, difficulty breathing, and hypertension",FALSE
+449,113,the gag reflex is returning.,FALSE
+450,113,the gag reflex is returning.,FALSE
+451,113,the gag reflex is returning.,FALSE
+452,113,the gag reflex is returning.,TRUE
+453,114,Carbon dioxide and oxygen,TRUE
+454,114,Hydrogen and carbon monoxide,FALSE
+455,114,Hydrogen and carbon dioxide,FALSE
+456,114,Carbon monoxide and oxygen,FALSE
+457,115,hypercapnia.,FALSE
+458,115,hypoperfusion.,FALSE
+459,115,hypoxia.,TRUE
+460,115,hyperventilation.,FALSE
+461,116,D cylinder,FALSE
+462,116,G cylinder,FALSE
+463,116,E cylinder,TRUE
+464,116,M cylinder,FALSE
+465,117,arrest.,FALSE
+466,117,failure.,FALSE
+467,117,distress.,TRUE
+468,117,hypoxia.,FALSE
+469,118,Bag-valve mask,FALSE
+470,118,Pocket face mask,TRUE
+471,118,Automatic transport ventilator,FALSE
+472,118,Stoma,FALSE
+473,119,16-21,FALSE
+474,119,90-100,FALSE
+475,119,24-44,FALSE
+476,119,80-90,TRUE
+477,120,Perform a rapid trauma assessment.,FALSE
+478,120,Apply a nonrebreather mask with an oxygen flow rate of 15 lpm.,FALSE
+479,120,Apply a cervical collar.,FALSE
+480,120,Use a bag-valve mask with supplemental oxygen.,TRUE
+481,121,When crashed vehicles have been stabilized,FALSE
+482,121,At the end of the call,TRUE
+483,121,When the number of patients has been determined,FALSE
+484,121,Upon stabilization of the c-spine,FALSE
+485,122,Amount of equipment needed,TRUE
+486,122,Fire,FALSE
+487,122,Presence of hazardous materials,FALSE
+488,122,Wind direction,FALSE
+489,123,an urgent care center.,FALSE
+490,123,a trauma center.,TRUE
+491,123,the closest hospital.,FALSE
+492,123,a neurosurgery center.,FALSE
+493,124,Abdominal injuries,FALSE
+494,124,Neck injury,TRUE
+495,124,Fractures of the lower extremities,FALSE
+496,124,Chest injury,FALSE
+497,125,A news media helicopter hovering overhead at the scene of a vehicle collision.,FALSE
+498,125,The sound of a barking and growling dog upon approaching the door to a residence.,TRUE
+499,125,A bystander who is smoking a cigarette at the scene of an assault at a local park.,FALSE
+500,125,A vehicle collision involving a tractor-trailer that appears to be empty.,FALSE
+501,126,Determining the number of patients is not important on a medical call.,FALSE
+502,126,The need for additional resources must be determined on both medical and trauma calls.,TRUE
+503,126,Scene size-up does not play a role in determining the nature of the illness.,FALSE
+504,126,Information from bystanders is not important on trauma calls.,FALSE
+505,127,One or two additional ambulances,FALSE
+506,127,Law enforcement,FALSE
+507,127,Hazardous material clean-up crew,TRUE
+508,127,Gas company,FALSE
+509,128,Type of surface onto which the patient fell,FALSE
+510,128,Height of the fall,FALSE
+511,128,Patient's weight,TRUE
+512,128,Whether the patient struck anything with his body on the way down,FALSE
+513,129,The large crowd that has been drinking and is now yelling at you,TRUE
+514,129,The fact that the patient has been moved from where she was found,FALSE
+515,129,The crowd stating the patient is not breathing,FALSE
+516,129,All of these,FALSE
+517,130,putting your unit back in service and leaving the scene.,FALSE
+518,130,borrowing turnout gear from the fire department.,FALSE
+519,130,remaining a safe distance from the car until the fire is out.,TRUE
+520,130,using your fire extinguisher to put out the fire.,FALSE
+521,131,Respiratory rate of 16 with altered mental status,FALSE
+522,131,Respiratory rate of 12 with adequate depth,TRUE
+523,131,Respiratory rate of 6 with shallow depth,FALSE
+524,131,Respiratory rate of 28 with adequate depth,FALSE
+525,132,ventilate with oxygen.,FALSE
+526,132,suction the airway.,TRUE
+527,132,perform chest thrusts.,FALSE
+528,132,identify the pills.,FALSE
+529,133,External bleeding will be obvious as you enter the room and initially see the patient.,FALSE
+530,133,Manual airway maneuvers must be performed on all patients.,FALSE
+531,133,The primary assessment begins by just observing the patient as you enter the room.,TRUE
+532,133,The EMT should perform a sternal rub on all patients to test for response to painful stimuli.,FALSE
+533,134,"General impression, mental status, airway, breathing, circulation, patient priority",TRUE
+534,134,"Mental status, general impression, airway, breathing, circulation, patient priority",FALSE
+535,134,"Patient priority, general impression, mental status, airway, breathing, circulation",FALSE
+536,134,None of these,FALSE
+537,135,Patient's past medical history,TRUE
+538,135,Patient's age and sex,FALSE
+539,135,Position in which the patient is found,FALSE
+540,135,Patient's facial expression,FALSE
+541,136,Taking steps to correct a problem,TRUE
+542,136,Determining if there is a problem,FALSE
+543,136,Creating a permanent record of patient care,FALSE
+544,136,Decreasing the EMT's liability for negligence,FALSE
+545,137,respond only to a stimulus such as the EMT rubbing his sternum with his knuckles.,FALSE
+546,137,talk spontaneously and respond to the EMT's questions.,FALSE
+547,137,"tell you his or her name, his or her location, and what day it is.",FALSE
+548,137,respond to speaking or shouting by opening the eyes.,TRUE
+549,138,Reason why the patient summoned EMS,TRUE
+550,138,Events immediately preceding the call for EMS,FALSE
+551,138,Overall impression of the patient's condition,FALSE
+552,138,All of these,FALSE
+553,139,Rubbing the sternum with your knuckles,FALSE
+554,139,Flicking the soles of the feet,TRUE
+555,139,Shaking the child,FALSE
+556,139,Pinching the earlobe,FALSE
+557,140,expose his chest.,FALSE
+558,140,ask him if he is okay.,TRUE
+559,140,feel for a pulse.,FALSE
+560,140,open his airway.,FALSE
+561,141,2 seconds,TRUE
+562,141,3 seconds,FALSE
+563,141,4 seconds,FALSE
+564,141,5 seconds,FALSE
+565,142,pulse oximeter.,TRUE
+566,142,capnographer.,FALSE
+567,142,sphygmomanometer.,FALSE
+568,142,end tidal CO2 meter.,FALSE
+569,143,"Movement, gaze, and equality",FALSE
+570,143,"Color, equality, and reactivity",FALSE
+571,143,"Size, equality, and reactivity",TRUE
+572,143,"Reactivity, gaze, and equality",FALSE
+573,144,Milligrams per deciliter,FALSE
+574,144,Millimeters of mercury,TRUE
+575,144,Beats per minute,FALSE
+576,144,Atmospheric pressure,FALSE
+577,145,Pulse 40 and weak,TRUE
+578,145,"Pulse 20, weak, and regular",FALSE
+579,145,Pulse 20 and weak,FALSE
+580,145,"Pulse 40, weak, and irregular",FALSE
+581,146,retractions and diaphragm breathing.,FALSE
+582,146,"snoring, gurgling, wheezing, and crowing.",TRUE
+583,146,"snoring, gurgling, wheezing, crowing, and expiration.",FALSE
+584,146,"tachycardia, retractions, and diaphragm breathing.",FALSE
+585,147,mottled.,FALSE
+586,147,cyanotic.,FALSE
+587,147,flushed.,FALSE
+588,147,jaundiced.,TRUE
+589,148,Every 5 minutes,TRUE
+590,148,Every 10 minutes,FALSE
+591,148,Every 15 minutes,FALSE
+592,148,Every 2 minutes,FALSE
+593,149,5 minutes.,FALSE
+594,149,10 minutes.,FALSE
+595,149,20 minutes.,FALSE
+596,149,15 minutes.,TRUE
+597,150,diastolic blood pressure.,FALSE
+598,150,pulse pressure.,FALSE
+599,150,systolic blood pressure.,TRUE
+600,150,central venous pressure.,FALSE
+601,151,Finding out if he has any chest pain,FALSE
+602,151,Asking him if he is able to walk,FALSE
+603,151,Determining if he has been taking his medications as prescribed,FALSE
+604,151,Asking if he has been having regular bowel movements,TRUE
+605,152,Do you have a history of chest pain?,FALSE
+606,152,Is the pain in your chest a sharp pain?,FALSE
+607,152,Describe how the pain feels.,TRUE
+608,152,Have you taken your medications correctly?,FALSE
+609,153,Have you ever had a reaction to a medication?,FALSE
+610,153,Could you describe what happened?,FALSE
+611,153,Have you been having any medical problems?,TRUE
+612,153,Are you currently taking any medications?,FALSE
+613,154,Use closed-ended questions to have the patient rate the pain.,FALSE
+614,154,Use the memory aid SAMPLE to elicit a pain description from the patient.,FALSE
+615,154,"Ask the patient to state whether the pain is mild, moderate, severe, or unbearable.",FALSE
+616,154,Have the patient rate the pain on a scale of 0 (no pain) to 10 (worst pain).,TRUE
+617,155,Are you having any pain?,FALSE
+618,155,What is your primary complaint?,FALSE
+619,155,Does anything make the pain better or worse?,TRUE
+620,155,Do you have any past medical history?,FALSE
+621,156,Confirmation bias,FALSE
+622,156,Illusory correlation,FALSE
+623,156,Overconfidence,FALSE
+624,156,Representativeness,TRUE
+625,157,Diagnosis,TRUE
+626,157,Red flag,FALSE
+627,157,Clinical decision,FALSE
+628,157,Critical thinking,FALSE
+629,158,Worst-case scenarios,FALSE
+630,158,Differentials,FALSE
+631,158,Red flags,TRUE
+632,158,All of these,FALSE
+633,159,Confirmation bias,FALSE
+634,159,Illusory correlation,TRUE
+635,159,Availability,FALSE
+636,159,Representativeness,FALSE
+637,160,Antibiotics,FALSE
+638,160,Insulin,FALSE
+639,160,Beta-blockers,FALSE
+640,160,Epinephrine,TRUE
+641,161,A 19-year-old female with a history of epilepsy and who is found only responsive to painful stimuli by her roommate,FALSE
+642,161,A 25-year-old female with a history of asthma and who is complaining of difficulty breathing,TRUE
+643,161,A 30-year-old male with a history of diabetes and who is found unresponsive by his son,FALSE
+644,161,"A 70-year-old male with dementia whose caretaker called because he ""didn't seem like himself today""",FALSE
+645,162,Owner of the knife,FALSE
+646,162,Size and type of the knife,TRUE
+647,162,Angle at which the knife entered the patient,FALSE
+648,162,Make and model of the knife,FALSE
+649,163,How fast was the vehicle going?,TRUE
+650,163,Have you been in a crash before?,FALSE
+651,163,How much fuel is in your car?,FALSE
+652,163,Why were you in such a hurry?,FALSE
+653,164,Clue,FALSE
+654,164,Sign,TRUE
+655,164,Indication,FALSE
+656,164,Symptom,FALSE
+657,165,Perform a focused physical exam.,FALSE
+658,165,Find out who the patient's doctor is.,FALSE
+659,165,Check the scene for medications.,FALSE
+660,165,Obtain baseline vital signs.,TRUE
+661,166,Call the ALS unit to determine their ETA before deciding your next step.,FALSE
+662,166,Transport the patient to the hospital and perform a detailed physical exam.,FALSE
+663,166,Perform a detailed physical exam.,FALSE
+664,166,Obtain baseline vital signs and past medical history.,TRUE
+665,167,Transport the patient to a local medical clinic for evaluation by a physician.,FALSE
+666,167,Apply a traction splint.,FALSE
+667,167,Request ALS personnel.,TRUE
+668,167,Perform a detailed physical exam.,FALSE
+669,168,Blood collecting around the heart in the pericardial sac,FALSE
+670,168,Closed head injury,FALSE
+671,168,Blood loss,TRUE
+672,168,High blood pressure,FALSE
+673,169,Call immediately for ALS response.,FALSE
+674,169,Continue with vital sign assessment.,FALSE
+675,169,Take a manual blood pressure.,TRUE
+676,169,Begin transport immediately.,FALSE
+677,170,Immobilize the patient on a long backboard and perform a detailed examination in the ambulance.,FALSE
+678,170,Perform a rapid trauma assessment.,TRUE
+679,170,Perform a tertiary assessment.,FALSE
+680,170,Rule out the possibility of cervical spine injury before moving the patient.,FALSE
+681,171,Primary assessment,FALSE
+682,171,Patient's gender,FALSE
+683,171,Reassessment results,TRUE
+684,171,Pulse and respiratory rates,FALSE
+685,172,30 minutes,FALSE
+686,172,15 minutes,TRUE
+687,172,5 minutes,FALSE
+688,172,10 minutes,FALSE
+689,173,administer another dose of nitroglycerin.,FALSE
+690,173,call medical direction to administer another dose.,FALSE
+691,173,ask him what his pain is like now.,TRUE
+692,173,lay the head of the stretcher down.,FALSE
+693,174,Notify the receiving facility that the patient has developed arterial bleeding.,FALSE
+694,174,Control the bleeding.,TRUE
+695,174,Place the patient in the Trendelenburg position.,FALSE
+696,174,Check the patient's blood pressure.,FALSE
+697,175,primary and secondary assessment.,FALSE
+698,175,reassessment.,TRUE
+699,175,secondary assessment.,FALSE
+700,175,primary assessment.,FALSE
+701,176,She can evaluate the quality of care you provided.,FALSE
+702,176,She can critique your technique of taking vital signs.,FALSE
+703,176,She can determine if you understand the assessment process.,FALSE
+704,176,She can evaluate whether or not the patient is improving.,TRUE
+705,177,Primary assessment,TRUE
+706,177,secondary assessment.,FALSE
+707,177,Focused history and physical exam,FALSE
+708,177,Vital signs,FALSE
+709,178,Place the patient on oxygen via nasal cannula.,FALSE
+710,178,Visualize his chest for bruising.,FALSE
+711,178,Check distal circulation on his right arm.,TRUE
+712,178,Recheck his pupils.,FALSE
+713,179,Poor,FALSE
+714,179,Stable,TRUE
+715,179,Unstable,FALSE
+716,179,Not enough information was given to answer this question.,FALSE
+717,180,Every 10 minutes,FALSE
+718,180,Every 30 minutes,FALSE
+719,180,Every 15 minutes,FALSE
+720,180,Every 5 minutes,TRUE
+721,181,Pertinent physical exam findings,FALSE
+722,181,Pertinent past illnesses,FALSE
+723,181,Major past illnesses of the patient,FALSE
+724,181,Name of the patient's health insurance provider,TRUE
+725,182,"""Roger, order received.""",FALSE
+726,182,"""Copy. Administering medication now.""",FALSE
+727,182,"""Clear. Will advise of any changes in patient's condition.""",FALSE
+728,182,"""Order received. One nitroglycerin tablet under the patient's tongue.""",TRUE
+729,183,A two-way radio mounted in a vehicle,FALSE
+730,183,A device used to receive and then amplify transmissions that must be carried over long distances,FALSE
+731,183,A two-way radio at a fixed site,TRUE
+732,183,A two-way radio that can be carried on a belt clip,FALSE
+733,184,The patient was having an asthma attack.,TRUE
+734,184,The patient had wheezes that were audible without using a stethoscope.,FALSE
+735,184,The patient has a history of asthma.,FALSE
+736,184,The patient complains of difficulty breathing.,FALSE
+737,185,Estimated time of arrival,FALSE
+738,185,Address at which the patient was located,TRUE
+739,185,Unit identification,FALSE
+740,185,Patient's response to medical care provided,FALSE
+741,186,The nurse may not have heard the first radio report.,FALSE
+742,186,The nurse may be too busy to read the written report.,FALSE
+743,186,The nurse may have to perform critical interventions on the patient before you complete your written report.,TRUE
+744,186,The patient's condition may have changed since the first radio report.,FALSE
+745,187,Use a manual that provides translation.,FALSE
+746,187,Use an interpreter.,FALSE
+747,187,Avoid communicating with the patient so there is no misunderstanding of your intentions.,TRUE
+748,187,Contact dispatch for assistance in finding a translator.,FALSE
+749,188,Review poor patient care.,FALSE
+750,188,Satisfy requirements of the shift supervisor.,TRUE
+751,188,Reveal excellent patient care.,FALSE
+752,188,Assess conformity to patient care standards.,FALSE
+753,189,A device that receives and amplifies signals that must be sent over long distances,FALSE
+754,189,A two-way radio at a fixed site,FALSE
+755,189,A two-way radio that is mounted in a vehicle,FALSE
+756,189,A two-way radio that can be carried on a belt clip,TRUE
+757,190,place patient care reports in a locked box.,FALSE
+758,190,safeguard patient confidentiality.,FALSE
+759,190,report child abuse.,TRUE
+760,190,All of these are required by HIPAA.,FALSE
