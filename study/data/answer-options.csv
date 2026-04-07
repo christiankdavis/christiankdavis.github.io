@@ -799,3 +799,483 @@ id,question_id,option_text,is_correct
 798,200,indication.,FALSE
 799,200,side effect.,TRUE
 800,200,untoward effect.,FALSE
+801,201,multiple sclerosis.,FALSE
+802,201,meningitis.,FALSE
+803,201,encephalitis.,TRUE
+804,201,hypoglycemia.,FALSE
+805,202,Carbolic acid,FALSE
+806,202,Carbon dioxide,TRUE
+807,202,Lactic acid,FALSE
+808,202,Carbon monoxide,FALSE
+809,203,thalamus.,FALSE
+810,203,medulla oblongata.,TRUE
+811,203,cerebellum.,FALSE
+812,203,frontal lobe.,FALSE
+813,204,Cations,FALSE
+814,204,Electrolytes,TRUE
+815,204,Ions,FALSE
+816,204,ATP,FALSE
+817,205,Low oxygen and high carbon dioxide,TRUE
+818,205,High oxygen and low carbon dioxide,FALSE
+819,205,Low oxygen and low carbon dioxide,FALSE
+820,205,High oxygen and high carbon dioxide,FALSE
+821,206,defuse,FALSE
+822,206,perfuse,TRUE
+823,206,hyperoxygenate,FALSE
+824,206,register,FALSE
+825,207,Oxygen,FALSE
+826,207,Proteins,FALSE
+827,207,Water,TRUE
+828,207,Glucose,FALSE
+829,208,volume receptors.,FALSE
+830,208,chemoreceptors.,FALSE
+831,208,stretch receptors.,TRUE
+832,208,pressure receptors.,FALSE
+833,209,He possibly has wet his pants and does not want anyone to know.,FALSE
+834,209,He possibly has internal injuries and is in shock.,TRUE
+835,209,He is really upset and wants his mother.,FALSE
+836,209,He is embarrassed and is afraid that the other students will make fun of him.,FALSE
+837,210,Oxygenated,FALSE
+838,210,Deoxygenated,TRUE
+839,210,Anemic,FALSE
+840,210,Red,FALSE
+841,211,Coronary arteries that branch off the aorta,TRUE
+842,211,Coronary veins that branch off the pulmonary vein as it returns oxygenated blood to the heart,FALSE
+843,211,The pulmonary artery beginning at the right ventricle,FALSE
+844,211,The brachial artery returning blood from the lungs,FALSE
+845,212,Xiphoid process,TRUE
+846,212,Sternal notch,FALSE
+847,212,Body,FALSE
+848,212,Manubrium,FALSE
+849,213,Cricoid cartilage,FALSE
+850,213,Diaphragm,FALSE
+851,213,Pharynx,FALSE
+852,213,Epiglottis,TRUE
+853,214,Respiratory and cardiovascular systems,TRUE
+854,214,Respiratory and endocrine systems,FALSE
+855,214,Cardiovascular and lymphatic systems,FALSE
+856,214,Cardiopulmonary and digestive systems,FALSE
+857,215,external landmarks of body structures.,TRUE
+858,215,the study of the skin.,FALSE
+859,215,blood pressure fluctuations.,FALSE
+860,215,key elements of the central nervous system.,FALSE
+861,216,Pharynx,FALSE
+862,216,Scapula,TRUE
+863,216,Clavicle,FALSE
+864,216,Patella,FALSE
+865,217,Decreased ability to fight infection,FALSE
+866,217,Decreased oxygen delivery to the tissues,TRUE
+867,217,Decreased production of carbon dioxide,FALSE
+868,217,Decrease in pulse rate,FALSE
+869,218,Voluntary,FALSE
+870,218,Skeletal,FALSE
+871,218,Smooth,TRUE
+872,218,Striated,FALSE
+873,219,Brain and autonomic nerves,FALSE
+874,219,Spinal cord and sensory nerves,FALSE
+875,219,Spinal cord and motor nerves,FALSE
+876,219,"Brain, spinal cord, and nerve tissue",TRUE
+877,220,Endocrine system,FALSE
+878,220,Lymphatic system,TRUE
+879,220,Digestive system,FALSE
+880,220,Respiratory system,FALSE
+881,221,distal,TRUE
+882,221,medial,FALSE
+883,221,inferior,FALSE
+884,221,dorsal,FALSE
+885,222,the foundation of a word or term.,FALSE
+886,222,a modifier that indicates if a term is singular or plural.,FALSE
+887,222,added to the beginnings of roots or words to modify or qualify their meaning.,TRUE
+888,222,the combination of any two or more whole words.,FALSE
+889,223,"A patient with plegia is potentially contagious, and the EMTs need to know what precautions are required.",FALSE
+890,223,"Because a dysplegiac patient generally requires an EMT-Paramedic level of care, and it may change the level of response.",FALSE
+891,223,"Without a clarifying prefix, it is difficult for the EMTs to effectively prepare for the type of patient they may encounter.",TRUE
+892,223,There is actually no need to clarify the word.,FALSE
+893,224,recovery position.,TRUE
+894,224,prone position.,FALSE
+895,224,Fowler position.,FALSE
+896,224,supine position.,FALSE
+897,225,Abdominal regions,FALSE
+898,225,Abdominal planes,FALSE
+899,225,Abdominal sextants,FALSE
+900,225,Abdominal quadrants,TRUE
+901,226,An imaginary line dividing the body into a front and a back portion,FALSE
+902,226,An imaginary line dividing the body into a top and bottom portion,FALSE
+903,226,The intersection of two imaginary lines crossing at the umbilicus,FALSE
+904,226,An imaginary line dividing the body into equal right and left halves,TRUE
+905,227,The ears are located on the lateral aspect of the head.,FALSE
+906,227,The mouth is proximal to the nose.,TRUE
+907,227,The umbilicus is located on the ventral aspect of the body.,FALSE
+908,227,The foot is distal to the knee.,FALSE
+909,228,"You should say that you are an experienced EMT and because she is new, she should just take your advice and apply it.",FALSE
+910,228,"Explain that using large words and medical terms can be seen as being egotistical, which can alienate both patients and other providers.",FALSE
+911,228,Tell her that the point of communicating with patients and other providers is so there is clear understanding; using medical terms when not necessary can cause confusion.,TRUE
+912,228,"Tell her that the general public isn't smart enough to understand medical terminology and that all communication must be ""dumbed down"" when talking to patients.",FALSE
+913,229,to the side.,TRUE
+914,229,to the back of.,FALSE
+915,229,under the arms.,FALSE
+916,229,toward the middle of.,FALSE
+917,230,medial,TRUE
+918,230,inferior,FALSE
+919,230,lateral,FALSE
+920,230,axillary,FALSE
+921,231,On-call Medical Director,FALSE
+922,231,Medical history identifier,FALSE
+923,231,Driver's license,FALSE
+924,231,Medical identification device,TRUE
+925,232,The patient's caregiver presents a DNR order signed by the patient and his physician.,TRUE
+926,232,The patient's caregiver believes the patient would not want resuscitative measures.,FALSE
+927,232,The EMT's religious beliefs permit withholding resuscitation.,FALSE
+928,232,Family members request that nothing be done.,FALSE
+929,233,Legal responsibility,FALSE
+930,233,Standard of care,FALSE
+931,233,Duty to act,TRUE
+932,233,Scope of practice,FALSE
+933,234,"You should disclose the information, as it is not protected by law.",FALSE
+934,234,"You should not disclose the information to the nurse because it is protected confidential information, and the patient did not sign a release authorizing you to discuss his condition.",FALSE
+935,234,You should answer her questions because you may legally share the patient's medical condition with other pertinent health care providers.,TRUE
+936,234,You should not disclose the information because HIPAA laws only allow you to provide the information to the emergency department physician.,FALSE
+937,235,Act on implied consent.,FALSE
+938,235,"Get consent from the patient's 15-year-old sister, who is at the scene.",FALSE
+939,235,Allow the patient to consent as an emancipated minor.,FALSE
+940,235,Call the patient's mother at work.,TRUE
+941,236,Duty to act,FALSE
+942,236,Standard of care,FALSE
+943,236,Scope of practice,TRUE
+944,236,Expressed consent,FALSE
+945,237,"An EMT transports a patient to the emergency department, leaves the patient in the waiting room, but does not advise the ED staff.",TRUE
+946,237,An EMT who is off duty sees a motor vehicle collision with probable injuries but does not stop to help.,FALSE
+947,237,The EMT resuscitates a patient who has a DNR order signed by his physician.,FALSE
+948,237,"An EMT begins care of a patient, then turns the patient over to a paramedic.",FALSE
+949,238,Degradation of character,FALSE
+950,238,Slander,FALSE
+951,238,HIPAA violation,FALSE
+952,238,Libel,TRUE
+953,239,Slander,FALSE
+954,239,Breach of confidentiality,TRUE
+955,239,Libel,FALSE
+956,239,Violation of patient privacy,FALSE
+957,240,The patient was in fear of bodily harm at the time of the incident.,TRUE
+958,240,Proximate causation existed.,FALSE
+959,240,The EMT had a duty to act.,FALSE
+960,240,The EMT failed to act according to the standard of care.,FALSE
+961,241,Weight-lifter technique,FALSE
+962,241,Power lift,TRUE
+963,241,Power grip,FALSE
+964,241,Direct carry,FALSE
+965,242,Patient found lying in bed,FALSE
+966,242,Patient with a suspected spinal injury,TRUE
+967,242,Patient who is nauseated,FALSE
+968,242,Patient with difficulty breathing,FALSE
+969,243,Call for additional manpower to move the patient.,TRUE
+970,243,Place the patient on a backboard to provide better gripping points to move the patient.,FALSE
+971,243,Use the patient's sheets to slide him over to the stretcher.,FALSE
+972,243,Use the power lift technique to carefully and safely lift the patient to the stretcher.,FALSE
+973,244,Explain to the patient what you are doing and advise her to hold her hands together and not let go until you are finished moving her.,TRUE
+974,244,Use a strap to safely secure the patient's arms to the chair without causing any loss of circulation to the patient's extremities.,FALSE
+975,244,Gently tie the patient's hands together until you are downstairs to prevent her from unconsciously grabbing the railing.,FALSE
+976,244,Place the patient on oxygen during the move to calm her down.,FALSE
+977,245,battery-powered stretchers.,FALSE
+978,245,wheeled stretchers.,FALSE
+979,245,bariatric stretchers.,TRUE
+980,245,hydraulic stretchers.,FALSE
+981,246,500,FALSE
+982,246,700,TRUE
+983,246,300,FALSE
+984,246,200,FALSE
+985,247,"Environment, physical limitations, and communication",FALSE
+986,247,"Equipment, patient injury, and communication",FALSE
+987,247,"The object, your limitations, and communication",TRUE
+988,247,"The object, patient injury, and communication",FALSE
+989,248,feet-together,FALSE
+990,248,squatting,FALSE
+991,248,kneeling,TRUE
+992,248,overhead,FALSE
+993,249,As wide apart as possible,FALSE
+994,249,As close together as possible,FALSE
+995,249,Shoulder-width apart,TRUE
+996,249,Two feet apart,FALSE
+997,250,Place both feet flat on the ground.,TRUE
+998,250,Use your shoulder muscles.,FALSE
+999,250,Lean forward from the hips.,FALSE
+1000,250,Keep your back straight.,FALSE
+1001,251,An arm's length away from the body,FALSE
+1002,251,As far from the body as possible,FALSE
+1003,251,As close to the body as possible,TRUE
+1004,251,To one side or the other,FALSE
+1005,252,Emergency move,TRUE
+1006,252,Clothing drag,FALSE
+1007,252,Urgent move,FALSE
+1008,252,Nonurgent move,FALSE
+1009,253,Power lift,FALSE
+1010,253,Direct carry,FALSE
+1011,253,Draw-sheet method,FALSE
+1012,253,Direct ground lift,TRUE
+1013,254,rapid transport is necessary.,FALSE
+1014,254,there are no life threats and conditions are stable.,FALSE
+1015,254,life threats exist but there is time for precautions for spinal injuries.,TRUE
+1016,254,an emergency move is not possible.,FALSE
+1017,255,Avoid reaching more than 20 inches in front of your body.,FALSE
+1018,255,Avoid twisting.,FALSE
+1019,255,Prolong the reach for as long as necessary.,TRUE
+1020,255,Keep your back in a locked-in position.,FALSE
+1021,256,"You will place two persons at the foot, one at the head, and the other to act as a safety anchor with a rope.",FALSE
+1022,256,"You will place two persons at the head of the stretcher, one at the foot, and one to act as a spotter.",FALSE
+1023,256,You place one person on each corner of the stretcher to balance the weight and share in the lifting.,TRUE
+1024,256,They would position themselves halfway up the slope to take over when you and your partner get fatigued.,FALSE
+1025,257,There will be an increase in the number of home health transfers.,FALSE
+1026,257,There will be a decrease in the number of injuries among EMTs.,TRUE
+1027,257,Insurance reimbursement will increase for ambulance services.,FALSE
+1028,257,There is no likely impact of power stretchers on EMS.,FALSE
+1029,258,Basket stretcher,FALSE
+1030,258,Stair chair,TRUE
+1031,258,Wheeled ambulance stretcher,FALSE
+1032,258,Scoop stretcher,FALSE
+1033,259,Your physical limitations,FALSE
+1034,259,Communications,FALSE
+1035,259,The distance to cover,TRUE
+1036,259,The weight of the patient,FALSE
+1037,260,A stair chair with a tracklike system can be manipulated to lift into an ambulance using a hydraulic system.,FALSE
+1038,260,A stair chair with a tracklike system prevents the patient from having to be lifted down stairs.,TRUE
+1039,260,There is no benefit of a tracklike stair chair over a traditional stair chair.,FALSE
+1040,260,Only one EMT is required to operate a stair chair with a tracklike system.,FALSE
+1041,261,Interfering with patient communication,FALSE
+1042,261,Upsetting the patient because of the social stigma,FALSE
+1043,261,Obstructing the ability to visualize and protect the airway,TRUE
+1044,261,Causing or exacerbating respiratory illnesses,FALSE
+1045,262,"Following patient contact, the EMT should soak his hands in warm soapy water for at least 30 seconds and then shake them vigorously.",FALSE
+1046,262,Soap and water should be used following any patient contact if the EMT does not wear gloves.,FALSE
+1047,262,"If the EMT's hands are visibly dirty, an alcohol-based hand cleaner is not sufficient.",TRUE
+1048,262,"In cases where soap and water and alcohol-based hand cleaners are not immediately available, bleach wipes should be used.",FALSE
+1049,263,stress prevention,FALSE
+1050,263,critical incident stress,TRUE
+1051,263,chronic stress,FALSE
+1052,263,crisis intervention,FALSE
+1053,264,Your partner is suffering from a cumulative stress reaction. This is a natural response and he should be fine in a few days.,FALSE
+1054,264,Your partner is suffering from posttraumatic stress disorder and you should go to the bar with him to provide moral support and talk with him.,FALSE
+1055,264,Your partner is suffering from a delayed stress reaction and you should recommend that he seek professional counseling.,TRUE
+1056,264,Your partner is suffering from acute stress reaction and you should recommend to him that he seek professional counseling.,FALSE
+1057,265,Leave immediately to a safe area and then call for police assistance.,TRUE
+1058,265,"Radio for police and then calmly walk out of the house, being sure to take all of your medical equipment.",FALSE
+1059,265,Tackle the patient before he can get a kitchen knife to stab you.,FALSE
+1060,265,Radio for police and relay to dispatch important scene information until they arrive.,FALSE
+1061,266,"Use gloves for PPE, as that's all that's needed.",FALSE
+1062,266,Mask yourself only.,FALSE
+1063,266,Mask yourself and the patient.,TRUE
+1064,266,Isolate the patient with a nonrebreather mask.,FALSE
+1065,267,Gloves,FALSE
+1066,267,"Gloves, N-95 mask, and goggles",FALSE
+1067,267,Gloves and N-95 mask,FALSE
+1068,267,"Gloves, N-95 mask, goggles, and gown",TRUE
+1069,268,cumulative,TRUE
+1070,268,post-traumatic,FALSE
+1071,268,delayed,FALSE
+1072,268,acute,FALSE
+1073,269,"Caffeine to ""get up and go""",FALSE
+1074,269,Regular physical exercise,TRUE
+1075,269,Adding workload to a busy regular schedule,FALSE
+1076,269,"Drinking alcohol to ""unwind""",FALSE
+1077,270,cure,FALSE
+1078,270,prophylactic,FALSE
+1079,270,vaccine,TRUE
+1080,270,fact sheet,FALSE
+1081,271,"A trauma patient who is covered in dirt, rocks, and other foreign debris",FALSE
+1082,271,A patient who was sprayed with mace by police during arrest,FALSE
+1083,271,A patient who is actively coughing,TRUE
+1084,271,A patient with a difficult-to-visualize scalp laceration,FALSE
+1085,272,inoculate healthcare workers against TB infections.,FALSE
+1086,272,determine if a person has infected others with TB.,FALSE
+1087,272,detect a person's exposure to tuberculosis.,TRUE
+1088,272,prevent tuberculosis from spreading following an exposure.,FALSE
+1089,273,Emergency Response Guidebook,TRUE
+1090,273,Emergency Preparedness and Response Plan,FALSE
+1091,273,Safety Data Sheets,FALSE
+1092,273,Accidental Exposure and Contamination Guide,FALSE
+1093,274,Atrophy of the adrenal glands,FALSE
+1094,274,Bleeding gastric ulcers,TRUE
+1095,274,Amnesia for stressful events,FALSE
+1096,274,Hypertrophy of the lymph nodes,FALSE
+1097,275,Reflective outer clothing,TRUE
+1098,275,Portable radio,FALSE
+1099,275,Flashlight,FALSE
+1100,275,Nonslip footwear,FALSE
+1101,276,Eustress,FALSE
+1102,276,Megastress,FALSE
+1103,276,Hypertropy,FALSE
+1104,276,Distress,TRUE
+1105,277,Immunoglobulin,FALSE
+1106,277,Serotonin,FALSE
+1107,277,Epinephrine,FALSE
+1108,277,Cortisol,TRUE
+1109,278,Depression,FALSE
+1110,278,Denial,FALSE
+1111,278,Bargaining,TRUE
+1112,278,Anger,FALSE
+1113,279,Anger,FALSE
+1114,279,Projection,FALSE
+1115,279,Denial,TRUE
+1116,279,Rejection,FALSE
+1117,280,Have your partner call for help while you stay with the patient.,FALSE
+1118,280,Evacuate the patient and begin treatment.,FALSE
+1119,280,Leave the house and call for law enforcement.,TRUE
+1120,280,Continue to question the man and begin treating the patient.,FALSE
+1121,281,Patient assessment,TRUE
+1122,281,Patient access,FALSE
+1123,281,Patient advocacy,FALSE
+1124,281,Medical intervention,FALSE
+1125,282,It minimizes the number of 911 calls late at night.,FALSE
+1126,282,It is good practice for the next emergency call.,FALSE
+1127,282,Injury prevention in the community is an important component of EMS.,TRUE
+1128,282,It makes the taxpayers happy.,FALSE
+1129,283,Standing orders,FALSE
+1130,283,On-line medical direction,FALSE
+1131,283,Protocols,TRUE
+1132,283,Standard operating procedures,FALSE
+1133,284,EMT,FALSE
+1134,284,Advanced EMT,TRUE
+1135,284,Paramedic,FALSE
+1136,284,Emergency Medical Responder,FALSE
+1137,285,It is important you show the QI manager that you are a team player.,FALSE
+1138,285,Vital signs are something you have to fill out because the state requires it.,FALSE
+1139,285,The report looks better when all the boxes are filled out.,FALSE
+1140,285,The recording of three sets of vital signs demonstrates that you were trending the patient's condition.,TRUE
+1141,286,Assuring personal safety,FALSE
+1142,286,Writing complete patient care reports,TRUE
+1143,286,Taking responsibility for the actions of one's partner,FALSE
+1144,286,Critiquing performance of one's partner,FALSE
+1145,287,Continuing education,TRUE
+1146,287,Distance education,FALSE
+1147,287,EMT training program,FALSE
+1148,287,Recertification,FALSE
+1149,288,Glucose is only sugar so it cannot hurt the patient.,FALSE
+1150,288,The physician does not trust EMTs.,FALSE
+1151,288,The patient's nitroglycerin might be expired.,FALSE
+1152,288,The physician wants to be sure it is appropriate for the patient.,TRUE
+1153,289,Advocate,TRUE
+1154,289,Assistant,FALSE
+1155,289,Guardian,FALSE
+1156,289,Representative,FALSE
+1157,290,National standards for emergency medical services personnel,TRUE
+1158,290,An education curriculum for EMT courses,FALSE
+1159,290,Quality oversight of emergency medical services practices,FALSE
+1160,290,Quality improvement and quality assurance programs for emergency medical services,FALSE
+1161,291,Order a small number of the special bandages and compare them side by side to the regular bandages.,FALSE
+1162,291,Perform a literature search to see what studies have been done on the special bandages and report the findings to the Medical Director.,TRUE
+1163,291,Have a member of the other ambulance service call the Medical Director to provide firsthand information on how the special bandages are much better.,FALSE
+1164,291,Call the manufacturer of the special bandage and request literature to give to the Medical Director.,FALSE
+1165,292,EMS supervisor,FALSE
+1166,292,Medical Director,TRUE
+1167,292,EMT,FALSE
+1168,292,Director of quality assurance,FALSE
+1169,293,EMS articles are generally opinion pieces.,FALSE
+1170,293,EMS magazine articles tend to be poorly researched.,FALSE
+1171,293,Research in medical journals is original and peer reviewed.,TRUE
+1172,293,Medical journals don't rely on advertising revenue as EMS magazines do.,FALSE
+1173,294,To identify problems and develop a plan to prevent their recurrence,TRUE
+1174,294,To identify problem employees and create a corrective action plan,FALSE
+1175,294,To ensure that individuals making false calls for EMS are prosecuted,FALSE
+1176,294,To ensure adequate personnel are available for emergencies,FALSE
+1177,295,Standards of care,FALSE
+1178,295,Standing orders,TRUE
+1179,295,On-line medical direction,FALSE
+1180,295,Breach of duty,FALSE
+1181,296,The Mayans,FALSE
+1182,296,The Egyptians,FALSE
+1183,296,The Spanish,FALSE
+1184,296,The French,TRUE
+1185,297,Nonjudgmental and fair,FALSE
+1186,297,Ability to speak clearly,TRUE
+1187,297,Ability to remain calm in stressful situations,FALSE
+1188,297,Ability to lift and carry 200 pounds,FALSE
+1189,298,Emotionally stable,FALSE
+1190,298,Able to listen to others,TRUE
+1191,298,Pleasant,FALSE
+1192,298,Judgmental but fair,FALSE
+1193,299,standard of care.,FALSE
+1194,299,on-line protocol.,FALSE
+1195,299,direct medical order.,FALSE
+1196,299,standing order.,TRUE
+1197,300,Patient advocacy,FALSE
+1198,300,Quality improvement,TRUE
+1199,300,Transfer of care,FALSE
+1200,300,Continuing education,FALSE
+1201,301,"Do not use the patient's inhaler, because you do not know how the medication has been stored.",FALSE
+1202,301,Have the patient inhale deeply before delivering the spray.,FALSE
+1203,301,Have the patient hold the inhaled medication in his lungs as long as possible.,TRUE
+1204,301,Make sure that the inhaler has been kept in the refrigerator.,FALSE
+1205,302,Remove the patient's pillow.,TRUE
+1206,302,Apply oxygen by nonrebreather mask.,FALSE
+1207,302,Check the patient's pulse.,FALSE
+1208,302,Insert an oropharyngeal airway.,FALSE
+1209,303,Anxiety,FALSE
+1210,303,Sudden calmness,TRUE
+1211,303,Pain and swelling in one or both legs,FALSE
+1212,303,Sudden onset of sharp chest pain,FALSE
+1213,304,Breathing slower than normal,FALSE
+1214,304,Wheezing noises when breathing,FALSE
+1215,304,Breathing faster than normal,FALSE
+1216,304,Breathing that is insufficient to sustain life,TRUE
+1217,305,Listen to the patient's breath sounds.,FALSE
+1218,305,Obtain a history of the present illness.,FALSE
+1219,305,Check the patient's oxygen saturation level.,FALSE
+1220,305,None of these,TRUE
+1221,306,Albuterol,FALSE
+1222,306,Ventolin,FALSE
+1223,306,Beclomethasone,TRUE
+1224,306,Proventil,FALSE
+1225,307,"The inhaler belongs to another family member, not the patient.",FALSE
+1226,307,Medical control is not necessary since assistance with inhaled medications is in the EMT scope of practice.,FALSE
+1227,307,Medical control is necessary in all situations in which an EMT assists with a prescribed inhaler.,TRUE
+1228,307,The patient has already overused the inhaler before your arrival.,FALSE
+1229,308,Pneumonia,TRUE
+1230,308,Silent myocardial infarction,FALSE
+1231,308,Asthma,FALSE
+1232,308,COPD,FALSE
+1233,309,agonal,TRUE
+1234,309,hypoxic,FALSE
+1235,309,cyanotic,FALSE
+1236,309,confused,FALSE
+1237,310,8 breaths/min,TRUE
+1238,310,16 breaths/min,FALSE
+1239,310,20 breaths/min,FALSE
+1240,310,12 breaths/min,FALSE
+1241,311,It increases the strength with which the ventricles contract.,FALSE
+1242,311,It relaxes blood vessels throughout the body.,TRUE
+1243,311,It slows down the heart.,FALSE
+1244,311,It dilates only the coronary arteries.,FALSE
+1245,312,Coronary arteries,FALSE
+1246,312,Liver,FALSE
+1247,312,Lungs,FALSE
+1248,312,Heart,TRUE
+1249,313,4,FALSE
+1250,313,2,FALSE
+1251,313,1,FALSE
+1252,313,3,TRUE
+1253,314,Pedal edema,TRUE
+1254,314,Presacral swelling,FALSE
+1255,314,Congestive heart failure,FALSE
+1256,314,Crackles,FALSE
+1257,315,It takes 20 to 30 minutes for nitroglycerin to have an effect.,FALSE
+1258,315,An increase in blood pressure should be expected.,FALSE
+1259,315,"If a patient's pulse rate changes following nitroglycerin administration, it indicates an allergic reaction.",FALSE
+1260,315,The patient may complain of a headache following administration.,TRUE
+1261,316,Lasts 10 to 30 seconds,FALSE
+1262,316,Does not respond to nitroglycerin,FALSE
+1263,316,May subside with rest,TRUE
+1264,316,Does not present following stress,FALSE
+1265,317,Cardiac compromise,TRUE
+1266,317,Cardiac dysrhythmia,FALSE
+1267,317,Myocardial infarction,FALSE
+1268,317,Congestive heart failure,FALSE
+1269,318,Dysrhythmia,TRUE
+1270,318,Pulmonary edema,FALSE
+1271,318,Cardiogenic shock,FALSE
+1272,318,Cardiac arrest,FALSE
+1273,319,It generally lasts 30 to 60 minutes.,FALSE
+1274,319,It results in death of a smaller portion of myocardium than does a heart attack.,FALSE
+1275,319,It is generally relieved by over-the-counter medications.,FALSE
+1276,319,It can be brought on by exertion or stress.,TRUE
+1277,320,The patient has a diastolic blood pressure greater than 90 mmHg.,FALSE
+1278,320,The patient has a gastrointestinal ulcer.,TRUE
+1279,320,The patient does not currently take aspirin.,FALSE
+1280,320,The patient feels dizzy.,FALSE
