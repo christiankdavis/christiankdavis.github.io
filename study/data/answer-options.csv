@@ -1279,3 +1279,83 @@ id,question_id,option_text,is_correct
 1278,320,The patient has a gastrointestinal ulcer.,TRUE
 1279,320,The patient does not currently take aspirin.,FALSE
 1280,320,The patient feels dizzy.,FALSE
+1281,321,Cardiac arrest in adults is more likely to be due to respiratory failure.,FALSE
+1282,321,Cardiac arrest in children is more likely to be due to respiratory failure.,TRUE
+1283,321,Ventricular fibrillation is not common in adults.,FALSE
+1284,321,Ventricular fibrillation is common in children.,FALSE
+1285,322,a faster response time to the scene.,FALSE
+1286,322,better quality of care with less training.,FALSE
+1287,322,a 100% success rate.,FALSE
+1288,322,high-quality compressions.,TRUE
+1289,323,Perform bag-valve mask ventilations with supplemental oxygen for 30 seconds before applying the defibrillator pads.,FALSE
+1290,323,Contact medical direction before taking any action.,FALSE
+1291,323,Apply the defibrillator pads and shock as indicated.,TRUE
+1292,323,Perform one-rescuer CPR until additional personnel arrive.,FALSE
+1293,324,EMT doing chest compressions,FALSE
+1294,324,EMT supervising bystanders,FALSE
+1295,324,EMT operating the defibrillator,TRUE
+1296,324,EMT managing the airway,FALSE
+1297,325,Performing CPR while the AED is being attached,FALSE
+1298,325,Shaving the chest before placing the defibrillation pads to improve contact,FALSE
+1299,325,Pressing the defibrillation pads firmly to the chest to ensure good contact,FALSE
+1300,325,Continued ventilation during the analysis phase to prevent hypoxia,TRUE
+1301,326,ventricular tachycardia.,FALSE
+1302,326,asphyxial cardiac arrest.,FALSE
+1303,326,ventricular fibrillation.,FALSE
+1304,326,pericardial tamponade.,TRUE
+1305,327,"Shock, shock, shock, pulse check, 2 minutes of CPR, shock, shock, shock",FALSE
+1306,327,"Shock, pulse check, shock, pulse check, shock, pulse check",FALSE
+1307,327,"Shock, shock, shock, shock",FALSE
+1308,327,"Shock, 2 minutes of CPR, reanalyze, shock again if indicated",TRUE
+1309,328,Apply the AED.,TRUE
+1310,328,Load the patient into the ambulance for further assessment.,FALSE
+1311,328,Insert an oropharyngeal airway and begin ventilations.,FALSE
+1312,328,Stop CPR and check for a pulse.,FALSE
+1313,329,Be straightforward and use direct language.,TRUE
+1314,329,Prevent the family from seeing the deceased patient.,FALSE
+1315,329,Tell the family the EMT knows how they feel.,FALSE
+1316,329,Minimize the family's time with the deceased patient.,FALSE
+1317,330,"After a ""no shock indicated"" message is received but otherwise not until the patient is resuscitated",FALSE
+1318,330,"Immediately, even if interrupting the police office in the middle of shocking the patient",FALSE
+1319,330,Only if the EMTs feel the police office is incompetent to administer the AED correctly,FALSE
+1320,330,"After the shock is delivered or a ""no shock indicated"" message is received",TRUE
+1321,331,"The hyperglycemic patient often has acetone breath, whereas the hypoglycemic patient does not.",FALSE
+1322,331,"The hypoglycemic patient usually complains of a headache, whereas the hyperglycemic patient does not.",TRUE
+1323,331,"Hyperglycemic patients often have warm, red, dry skin, whereas hypoglycemic patients have cold, pale, moist, or clammy skin.",FALSE
+1324,331,Hyperglycemia usually has a slower onset than hypoglycemia.,FALSE
+1325,332,Glucose,FALSE
+1326,332,Water,FALSE
+1327,332,Sodium,TRUE
+1328,332,Oxygen,FALSE
+1329,333,Fever,TRUE
+1330,333,Chest pain,FALSE
+1331,333,Administration of glucose to a hyperglycemic patient,FALSE
+1332,333,Asthma,FALSE
+1333,334,Hemiparesis,FALSE
+1334,334,Aphasia,TRUE
+1335,334,Ischemia,FALSE
+1336,334,Ataxia,FALSE
+1337,335,transport to the closest hospital because the patient must go to the operating room as soon as possible.,FALSE
+1338,335,determine the exact time of onset of symptoms.,TRUE
+1339,335,transport the patient to a Level I trauma center.,FALSE
+1340,335,do a thorough physical exam of the patient.,FALSE
+1341,336,40 mg/dL,FALSE
+1342,336,180 mg/dL,FALSE
+1343,336,150 mg/dL,FALSE
+1344,336,80mg/dL,TRUE
+1345,337,Its onset is more sudden.,FALSE
+1346,337,"Its onset is preceded by an aura, such as hallucinations or detecting unusual odors.",FALSE
+1347,337,Its onset is more gradual.,TRUE
+1348,337,It is more easily treated in the prehospital environment than hypoglycemia.,FALSE
+1349,338,Place a tongue depressor or spoon in the back of the mouth to prevent the patient from swallowing her tongue.,FALSE
+1350,338,Restrain the patient's extremities to prevent injury from flailing of the arms and legs.,FALSE
+1351,338,"Insert a bite block, cloth, wallet, or similar item between the patient's teeth to prevent her from biting her tongue.",FALSE
+1352,338,Move furniture and other objects away from the patient to prevent injury.,TRUE
+1353,339,The need to complete a secondary assessment,FALSE
+1354,339,Problems with the RAS due to hypertension,FALSE
+1355,339,Failing respiratory system,TRUE
+1356,339,The need for suctioning of the airway,FALSE
+1357,340,islets of Langerhans in the liver.,FALSE
+1358,340,gallbladder found in the pancreas.,FALSE
+1359,340,islets of Langerhans in the pancreas.,TRUE
+1360,340,None of these.,FALSE
