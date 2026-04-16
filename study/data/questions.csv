@@ -1,341 +1,341 @@
-id,chapter_id,question_text,needs_review
-1,9,Which of the following is true concerning the procedure for inserting a nasopharyngeal airway (NPA)?,FALSE
-2,9,Which of the following is the correct method of suctioning?,FALSE
-3,9,"When inserting an oropharyngeal airway, how many degrees do you need to rotate the airway so the tip is pointing down into the patient's pharynx?",FALSE
-4,9,What is the sound of the soft tissue of the upper airway creating impedance or partial obstruction to the flow of air?,FALSE
-5,9,"You have performed a head tilt-chin lift maneuver on a 17-month-old boy and are attempting to ventilate him with a bag-valve mask. You are experiencing a lot of resistance with each breath and the chest is barely rising. Prior to attempting ventilations again, you should:",FALSE
-6,9,"To be effective, a suction unit must be able to generate air flow of at least ________ liters per minute and create a vacuum of no less than ________ mmHg.",FALSE
-7,9,The high-pitched sound caused by an upper airway obstruction is known as:,FALSE
-8,9,"When suctioning the airway, you should try to limit suctioning to no longer than ________ seconds at a time.",FALSE
-9,9,Which of the following is an advantage of using a nasopharyngeal airway (NPA)?,FALSE
-10,9,Which of the following is a disadvantage of oropharyngeal airways (OPAs)?,FALSE
-11,10,A ________ is not typically used in the prehospital setting for oxygen administration.,FALSE
-12,10,Which of the following describes why fast respiration may decrease minute volume?,FALSE
-13,10,The movement of oxygen and carbon dioxide across the cell membranes from the capillaries is called:,FALSE
-14,10,The oxygen flow rate for a nasal cannula should not exceed ________ liters per minute.,FALSE
-15,10,Which of these patients would require a tracheostomy mask for supplemental oxygen administration?,FALSE
-16,10,When does respiratory distress change to respiratory failure?,FALSE
-17,10,The movement of oxygen and carbon dioxide between the alveoli and circulating blood is called:,FALSE
-18,10,"While ventilating an intubated patient with a bag-valve-mask-unit, you notice increased resistance to the ventilations. This may indicate that:",FALSE
-19,10,The safe residual for an oxygen cylinder is ________ psi.,FALSE
-20,10,What are the signs of hypoxia?,FALSE
-21,11,"Your patient, a 29-year-old female, was the front seat passenger in a vehicle that was struck in the passenger's side door by another vehicle that ran a red light. Which of the following is most likely to have occurred?",FALSE
-22,11,Which of the following situations requires additional action by the EMT during scene size-up?,FALSE
-23,11,Which of the following is true concerning scene size-up?,FALSE
-24,11,"As you approach the scene of a motorcycle accident, you see an EMR trying to stop the bleeding on the patient's left arm. You notice that the EMR has blood covering the front of his shirt and running down his arms. What Standard Precautions are needed?",FALSE
-25,11,Your patient fell out of a tree while putting the roof on a tree house. A 15-foot ladder is required to enter the tree house and there is enough room for an adult to stand up inside. Your patient should be transported to:,FALSE
-26,11,Which of the following situations will not require additional resources at the scene?,FALSE
-27,11,"You are dispatched to a local bar for the report of an unresponsive female patient found in the bathroom. As you approach the scene, you notice a large crowd outside the front door holding beer bottles. The group has pulled the patient outside. As you approach the scene, people from the group start yelling, ""Do something! She's not breathing."" What concerns you the most about this scene?",FALSE
-28,11,You are called to a motor vehicle collision where the car is on fire. You should ensure safety by:,FALSE
-29,11,"You and your partner are en route to a motor vehicle crash involving a tanker truck on a rural road. Dispatch informs you that fluid is leaking from the truck, that there are several bystanders passed out on the ground near the cab of the truck, and that a caller has reported the code that appears on a placard attached to the tanker truck. You should:",FALSE
-30,11,Which law of physics explains why a patient's liver can be injured from the impact of his car with a tree?,FALSE
-31,12,Which of the following describes the chief complaint?,FALSE
-32,12,"Which of the following differences should be expected when assessing a pediatric patient, as compared to an adult patient?",FALSE
-33,12,Which of the following is the most reliable means of determining whether a patient has any immediately life- threatening conditions?,FALSE
-34,12,"Which term refers to the EMT's initial sense of the patient's condition, based on immediate assessment of the patient's environment, appearance, and chief complaint?",FALSE
-35,12,You are approaching a young adult male lying supine on the ground with his eyes closed. You should:,FALSE
-36,12,"You enter a room to find a 16-year-old female sitting upright in a chair with her back straight, leaning forward, and her arms supporting her. She is having a hard time talking to you. You should suspect:",FALSE
-37,12,Which of the following is the purpose of the primary assessment?,FALSE
-38,12,You are approaching a 16-year-old male with bright red spurting blood coming from his leg. He is screaming and he begs you to help him. You should:,FALSE
-39,12,Which of the following represents the correct order of assessment for the EMT during the primary assessment from start to end?,FALSE
-40,12,For which of the following patients would capillary refill be a reliable sign of circulatory status?,FALSE
-41,13,"When the EMT checks the pupils, he or she is checking for what three things?",FALSE
-42,13,You are assessing a 48-year-old male who is unconscious. The scene is safe and you hear the patient gurgling. What is your next action?,FALSE
-43,13,"Your patient is warm, dry, pink, and denies shortness of breath. Which of the following should the EMT expect to find when evaluating the patient's oxygen saturation?",FALSE
-44,13,"You are assessing an 82-year-old female who has been lost in the woods behind her nursing home for several hours on a crisp fall evening. Your pulse oximeter shows her oxygen saturation to be 82 percent even though she appears to be breathing adequately. In order to ensure an accurate reading, you should:",FALSE
-45,13,The abbreviation mmHg indicates that the blood pressure is measured by which of the following comparisons?,FALSE
-46,13,"When the heart contracts and forces blood into the arteries, the pressure created is known as the:",FALSE
-47,13,A(n) ________ set of vital signs is important for critical decision making for the EMT.,FALSE
-48,13,You are transporting a patient to the hospital from a motor vehicle crash. Your patient's initial blood pressure was 88/52. You should reassess blood pressure:,FALSE
-49,13,Slight movement of the chest during respiration is usually indicative of which of the following?,FALSE
-50,13,"When taking blood pressure manually, the cuff should be inflated to what point?",FALSE
-51,14,________ are signs or symptoms that suggest the possibility of a particular problem that is very serious.,FALSE
-52,14,What is the feeling of bone ends rubbing together called?,FALSE
-53,14,"Of the following, which would most likely give the best information regarding your patient's mental status?",FALSE
-54,14,Which of the following is one advantage of using heuristics?,FALSE
-55,14,"You are on the scene of a 16-year-old patient in respiratory distress. The patient has a history of asthma. After placing the patient on oxygen and performing the primary and secondary assessments, you are confident that the patient is indeed having an asthma attack. How can you be sure your field diagnosis is accurate?",FALSE
-56,14,"While an EMT forms a field diagnosis on the scene of an emergency, how do the steps differ from the traditional approach to diagnosis?",FALSE
-57,14,Mrs. Butler is a 66-year-old woman who is complaining of chest pain. Which of the following questions would be best in helping you determine if the pain is radiating?,FALSE
-58,14,"Mr. Hughes is a 49-year-old man complaining of chest pain. To find out about the quality of his chest pain, which of the following questions is most appropriate?",FALSE
-59,14,"Your patient is a 22-year-old college student complaining of abdominal pain. She is alert and oriented, although somewhat uncomfortable. Which of the following should be your first action?",FALSE
-60,14,An EMT's assessment differs from an assessment made in the emergency department in which way?,FALSE
-61,15,An unconscious trauma patient should always be assumed to have which of the following types of injury?,FALSE
-62,15,"In medical terms, bruises are known as which of the following?",FALSE
-63,15,"When a patient describes how he feels, he is telling you which of the following?",FALSE
-64,15,What term describes a permanent surgical opening in the neck through which a patient breathes?,FALSE
-65,15,"Your patient is a 45-year-old female who complains of ""twisting her ankle"" when she slipped on a patch of ice. Which of the following is not appropriate?",FALSE
-66,15,You are assessing a patient who has been involved in a motor vehicle crash. Which of the following questions would be the most important to ask him?,FALSE
-67,15,"If a patient complains of abdominal pain localized to a specific area of the abdomen, which of the following techniques should be used to assess the abdomen?",FALSE
-68,15,"The patient was a driver in a lateral impact motor vehicle collision. During the assessment of his chest, the EMT notes a segment of the chest wall moving in the opposite direction from the rest of the chest. Which of the following best describes this finding?",FALSE
-69,15,"The ambulance is called for an assaulted patient. While transporting the patient to the hospital, the EMT notes the patient's jugular veins are flat (nondistended). Which of these is most likely the cause of this finding?",FALSE
-70,15,Which of the following situations is most likely to result in hidden or unsuspected injury?,FALSE
-71,16,"You are called for an alert patient with respiratory distress. As part of your primary assessment, you place the patient on oxygen via nasal cannula at 2 liters per minute. You continue with the rest of your assessment including taking a set of vital signs. During your reassessment, you notice that the patient's respiratory rate has increased to 24 times per minute and he is having increasing trouble breathing. You should:",FALSE
-72,16,________ is reassessing and recording findings of the reassessment so they can be compared to earlier findings.,FALSE
-73,16,"Your 76-year-old female patient is having trouble breathing. When you auscultate her lungs, you hear crackles (rales), and you are concerned that she may have pulmonary edema. Her oxygen saturation is 92%, so you place her on 100% oxygen via a nonrebreather mask. Her breathing gets a little easier with the oxygen. You decide to expedite transport since she is anxious about her condition. Later, as you are completing your reassessment, you see that her respirations have slowed to 8 times per minute and she is barely staying awake. What should you do next?",FALSE
-74,16,You are transporting a 20-year-old soccer player who injured his ankle during a match. His injury appears to be isolated and he has no significant past medical history. How frequently should you perform a reassessment on this patient?,FALSE
-75,16,"During reassessment, you notice that your patient is making gurgling sounds. Which of the following should you do immediately?",FALSE
-76,16,"You are treating a 57-year-old male for chest pain. You have gathered all pertinent history of the present illness, completed two sets of vital signs, talked with medical direction, and assisted the patient with two doses of his nitroglycerin. Determination of whether or not the nitroglycerin was effective is assessed during the:",FALSE
-77,16,"You have a long transport of a patient who may have sustained a spinal injury. The patient has been stable throughout your transport. During one of your reassessments, your patient tells you that he is losing the feeling in his feet and toes and his fingers are tingling. At this point you should:",FALSE
-78,16,Your patient is an 18-year-old female whom you believe may have had a miscarriage and is bleeding heavily. You have completed your primary and secondary assessments and now you need to reassess her to see if the bleeding has stopped. You should:,FALSE
-79,16,You are transporting a 30-year-old male who has been shot in the chest. He is suffering from a sucking chest wound and has a decreased level of consciousness. How often should you perform a reassessment?,FALSE
-80,16,On which of the following patients should a reassessment be performed?,FALSE
-81,17,Which of the following is one the most common situations in which an EMT may be liable?,FALSE
-82,17,You have an urgent transmission you need to make to the dispatch center. Which of the following is the appropriate way to communicate this?,FALSE
-83,17,Which of the following is not appropriate for inclusion in the radio report to the receiving hospital?,FALSE
-84,17,You suspect that a 6-year-old female patient with multiple bruises and a broken wrist was abused. The stepmother states the patient fell down the stairs. The patient is crying and sheepishly nods in agreement with the stepmother's statements. How should you document this situation in the patient report?,FALSE
-85,17,"You have responded to a call at a government office building. One of the office workers became very upset during a fire drill and experienced an episode of difficulty breathing. As your partner is speaking with the patient, who is not sure she wants to be transported, an individual wearing civilian clothes approaches you and states she is a security guard in the building. She asks you for the ""yellow copy"" of your prehospital care report. Which of the following should you do?",FALSE
-86,17,Your elderly male patient tells you his name is Joe Smith. Which of the following is the best way to address him?,FALSE
-87,17,"You are treating a patient with a possible fractured ankle. The patient appears to be in a lot of pain and is uneasy. As you are getting ready to splint the patient's leg, he asks you if it is going to hurt. Which of the following is the best response?",FALSE
-88,17,Which of the following best describes the position you should take when dealing with a cooperative patient who is sitting in a chair?,FALSE
-89,17,Which of the following is not part of a medical radio report?,FALSE
-90,17,You are attempting to place a nonrebreather mask on a patient who is experiencing difficulty breathing. The patient is anxious and does not want the mask on his face. Which of the following is the best course of action?,FALSE
-91,18,Which of the following is a desired action of epinephrine delivered by auto-injector?,FALSE
-92,18,"Your patient is a 59-year-old woman with a history of emphysema. Per protocol, you have assisted the patient in using her medication inhaler. Which of the following must be documented?",FALSE
-93,18,"When you give patients nitroglycerin, they sometimes develop a headache. This would be called a(n):",FALSE
-94,18,Which of the following is the commonly accepted list of medications an EMT can assist the patient in taking or administer under the direction of the Medical Director?,FALSE
-95,18,How does aspirin actually reduce the chances that a patient suffering a heart attack will die?,FALSE
-96,18,Name the type of medical direction consisting of standing orders and protocols.,FALSE
-97,18,How does nitroglycerin decrease the level of chest pain that a patient experiences?,FALSE
-98,18,Which of the following is an example of a medication's trade name?,FALSE
-99,18,Choose the correct completion to this statement regarding intravenous (IV) administration: This route is used to administer medication into the body directly or through the bloodstream and is:,FALSE
-100,18,Nitroglycerin is given via the ________ route.,FALSE
-101,9,Perhaps the simplest way to determine if a patient has a patent airway is to:,FALSE
-102,9,Which of the following is a sign of an inadequate airway?,FALSE
-103,9,What is the danger that an altered mental status can pose to a patient's breathing?,FALSE
-104,9,The trachea branches at the ________ and forms two mainstem bronchi.,FALSE
-105,9,Which of the following structures is found in the lower airway?,FALSE
-106,9,Which of the following is an advantage of using a nasopharyngeal airway (NPA)?,FALSE
-107,9,All of the following can result in airway obstructions except:,FALSE
-108,9,The high-pitched sound caused by an upper airway obstruction is known as:,FALSE
-109,9,Which of the following should be kept in mind when assessing and managing the airway of a pediatric patient?,FALSE
-110,9,You are ventilating a cardiac arrest patient when he begins to vomit copious amounts of large pieces of undigested food. Which of the following would be most effective in clearing the airway?,FALSE
-111,10,Which of the following statements best describes the exchange of gas in the alveoli?,FALSE
-112,10,What are the signs of hypoxia?,FALSE
-113,10,"While ventilating an intubated patient with a bag-valve-mask-unit, you notice increased resistance to the ventilations. This may indicate that:",FALSE
-114,10,The normal urge to breathe is stimulated by chemoreceptors that measure changing levels of what two gases?,FALSE
-115,10,"For life to be maintained, a balance of oxygen and carbon dioxide is needed. The condition when oxygen levels are low is called:",FALSE
-116,10,"Which of the following oxygen cylinders would normally run out after 50 minutes when flowing at 10 liters per minute? Assume a pressure of 2,000 psi displayed on the pressure gauge.",FALSE
-117,10,"A 16-year-old patient presents with labored breathing and increased respiratory rate, increased heart rate, and leaning forward with his hands on his knees. His skin is a normal color and his pulse oximetry is 96. This patient is suffering from respiratory:",FALSE
-118,10,What device is used to perform mouth-to-mask ventilation?,FALSE
-119,10,A nonrebreather mask at 12 to 15 liters per minute will generally provide the patient what percentage of oxygen?,FALSE
-120,10,Your patient is a motorcyclist who was ejected after striking a guard rail. The patient is unresponsive to painful stimuli and is breathing shallowly six to eight times per minute. Which of the following should you do first?,FALSE
-121,11,At what point is the scene size-up complete?,FALSE
-122,11,Which of the following is not a consideration that should be used by the EMT in establishing the size of the danger zone?,FALSE
-123,11,Your patient fell out of a tree while putting the roof on a tree house. A 15-foot ladder is required to enter the tree house and there is enough room for an adult to stand up inside. Your patient should be transported to:,FALSE
-124,11,"You have just arrived on the scene of a motor vehicle collision in which a compact car was struck from behind by a delivery truck. The driver of the delivery truck is standing outside his vehicle talking to police when you arrive, but the driver of the car is still seated in the driver's seat. You have noted moderate damage to the rear of the car. For which of the following injuries should you have the highest level of suspicion?",FALSE
-125,11,Which of the following situations requires additional action by the EMT during scene size-up?,FALSE
-126,11,Which of the following is true concerning scene size-up?,FALSE
-127,11,You are on the scene of an explosion at a suspected methamphetamine manufacturing operation. You and your partner are the first to arrive and note two middle-aged men and a woman on the front lawn with burns and cuts on their faces and arms. The fire department is en route. Which of the following resources would be the least important to request during the scene size-up?,FALSE
-128,11,"When considering the potential for injury from a fall, which of the following is least important?",FALSE
-129,11,"You are dispatched to a local bar for the report of an unresponsive female patient found in the bathroom. As you approach the scene, you notice a large crowd outside the front door holding beer bottles. The group has pulled the patient outside. As you approach the scene, people from the group start yelling, ""Do something! She's not breathing."" What concerns you the most about this scene?",FALSE
-130,11,You are called to a motor vehicle collision where the car is on fire. You should ensure safety by:,FALSE
-131,12,Which of the following presentations would be considered normal during the breathing phase of the primary assessment?,FALSE
-132,12,You find a teenage male lying supine in his bedroom. You hear gurgling sounds from the patient's mouth and see vomit with pill fragments on the floor. You should:,FALSE
-133,12,Which of the following is true concerning the primary assessment?,FALSE
-134,12,Which of the following represents the correct order of assessment for the EMT during the primary assessment from start to end?,FALSE
-135,12,Which of the following is not part of the general impression?,FALSE
-136,12,"In EMS, which of the following best describes the term intervention?",FALSE
-137,12,A patient whose mental status can be described as verbal is able to:,FALSE
-138,12,Which of the following describes the chief complaint?,FALSE
-139,12,Which of the following is the correct manner for checking for responsiveness in an apparently unresponsive infant?,FALSE
-140,12,You are approaching a young adult male lying supine on the ground with his eyes closed. You should:,FALSE
-141,13,"If capillary refill is assessed in a child patient, how long should it take the normal pink color to return to the nail bed?",FALSE
-142,13,A device that uses wavelengths of light to measure oxygen saturation (SpO2) is called a(n):,FALSE
-143,13,"When the EMT checks the pupils, he or she is checking for what three things?",FALSE
-144,13,The abbreviation mmHg indicates that the blood pressure is measured by which of the following comparisons?,FALSE
-145,13,"You are assessing a 55-year-old male complaining of chest pain and have determined that his radial pulse is barely palpable. You also determine that there were 20 pulsations over a span of 30 seconds. Based on this, how would you report this patient's pulse?",FALSE
-146,13,Breathing sounds that should concern the EMT are:,FALSE
-147,13,Your patient is in late stages of liver failure and has requested to be transported to the emergency department. You notice his skin is warm and dry with a yellow color. Your radio report to the hospital should state your patient is:,FALSE
-148,13,How often should a patient's vital signs be reassessed during transport to the hospital after the pulse has been restored with CPR and the use of an AED?,FALSE
-149,13,"Your patient has a heart rate of 82, a respiratory rate of 16, and a blood pressure of 120/80 and does not appear to be in any distress. You should repeat vital sign measurements at least every:",FALSE
-150,13,"When the heart contracts and forces blood into the arteries, the pressure created is known as the:",FALSE
-151,14,Your elderly patient reports having stomach cramps for several hours. He denies any trauma and he hasn't eaten for several hours. Which of the following is most important to your assessment of this patient?,FALSE
-152,14,You are dispatched for a patient with chest pain. Your patient tells you that she has had shortness of breath and chest pain for about 20 minutes. Which of the following questions will give you the best information regarding your patient's chest pain symptoms?,FALSE
-153,14,"When assessing a patient's pertinent past history, you should ask which of the following questions?",FALSE
-154,14,Which of the following methods should be used to have a patient rate the amount of pain he is having?,FALSE
-155,14,"When using the memory aid OPQRST, which of the following questions would help you find out about P?",FALSE
-156,14,"""If it looks like a duck and quacks like a duck, it must be a duck—except when it isn't"" is a way to summarize which of the following?",FALSE
-157,14,A description of a patient's condition that assists a clinician in further evaluation and treatment is known as which of the following?,FALSE
-158,14,_________ are signs or symptoms that suggest the possibility of a particular problem that is very serious.,FALSE
-159,14,Which of the following describes skepticism about one thing causing another?,FALSE
-160,14,"Mr. Green is complaining of severe difficulty breathing after being stung by a bee. His wife states he has had reactions to bee stings before, but not quite this severe. Which medications should you specifically ask him about?",FALSE
-161,15,For which of the following patients is a focused physical examination appropriate?,FALSE
-162,15,"When assessing a patient who has been stabbed, which of the following information should the EMT gain first?",FALSE
-163,15,You are assessing a patient who has been involved in a motor vehicle crash. Which of the following questions would be the most important to ask him?,FALSE
-164,15,"When assessing a 14-year-old male patient that has been involved in a bicycle accident, you notice that he has a small amount of blood coming from his left forearm. This observation is known as which of the following?",FALSE
-165,15,"Immediately following a rapid physical exam on an unresponsive medical patient, which of the following should you do next?",FALSE
-166,15,You have performed a rapid trauma assessment on a patient with multiple long-bone injuries. Your next assessment step should be which of the following?,FALSE
-167,15,You respond to a motor vehicle collision and find a patient with an altered mental status and angulated left femur; the other driver is deceased. Your closest trauma center is 45 minutes away. Which of the following would you do next?,FALSE
-168,15,"The ambulance is called for an assaulted patient. While transporting the patient to the hospital, the EMT notes the patient's jugular veins are flat (nondistended). Which of these is most likely the cause of this finding?",FALSE
-169,15,You are called for a patient who is complaining of being weak and dizzy. He reports that he does not have enough money to pay for his medications so he has not gotten them refilled. Your service has an automatic blood pressure machine and you use it to measure the patient's blood pressure while you count his respirations. The blood pressure machine reports a blood pressure of 280/140. What should you do next?,FALSE
-170,15,Your patient is the 18-year-old male driver of a vehicle that struck a tree. He is conscious and complaining of neck pain. The passenger is obviously dead. You have performed your primary assessment. Which of the following is the next step?,FALSE
-171,16,"You are transporting a patient who has had her neck slashed from side to side. You and your partner are caring for the patient while a police officer drives you to the hospital, which is minutes away. You are focusing all of your efforts to maintain her airway and your partner is controlling her bleeding. Which of the following will you be unlikely to obtain?",FALSE
-172,16,You are transporting a 20-year-old soccer player who injured his ankle during a match. His injury appears to be isolated and he has no significant past medical history. How frequently should you perform a reassessment on this patient?,FALSE
-173,16,"Your patient called 911 because he was having chest pain. He states that his pain is a 7 on a 10-point scale. As part of your care, you assist him with taking his nitroglycerin per medical direction. After waiting a few minutes for the medication to take effect, you should:",FALSE
-174,16,"Your patient is a 23-year-old male with a stab wound to the abdomen. You have bandaged the wound and are transporting the patient to a trauma center. During your reassessment, you note that the bandage has become soaked with blood. What should your priority be with this patient?",FALSE
-175,16,"You are treating a 57-year-old male for chest pain. You have gathered all pertinent history of the present illness, completed two sets of vital signs, talked with medical direction, and assisted the patient with two doses of his nitroglycerin. Determination of whether or not the nitroglycerin was effective is assessed during the:",FALSE
-176,16,"As you arrive at the emergency department with an unresponsive trauma patient, the nurse asks for your trending assessment. Why is this information important to the nurse?",FALSE
-177,16,What is the first step in the reassessment process?,FALSE
-178,16,"You are treating a 15-year-old boy who apparently broke his right arm when he fell while skateboarding with his friends. You have completed your primary and secondary assessment including splinting his arm, but you found no other injuries or problems. Which of the following is the most important step to do during the reassessment?",FALSE
-179,16,"While transporting a patient to the hospital, the EMT repeats his reassessment including vital signs every 15 minutes until he arrives at the emergency department. According to this information, which of the following best describes your patient's current status?",FALSE
-180,16,You are transporting a 30-year-old male who has been shot in the chest. He is suffering from a sucking chest wound and has a decreased level of consciousness. How often should you perform a reassessment?,FALSE
-181,17,Which of the following is not appropriate for inclusion in the radio report to the receiving hospital?,FALSE
-182,17,"You have received the following order from medical control: ""Administer one tablet of nitroglycerin under the patient's tongue."" Which of the following is the best response?",FALSE
-183,17,Which of the following best describes a base station?,FALSE
-184,17,Which of the following is not an appropriate statement for the EMT to make on a patient care report?,FALSE
-185,17,Which of the following is not part of a medical radio report?,FALSE
-186,17,"When you arrive at the receiving facility, the nurse asks your partner for a verbal report of the patient's condition. This is in addition to the radio report your partner gave to the hospital en route. Afterwards, you ask your partner why you must give a second verbal report and a written report to the receiving nurse. What is the best reason to provide both reports?",FALSE
-187,17,Which of the following is not an appropriate way of dealing with a patient who does not speak the same language as you do?,FALSE
-188,17,Which of the following is not a reason for routine review of prehospital care reports in a quality improvement program?,FALSE
-189,17,Which of the following best describes a portable radio?,FALSE
-190,17,The Health Insurance Portability and Accountability Act (HIPAA) requires ambulance services to do all of the following except.,FALSE
-191,18,What is the most important medication that should be administered to a patient experiencing chest pain with difficulty breathing?,FALSE
-192,18,"You are on the scene of a 48-year-old male patient complaining of chest pain. He has nitroglycerin prescribed and available. After performing your physical examination, you contact medical control and are ordered to assist the patient in taking his nitroglycerin. Five minutes after taking his nitroglycerin, the patient complains of being dizzy and having a headache. You lie the patient down on the stretcher and reassess his vital signs. He is now hypotensive. The patient is suffering from a(n):",FALSE
-193,18,"You have just administered nitroglycerin to a 68-year-old patient. Within a few minutes, she complains of feeling faint and lightheaded, but states that she is still having some chest pain. Which of the following would be the best sequence of actions?",FALSE
-194,18,Which of the following best describes the five rights?,FALSE
-195,18,Epinephrine delivered by auto-injector may be indicated for patients with which of the following conditions?,FALSE
-196,18,Choose the correct completion to this statement regarding intravenous (IV) administration: This route is used to administer medication into the body directly or through the bloodstream and is:,FALSE
-197,18,"You are on the scene at a fancy hotel room for a 60-year-old male patient who calls 911 at 10 p.m. for chest pains. He states he was about to go to bed when he suddenly had chest pain that would not go away. He rates his pain as a 7 out of 10 and is diaphoretic. His vital signs are stable, and he takes medications for hypertension, high cholesterol, and erectile dysfunction. The patient is allergic to morphine. After placing the patient on oxygen, you contact medical control and request:",FALSE
-198,18,"If an EMT is enlisted to help set up the IV administration set, the first step is to:",FALSE
-199,18,Why should EMTs study pharmacology?,FALSE
-200,18,"When you give patients nitroglycerin, they sometimes develop a headache. This would be called a(n):",FALSE
-201,7,An infection of the brain is called:,FALSE
-202,7,Our blood transports oxygen from the lungs to the cells and returns with what byproduct of metabolism?,FALSE
-203,7,"You are caring for a 25-year-old male patient who has been shot once in the head. The patient is in extremis (near the point of death) with a noticeable breathing pattern that alternates between no breathing and fast breathing. Your understanding of pathophysiology leads you to believe the breathing pattern may be due to damage to the section of his brain responsible for respiratory control, also known as the:",FALSE
-204,7,"What substances, when dissolved, separate into charged particles?",FALSE
-205,7,What do chemoreceptors found in the body and vascular system measure?,FALSE
-206,7,"The respiratory system moves air in and out; however, to ________ cells, the air that is inhaled must meet up with the circulatory system.",FALSE
-207,7,What element does the cell need in order to not dehydrate and die?,FALSE
-208,7,"Certain blood vessels that contain specialized sensors that detect the level of internal pressure and transmit messages to the nervous system, which then triggers the smooth muscle in the vessel walls to make any needed size adjustments. These sensors are called:",FALSE
-209,7,"You are called to a kindergarten class where a boy has fallen while climbing on playground equipment. The teacher saw him fall and hit his stomach on a step. He is sobbing and holding his abdomen. As you assess him, you find his skin cool and moist to the touch, his pulse is 132, and his respiratory rate is 28. Why is the boy acting this way?",FALSE
-210,7,________ blood returns to the right side of the heart.,FALSE
-211,6,The cardiac muscle receives its supply of oxygenated blood by which of the following mechanisms?,FALSE
-212,6,What is the inferior-most portion of the sternum?,FALSE
-213,6,Which of the following structures closes over the trachea to protect it during swallowing?,FALSE
-214,6,What two body systems are critical for the life support chain?,FALSE
-215,6,"In relation to anatomy, the term topography means:",FALSE
-216,6,What is another name for the shoulder blade?,FALSE
-217,6,What condition of immediate concern results from a loss of red blood cells due to hemorrhage?,FALSE
-218,6,What type of muscles control the size of the bronchioles in the lungs?,FALSE
-219,6,Which of the following are the components of the complete nervous system?,FALSE
-220,6,"What system is composed of organs, tissues, and vessels that help maintain the fluid balance of the body and contribute to the body's immune system?",FALSE
-221,5,The wrist is ________ to the elbow.,FALSE
-222,5,"With regard to medical terminology, a prefix is:",FALSE
-223,5,"You and your EMT partner are responding to a medical aid call in the rural West County area. The dispatcher advises that the caller is reporting the patient as having a history of ""plegia."" Why would it be beneficial to have the dispatcher clarify a prefix for the word plegia?",FALSE
-224,5,"Your 79-year-old female patient appears to show all signs and symptoms of a stroke. Her level of consciousness has rapidly deteriorated, she is now unconscious, and she can no longer control her own airway. While you intervene to manage her airway, the best position in which to keep fluid or vomitus from occluding her airway would be the:",FALSE
-225,5,Which of the following are the abdominal regions created by drawing two imaginary lines intersecting at the navel?,FALSE
-226,5,Which of the following describes the midline of the body?,FALSE
-227,5,"With regard to anatomical locations, which of the following is not true?",FALSE
-228,5,"You and your newly hired EMT partner arrive on the scene of a bicycle collision at the local community park. One cyclist stands by and says that she has no injuries. The other is lying on his side on the bike path, guarding his ribs and holding the lower part of his left leg. Your partner kneels next to the man, introduces herself, and asks, ""Can you ambulate?"" The patient looks up, confused and in obvious pain. ""Can you ambulate? You know...walk?"" Your partner says, a little louder. After transporting the patient, you discuss the call with your partner and suggest that she avoid using medical terms unnecessarily when talking with patients. She seems insulted and says, ""Why?"" What would you say?",FALSE
-229,5,The term lateral is best defined as:,FALSE
-230,5,The inside of a person's thigh is also known as its ________ aspect.,FALSE
-231,4,You respond to the report of an unconscious female patient. You can acquire important medical information about the patient through which of the following?,FALSE
-232,4,In which of the following situations should an EMT withhold resuscitative measures from a patient in cardiac arrest?,FALSE
-233,4,The EMT's obligation to provide care to a patient either as a formal or ethical responsibility is known as which of the following?,FALSE
-234,4,"You are treating an elderly male patient in the back of your ambulance. En route, the patient becomes unresponsive. Upon arrival, the ED nurse asks you several questions about his condition. What should you do?",FALSE
-235,4,Your patient is a 10-year-old boy who suffered a possible fractured arm while rollerblading at a friend's house. Which of the following is the best way to obtain consent for treatment?,FALSE
-236,4,The administration of oxygen and the application of spinal immobilization are part of which of the following for the EMT?,FALSE
-237,4,Which of the following situations best illustrates the act of abandonment by the EMT?,FALSE
-238,4,"While documenting a call, you add a false statement that was made about a local doctor. This could constitute which of the following?",FALSE
-239,4,Sharing information about a patient's medical history with your neighbor after you hear a call on a radio scanner would constitute which of the following?,FALSE
-240,4,Which of the following is not required to prove a claim of negligence against an EMT?,FALSE
-241,3,Which of the following is another name for the squat-lift position?,FALSE
-242,3,Which of the following patients should not be transported in a stair chair?,FALSE
-243,3,"You and your partner arrive on the scene of a 400-pound patient lying in bed. He complains of nausea and vomiting for the past 3 days. When he tries to sit up, he gets very dizzy and has a syncopal episode. Realizing that he cannot assist you in getting on the stretcher, you decide to do which of the following?",FALSE
-244,3,You are moving an elderly patient down the stairs using a stair chair. The patient is alert and very anxious. What should you do prior to moving the patient to prevent her from grabbing the railing and causing you to fall?,FALSE
-245,3,Stretchers that are designed to carry obese patients weighing up to 800 pounds (or more) are called:,FALSE
-246,3,How many pounds are most battery-powered hydraulic systems rated to safely lift?,FALSE
-247,3,The term body mechanics describes the proper use of your body to lift without injury. What are the three considerations to review before any lift?,FALSE
-248,3,"If the weight being pulled is below the level of the EMT's waist, he should be in a(n) ________ position.",FALSE
-249,3,Which of the following is the correct position of an EMT's feet when lifting?,FALSE
-250,3,Which of the following is not correct when performing a log roll?,FALSE
-251,3,Where should you position the weight of the object being lifted?,FALSE
-252,3,You have responded to a nursing home and find an elderly patient in his bed in cardiac arrest. Which type of move would you perform to get the patient to a hard surface so you can perform chest compressions?,FALSE
-253,3,"Which of the methods listed below is best described as moving a patient from the floor to a stretcher by having two or more rescuers kneel, curl the patient to their chests, stand, and then reverse the process to place the patient on the stretcher?",FALSE
-254,3,Urgent moves are required when:,FALSE
-255,3,Which of the following should you not do when reaching for something?,FALSE
-256,3,"You respond to a call at a park where you find a 550-pound patient who has fallen down a slope near a creek. As you and your partner discuss the situation, you decide to call a second unit for lifting assistance. Once the patient is on a stretcher, how would the additional two personnel help in this lift?",FALSE
-257,3,What is the likely impact of power stretchers on EMS?,FALSE
-258,3,Which of the following devices should be used to carry a patient down the stairs whenever possible?,FALSE
-259,3,Which of the following factors least needs to be considered before lifting any patient?,FALSE
-260,3,What is the main benefit of using a stair chair with a tracklike system over a traditional stair chair?,FALSE
-261,2,"When covering a patient's mouth and nose with a mask of any kind, which of the following is the primary risk?",FALSE
-262,2,Which of the following is true regarding proper hand cleaning?,FALSE
-263,2,"Because EMS personnel are often exposed to both acute and chronic stressors, ________ management may be helpful to cope with on-the-job experiences.",FALSE
-264,2,"For the last few days, your regular EMT partner has been having trouble sleeping, has been on edge, and has had trouble concentrating on his job during EMS calls. Luckily, your call volume has been low with no serious calls since the infant cardiac arrest you both worked last month. You ask him if anything is bothering him and he states he is fine in every way. He states that he has been going to the bars lately to relax and invites you to come along for some drinks after work. Choose the best answer for this situation.",FALSE
-265,2,"You are on the scene of an ""unknown medical"" call. The patient is a 26-year-old, 250-pound male patient who suddenly becomes violently angry. Everything you say to the patient only makes him angrier. Offended by your questions, he screams that he is going to ""cut your tongue out"" and hurries into the kitchen. What should you do?",FALSE
-266,2,"You are called to an assault on a homeless male. Dried blood from the trauma is visible around the patient's mouth and nose. During assessment, you note the patient has a productive cough. The patient says, ""Don't worry, I'm not contagious. I've had this cough for a year."" Describe the best approach regarding respiratory isolation.",FALSE
-267,2,What are the minimum Standard Precautions an EMT should take when transporting a patient infected with Middle East Respiratory Syndrome (MERS)?,FALSE
-268,2,The term burnout is also known as a(n) ________ stress reaction.,FALSE
-269,2,"What is a positive, healthy way to help deal with stress?",FALSE
-270,2,Healthcare employers are required by law to make a hepatitis B ________ available to employees free of charge.,FALSE
-271,2,An EMT should consider wearing protective eyewear when caring for which of these patients?,FALSE
-272,2,"The tuberculin skin test (TST), formerly known as the purified protein derivative (PPD) test, is used to:",FALSE
-273,2,"What reference provides important information regarding hazardous materials, emergency care, and procedures in case of accidental fire or release; supplies definitions of placard colors and identification numbers; and should be standard issue on board all ambulances and rescue units?",FALSE
-274,2,Which of the following is a physiologic effect of the stress triad as described by the physician Hans Selye?,FALSE
-275,2,Which of the following provides the greatest personal safety for an EMT working at a motor vehicle collision?,FALSE
-276,2,Which of the following is the form of stress that can cause immediate and long-term problems with an EMT's health and well-being?,FALSE
-277,2,"Which hormone helps the body control stress, regulate metabolism, and influence an immune response?",FALSE
-278,2,"While transporting a patient to the hospital who has a history of terminal brain cancer, the patient says, ""I know I'm going to die, but first I want to see my grandson graduate from high school."" What stage of death and dying describes this patient's current condition?",FALSE
-279,2,"A family member who keeps pleading with a deceased loved one to ""wake up"" is experiencing which reaction to death and dying?",FALSE
-280,2,"You are dispatched to a female with altered mental status. Once inside the home, you find a female who appears to have been beaten unconscious. A man, who smells of alcohol, says that she is his wife and that he does not know what happened: ""I just found her this way!"" The husband is behaving suspiciously, appears paranoid, and is pacing erratically around the room. What would be the safest course of action?",FALSE
-281,1,What best defines the evaluation of the patient's condition in order to provide emergency care?,FALSE
-282,1,"You and your EMT partner are assigned to spend a day at the senior center where you are to inspect the rooms and common areas for fall hazards. Your partner is upset that he is not in the ambulance where the ""action is."" He complains that ""looking for loose rugs"" is a waste of his time. What would be the best response to his complaints?",FALSE
-283,1,Which of the following best describes a list of steps the EMT should perform while assessing and managing emergency medical situations?,FALSE
-284,1,What best describes the level of EMS training that emphasizes use of advanced airway devices and some prehospital medication administration?,FALSE
-285,1,You have just come on duty. The EMT on the previous shift complains to you that the QI manager was giving him grief because he did not document three sets of vital signs on the patient record. The EMT is angry and does not understand why documenting three sets of vital signs is so important. What is the best answer you could give him?,FALSE
-286,1,Which of the following is a role of the EMT in the quality improvement process?,FALSE
-287,1,Which of the following best describes training that supplements the EMT's original training and that is usually taken in regular intervals?,FALSE
-288,1,"You and another new EMT are studying your local protocols. The other EMT notices that you may give oral glucose without utilizing on-line medical control, but you must get an on-line order from a physician before assisting a patient in taking his nitroglycerin for chest pain. The EMT asks you why some drugs require on-line medical control while others do not. What is the best answer to give him?",FALSE
-289,1,Which of the following best describes a person who speaks up on behalf of the patient and supports his cause?,FALSE
-290,1,The National Registry of Emergency Medical Technicians (NREMT) was founded to establish which of the following?,FALSE
-291,1,"A fellow EMT is talking with the Medical Director at a staff meeting. The EMT states that the neighboring ambulance service is carrying special clotting bandages for serious bleeding wounds. The special bandages cost five times as much as the regular bandages, but the EMT claims they work ten times better. The EMT wants the Medical Director to approve the bandages for use in their ambulances. The Medical Director responds to the EMT by saying he will not approve the bandages until he can prove they are worth the additional cost. How can the EMT best prove the worth of the special bandages?",FALSE
-292,1,Who assumes the ultimate responsibility for patient care rendered by the EMT?,FALSE
-293,1,Why is research published in a medical journal more authoritative than the information in a typical article published in an EMS magazine?,FALSE
-294,1,Why is it important for EMTs to participate in quality improvement programs?,FALSE
-295,1,The application of oxygen for a patient who is short of breath without having to contact the physician in the emergency department because of existing protocols is an example of which of the following?,FALSE
-296,1,Which of the following groups is credited with developing the earliest documented emergency medical service?,FALSE
-297,1,Which of the following is a physical trait necessary for performing the duties of an EMT?,FALSE
-298,1,"To be compassionate and empathetic, to be accurate with interviews, and to inspire confidence are all examples of which of the personal traits of a quality EMT?",FALSE
-299,1,A written authorization for an EMS provider to perform a particular skill in a specific situation is a(n):,FALSE
-300,1,"After delivering a patient to the emergency department, you discuss with hospital staff the details of your care and ask for suggestions to improve your care. This is an example of your role in which of the following?",FALSE
-301,19,Which of the following is proper when assisting a patient with the use of a prescribed inhaler?,FALSE
-302,19,"Your patient is a 30-year-old female who may have overdosed on antidepressant medications. On your arrival, she is lying supine on her bed with her head on a pillow. She is unresponsive to painful stimuli and is snoring. She appears to be pale and her skin is cool and clammy. What should you do first?",FALSE
-303,19,What is not one of the symptoms of a pulmonary embolus?,FALSE
-304,19,Which of the following best defines inadequate breathing?,FALSE
-305,19,Your patient is a 60-year-old female with a sudden onset of severe difficulty breathing. She has no prior history of respiratory problems. Which of the following should be done before applying oxygen by nonrebreather mask?,FALSE
-306,19,Which of the following inhalers would not be used to reverse an asthma attack?,FALSE
-307,19,In which of the following circumstances is medical direction necessary when assisting a patient with the use of a prescribed inhaler?,FALSE
-308,19,"You are called to the scene of a 45-year-old nonsmoker male with a history of asthma in respiratory distress. You find him lying supine on the couch. The patient is lethargic but can answer all your questions appropriately. He is diaphoretic, and complains of being cold, coughing, and having difficulty breathing for the past 3 days. His vital signs are blood pressure of 110/70, heart rate of 116, respiratory rate of 24, oxygen saturation of 93%, and temperature of 100.6°F. You hear rhonchi in the left lobes and he is coughing up yellow-tinged sputum. What condition do you suspect?",FALSE
-309,19,"A patient who has shallow, slow, irregular, gasping breaths is said to have ________ respirations.",FALSE
-310,19,Which of the following respiratory rates is considered an abnormal respiratory rate for an adult?,FALSE
-311,20,Which of the following is the beneficial action of nitroglycerin in some cardiac emergencies?,FALSE
-312,20,What is (are) the first organ(s) perfused by blood leaving the heart?,FALSE
-313,20,"Assuming your protocol allows the administration of nitroglycerin when certain conditions exist, what is the maximum number of tablets to be administered in the prehospital setting?",FALSE
-314,20,Which of the following terms refers to swelling of the lower extremities seen in many cardiac patients?,FALSE
-315,20,Which of the following statements regarding the administration of nitroglycerin tablets is true?,FALSE
-316,20,Which of the following is typical of angina pectoris?,FALSE
-317,20,Which of the following is a general term used to refer to a problem with the heart?,FALSE
-318,20,What is not a result of a mechanical malfunction of the heart?,FALSE
-319,20,Which of the following statements regarding angina pectoris is true?,FALSE
-320,20,In which of the following situations would the administration of aspirin to a cardiac patient be prohibited?,FALSE
-321,21,In which of the following ways does cardiac arrest in children differ from cardiac arrest in adults?,FALSE
-322,21,Mechanical CPR devices are used by EMS agencies in order to provide:,FALSE
-323,21,"You are the first on the scene of a 72-year-old patient in cardiac arrest. You have your medical supply kit, oxygen, and an AED. At least 4 to 5 minutes of high-quality CPR has been provided by the police officer who arrived before you. You have confirmed an open airway, apnea, and pulselessness. Which of the following should you do next?",FALSE
-324,21,"When using an AED, which of the following people is responsible for calling to ""clear"" the patient before delivering a shock?",FALSE
-325,21,Which of the following should NOT be done during defibrillation?,FALSE
-326,21,Blunt and penetrating injuries can damage chambers of the heart or cause conditions like:,FALSE
-327,21,Which of the following BEST describes an appropriate shock sequence for the patient in ventricular tachycardia?,FALSE
-328,21,Your patient is a 44-year-old female who has collapsed while jogging. She has been unresponsive for 4 to 5 minutes by the time you arrive. Her husband appears to be performing high-quality CPR. Which of the following should be your FIRST action?,FALSE
-329,21,"If an EMT is tasked with managing the family of a patient who is deceased after termination of resuscitation, what is an effective care strategy?",FALSE
-330,21,EMTs arrive at the scene of a cardiac arrest to see a police officer beginning to defibrillate the patient. At what point should the EMTs take over?,FALSE
-331,22,"Looking at the following list, which of the items does NOT correctly compare the signs and symptoms of hypoglycemia and hyperglycemia?",FALSE
-332,22,Normal consciousness is regulated by a series of neurologic circuits in the brain that compose the reticular activating system (RAS). The RAS has simple requirements to function properly. Which one of the following items is NOT one of those requirements?,FALSE
-333,22,Which of the following is a typical cause of seizures in children 6 months to 3 years of age?,FALSE
-334,22,Which of the following refers to difficulty in using words or understanding speech as a result of a stroke?,FALSE
-335,22,Many stroke patients are candidates for thrombolytic drugs. One of the most important things that an EMT can do to optimize the care of a stroke patient who is a candidate for the drugs is:,FALSE
-336,22,Which of the following blood glucose levels is considered normal for an adult?,FALSE
-337,22,"Compared to hypoglycemia, which of the following is TRUE of hyperglycemia?",FALSE
-338,22,Your patient is a 21-year-old female with a history of epilepsy. She is having a convulsion upon your arrival. Which of the following should you do?,FALSE
-339,22,"During your primary assessment, you find your patient has an altered mental status. This could indicate which of the following?",FALSE
-340,22,A hormone called insulin is secreted by the:,FALSE
+id,chapter_id,question_text,needs_review,origin
+1,9,Which of the following is true concerning the procedure for inserting a nasopharyngeal airway (NPA)?,FALSE,past quiz
+2,9,Which of the following is the correct method of suctioning?,FALSE,past quiz
+3,9,"When inserting an oropharyngeal airway, how many degrees do you need to rotate the airway so the tip is pointing down into the patient's pharynx?",FALSE,past quiz
+4,9,What is the sound of the soft tissue of the upper airway creating impedance or partial obstruction to the flow of air?,FALSE,past quiz
+5,9,"You have performed a head tilt-chin lift maneuver on a 17-month-old boy and are attempting to ventilate him with a bag-valve mask. You are experiencing a lot of resistance with each breath and the chest is barely rising. Prior to attempting ventilations again, you should:",FALSE,past quiz
+6,9,"To be effective, a suction unit must be able to generate air flow of at least ________ liters per minute and create a vacuum of no less than ________ mmHg.",FALSE,past quiz
+7,9,The high-pitched sound caused by an upper airway obstruction is known as:,FALSE,past quiz
+8,9,"When suctioning the airway, you should try to limit suctioning to no longer than ________ seconds at a time.",FALSE,past quiz
+9,9,Which of the following is an advantage of using a nasopharyngeal airway (NPA)?,FALSE,past quiz
+10,9,Which of the following is a disadvantage of oropharyngeal airways (OPAs)?,FALSE,past quiz
+11,10,A ________ is not typically used in the prehospital setting for oxygen administration.,FALSE,past quiz
+12,10,Which of the following describes why fast respiration may decrease minute volume?,FALSE,past quiz
+13,10,The movement of oxygen and carbon dioxide across the cell membranes from the capillaries is called:,FALSE,past quiz
+14,10,The oxygen flow rate for a nasal cannula should not exceed ________ liters per minute.,FALSE,past quiz
+15,10,Which of these patients would require a tracheostomy mask for supplemental oxygen administration?,FALSE,past quiz
+16,10,When does respiratory distress change to respiratory failure?,FALSE,past quiz
+17,10,The movement of oxygen and carbon dioxide between the alveoli and circulating blood is called:,FALSE,past quiz
+18,10,"While ventilating an intubated patient with a bag-valve-mask-unit, you notice increased resistance to the ventilations. This may indicate that:",FALSE,past quiz
+19,10,The safe residual for an oxygen cylinder is ________ psi.,FALSE,past quiz
+20,10,What are the signs of hypoxia?,FALSE,past quiz
+21,11,"Your patient, a 29-year-old female, was the front seat passenger in a vehicle that was struck in the passenger's side door by another vehicle that ran a red light. Which of the following is most likely to have occurred?",FALSE,past quiz
+22,11,Which of the following situations requires additional action by the EMT during scene size-up?,FALSE,past quiz
+23,11,Which of the following is true concerning scene size-up?,FALSE,past quiz
+24,11,"As you approach the scene of a motorcycle accident, you see an EMR trying to stop the bleeding on the patient's left arm. You notice that the EMR has blood covering the front of his shirt and running down his arms. What Standard Precautions are needed?",FALSE,past quiz
+25,11,Your patient fell out of a tree while putting the roof on a tree house. A 15-foot ladder is required to enter the tree house and there is enough room for an adult to stand up inside. Your patient should be transported to:,FALSE,past quiz
+26,11,Which of the following situations will not require additional resources at the scene?,FALSE,past quiz
+27,11,"You are dispatched to a local bar for the report of an unresponsive female patient found in the bathroom. As you approach the scene, you notice a large crowd outside the front door holding beer bottles. The group has pulled the patient outside. As you approach the scene, people from the group start yelling, ""Do something! She's not breathing."" What concerns you the most about this scene?",FALSE,past quiz
+28,11,You are called to a motor vehicle collision where the car is on fire. You should ensure safety by:,FALSE,past quiz
+29,11,"You and your partner are en route to a motor vehicle crash involving a tanker truck on a rural road. Dispatch informs you that fluid is leaking from the truck, that there are several bystanders passed out on the ground near the cab of the truck, and that a caller has reported the code that appears on a placard attached to the tanker truck. You should:",FALSE,past quiz
+30,11,Which law of physics explains why a patient's liver can be injured from the impact of his car with a tree?,FALSE,past quiz
+31,12,Which of the following describes the chief complaint?,FALSE,past quiz
+32,12,"Which of the following differences should be expected when assessing a pediatric patient, as compared to an adult patient?",FALSE,past quiz
+33,12,Which of the following is the most reliable means of determining whether a patient has any immediately life- threatening conditions?,FALSE,past quiz
+34,12,"Which term refers to the EMT's initial sense of the patient's condition, based on immediate assessment of the patient's environment, appearance, and chief complaint?",FALSE,past quiz
+35,12,You are approaching a young adult male lying supine on the ground with his eyes closed. You should:,FALSE,past quiz
+36,12,"You enter a room to find a 16-year-old female sitting upright in a chair with her back straight, leaning forward, and her arms supporting her. She is having a hard time talking to you. You should suspect:",FALSE,past quiz
+37,12,Which of the following is the purpose of the primary assessment?,FALSE,past quiz
+38,12,You are approaching a 16-year-old male with bright red spurting blood coming from his leg. He is screaming and he begs you to help him. You should:,FALSE,past quiz
+39,12,Which of the following represents the correct order of assessment for the EMT during the primary assessment from start to end?,FALSE,past quiz
+40,12,For which of the following patients would capillary refill be a reliable sign of circulatory status?,FALSE,past quiz
+41,13,"When the EMT checks the pupils, he or she is checking for what three things?",FALSE,past quiz
+42,13,You are assessing a 48-year-old male who is unconscious. The scene is safe and you hear the patient gurgling. What is your next action?,FALSE,past quiz
+43,13,"Your patient is warm, dry, pink, and denies shortness of breath. Which of the following should the EMT expect to find when evaluating the patient's oxygen saturation?",FALSE,past quiz
+44,13,"You are assessing an 82-year-old female who has been lost in the woods behind her nursing home for several hours on a crisp fall evening. Your pulse oximeter shows her oxygen saturation to be 82 percent even though she appears to be breathing adequately. In order to ensure an accurate reading, you should:",FALSE,past quiz
+45,13,The abbreviation mmHg indicates that the blood pressure is measured by which of the following comparisons?,FALSE,past quiz
+46,13,"When the heart contracts and forces blood into the arteries, the pressure created is known as the:",FALSE,past quiz
+47,13,A(n) ________ set of vital signs is important for critical decision making for the EMT.,FALSE,past quiz
+48,13,You are transporting a patient to the hospital from a motor vehicle crash. Your patient's initial blood pressure was 88/52. You should reassess blood pressure:,FALSE,past quiz
+49,13,Slight movement of the chest during respiration is usually indicative of which of the following?,FALSE,past quiz
+50,13,"When taking blood pressure manually, the cuff should be inflated to what point?",FALSE,past quiz
+51,14,________ are signs or symptoms that suggest the possibility of a particular problem that is very serious.,FALSE,past quiz
+52,14,What is the feeling of bone ends rubbing together called?,FALSE,past quiz
+53,14,"Of the following, which would most likely give the best information regarding your patient's mental status?",FALSE,past quiz
+54,14,Which of the following is one advantage of using heuristics?,FALSE,past quiz
+55,14,"You are on the scene of a 16-year-old patient in respiratory distress. The patient has a history of asthma. After placing the patient on oxygen and performing the primary and secondary assessments, you are confident that the patient is indeed having an asthma attack. How can you be sure your field diagnosis is accurate?",FALSE,past quiz
+56,14,"While an EMT forms a field diagnosis on the scene of an emergency, how do the steps differ from the traditional approach to diagnosis?",FALSE,past quiz
+57,14,Mrs. Butler is a 66-year-old woman who is complaining of chest pain. Which of the following questions would be best in helping you determine if the pain is radiating?,FALSE,past quiz
+58,14,"Mr. Hughes is a 49-year-old man complaining of chest pain. To find out about the quality of his chest pain, which of the following questions is most appropriate?",FALSE,past quiz
+59,14,"Your patient is a 22-year-old college student complaining of abdominal pain. She is alert and oriented, although somewhat uncomfortable. Which of the following should be your first action?",FALSE,past quiz
+60,14,An EMT's assessment differs from an assessment made in the emergency department in which way?,FALSE,past quiz
+61,15,An unconscious trauma patient should always be assumed to have which of the following types of injury?,FALSE,past quiz
+62,15,"In medical terms, bruises are known as which of the following?",FALSE,past quiz
+63,15,"When a patient describes how he feels, he is telling you which of the following?",FALSE,past quiz
+64,15,What term describes a permanent surgical opening in the neck through which a patient breathes?,FALSE,past quiz
+65,15,"Your patient is a 45-year-old female who complains of ""twisting her ankle"" when she slipped on a patch of ice. Which of the following is not appropriate?",FALSE,past quiz
+66,15,You are assessing a patient who has been involved in a motor vehicle crash. Which of the following questions would be the most important to ask him?,FALSE,past quiz
+67,15,"If a patient complains of abdominal pain localized to a specific area of the abdomen, which of the following techniques should be used to assess the abdomen?",FALSE,past quiz
+68,15,"The patient was a driver in a lateral impact motor vehicle collision. During the assessment of his chest, the EMT notes a segment of the chest wall moving in the opposite direction from the rest of the chest. Which of the following best describes this finding?",FALSE,past quiz
+69,15,"The ambulance is called for an assaulted patient. While transporting the patient to the hospital, the EMT notes the patient's jugular veins are flat (nondistended). Which of these is most likely the cause of this finding?",FALSE,past quiz
+70,15,Which of the following situations is most likely to result in hidden or unsuspected injury?,FALSE,past quiz
+71,16,"You are called for an alert patient with respiratory distress. As part of your primary assessment, you place the patient on oxygen via nasal cannula at 2 liters per minute. You continue with the rest of your assessment including taking a set of vital signs. During your reassessment, you notice that the patient's respiratory rate has increased to 24 times per minute and he is having increasing trouble breathing. You should:",FALSE,past quiz
+72,16,________ is reassessing and recording findings of the reassessment so they can be compared to earlier findings.,FALSE,past quiz
+73,16,"Your 76-year-old female patient is having trouble breathing. When you auscultate her lungs, you hear crackles (rales), and you are concerned that she may have pulmonary edema. Her oxygen saturation is 92%, so you place her on 100% oxygen via a nonrebreather mask. Her breathing gets a little easier with the oxygen. You decide to expedite transport since she is anxious about her condition. Later, as you are completing your reassessment, you see that her respirations have slowed to 8 times per minute and she is barely staying awake. What should you do next?",FALSE,past quiz
+74,16,You are transporting a 20-year-old soccer player who injured his ankle during a match. His injury appears to be isolated and he has no significant past medical history. How frequently should you perform a reassessment on this patient?,FALSE,past quiz
+75,16,"During reassessment, you notice that your patient is making gurgling sounds. Which of the following should you do immediately?",FALSE,past quiz
+76,16,"You are treating a 57-year-old male for chest pain. You have gathered all pertinent history of the present illness, completed two sets of vital signs, talked with medical direction, and assisted the patient with two doses of his nitroglycerin. Determination of whether or not the nitroglycerin was effective is assessed during the:",FALSE,past quiz
+77,16,"You have a long transport of a patient who may have sustained a spinal injury. The patient has been stable throughout your transport. During one of your reassessments, your patient tells you that he is losing the feeling in his feet and toes and his fingers are tingling. At this point you should:",FALSE,past quiz
+78,16,Your patient is an 18-year-old female whom you believe may have had a miscarriage and is bleeding heavily. You have completed your primary and secondary assessments and now you need to reassess her to see if the bleeding has stopped. You should:,FALSE,past quiz
+79,16,You are transporting a 30-year-old male who has been shot in the chest. He is suffering from a sucking chest wound and has a decreased level of consciousness. How often should you perform a reassessment?,FALSE,past quiz
+80,16,On which of the following patients should a reassessment be performed?,FALSE,past quiz
+81,17,Which of the following is one the most common situations in which an EMT may be liable?,FALSE,past quiz
+82,17,You have an urgent transmission you need to make to the dispatch center. Which of the following is the appropriate way to communicate this?,FALSE,past quiz
+83,17,Which of the following is not appropriate for inclusion in the radio report to the receiving hospital?,FALSE,past quiz
+84,17,You suspect that a 6-year-old female patient with multiple bruises and a broken wrist was abused. The stepmother states the patient fell down the stairs. The patient is crying and sheepishly nods in agreement with the stepmother's statements. How should you document this situation in the patient report?,FALSE,past quiz
+85,17,"You have responded to a call at a government office building. One of the office workers became very upset during a fire drill and experienced an episode of difficulty breathing. As your partner is speaking with the patient, who is not sure she wants to be transported, an individual wearing civilian clothes approaches you and states she is a security guard in the building. She asks you for the ""yellow copy"" of your prehospital care report. Which of the following should you do?",FALSE,past quiz
+86,17,Your elderly male patient tells you his name is Joe Smith. Which of the following is the best way to address him?,FALSE,past quiz
+87,17,"You are treating a patient with a possible fractured ankle. The patient appears to be in a lot of pain and is uneasy. As you are getting ready to splint the patient's leg, he asks you if it is going to hurt. Which of the following is the best response?",FALSE,past quiz
+88,17,Which of the following best describes the position you should take when dealing with a cooperative patient who is sitting in a chair?,FALSE,past quiz
+89,17,Which of the following is not part of a medical radio report?,FALSE,past quiz
+90,17,You are attempting to place a nonrebreather mask on a patient who is experiencing difficulty breathing. The patient is anxious and does not want the mask on his face. Which of the following is the best course of action?,FALSE,past quiz
+91,18,Which of the following is a desired action of epinephrine delivered by auto-injector?,FALSE,past quiz
+92,18,"Your patient is a 59-year-old woman with a history of emphysema. Per protocol, you have assisted the patient in using her medication inhaler. Which of the following must be documented?",FALSE,past quiz
+93,18,"When you give patients nitroglycerin, they sometimes develop a headache. This would be called a(n):",FALSE,past quiz
+94,18,Which of the following is the commonly accepted list of medications an EMT can assist the patient in taking or administer under the direction of the Medical Director?,FALSE,past quiz
+95,18,How does aspirin actually reduce the chances that a patient suffering a heart attack will die?,FALSE,past quiz
+96,18,Name the type of medical direction consisting of standing orders and protocols.,FALSE,past quiz
+97,18,How does nitroglycerin decrease the level of chest pain that a patient experiences?,FALSE,past quiz
+98,18,Which of the following is an example of a medication's trade name?,FALSE,past quiz
+99,18,Choose the correct completion to this statement regarding intravenous (IV) administration: This route is used to administer medication into the body directly or through the bloodstream and is:,FALSE,past quiz
+100,18,Nitroglycerin is given via the ________ route.,FALSE,past quiz
+101,9,Perhaps the simplest way to determine if a patient has a patent airway is to:,FALSE,past quiz
+102,9,Which of the following is a sign of an inadequate airway?,FALSE,past quiz
+103,9,What is the danger that an altered mental status can pose to a patient's breathing?,FALSE,past quiz
+104,9,The trachea branches at the ________ and forms two mainstem bronchi.,FALSE,past quiz
+105,9,Which of the following structures is found in the lower airway?,FALSE,past quiz
+106,9,Which of the following is an advantage of using a nasopharyngeal airway (NPA)?,FALSE,past quiz
+107,9,All of the following can result in airway obstructions except:,FALSE,past quiz
+108,9,The high-pitched sound caused by an upper airway obstruction is known as:,FALSE,past quiz
+109,9,Which of the following should be kept in mind when assessing and managing the airway of a pediatric patient?,FALSE,past quiz
+110,9,You are ventilating a cardiac arrest patient when he begins to vomit copious amounts of large pieces of undigested food. Which of the following would be most effective in clearing the airway?,FALSE,past quiz
+111,10,Which of the following statements best describes the exchange of gas in the alveoli?,FALSE,past quiz
+112,10,What are the signs of hypoxia?,FALSE,past quiz
+113,10,"While ventilating an intubated patient with a bag-valve-mask-unit, you notice increased resistance to the ventilations. This may indicate that:",FALSE,past quiz
+114,10,The normal urge to breathe is stimulated by chemoreceptors that measure changing levels of what two gases?,FALSE,past quiz
+115,10,"For life to be maintained, a balance of oxygen and carbon dioxide is needed. The condition when oxygen levels are low is called:",FALSE,past quiz
+116,10,"Which of the following oxygen cylinders would normally run out after 50 minutes when flowing at 10 liters per minute? Assume a pressure of 2,000 psi displayed on the pressure gauge.",FALSE,past quiz
+117,10,"A 16-year-old patient presents with labored breathing and increased respiratory rate, increased heart rate, and leaning forward with his hands on his knees. His skin is a normal color and his pulse oximetry is 96. This patient is suffering from respiratory:",FALSE,past quiz
+118,10,What device is used to perform mouth-to-mask ventilation?,FALSE,past quiz
+119,10,A nonrebreather mask at 12 to 15 liters per minute will generally provide the patient what percentage of oxygen?,FALSE,past quiz
+120,10,Your patient is a motorcyclist who was ejected after striking a guard rail. The patient is unresponsive to painful stimuli and is breathing shallowly six to eight times per minute. Which of the following should you do first?,FALSE,past quiz
+121,11,At what point is the scene size-up complete?,FALSE,past quiz
+122,11,Which of the following is not a consideration that should be used by the EMT in establishing the size of the danger zone?,FALSE,past quiz
+123,11,Your patient fell out of a tree while putting the roof on a tree house. A 15-foot ladder is required to enter the tree house and there is enough room for an adult to stand up inside. Your patient should be transported to:,FALSE,past quiz
+124,11,"You have just arrived on the scene of a motor vehicle collision in which a compact car was struck from behind by a delivery truck. The driver of the delivery truck is standing outside his vehicle talking to police when you arrive, but the driver of the car is still seated in the driver's seat. You have noted moderate damage to the rear of the car. For which of the following injuries should you have the highest level of suspicion?",FALSE,past quiz
+125,11,Which of the following situations requires additional action by the EMT during scene size-up?,FALSE,past quiz
+126,11,Which of the following is true concerning scene size-up?,FALSE,past quiz
+127,11,You are on the scene of an explosion at a suspected methamphetamine manufacturing operation. You and your partner are the first to arrive and note two middle-aged men and a woman on the front lawn with burns and cuts on their faces and arms. The fire department is en route. Which of the following resources would be the least important to request during the scene size-up?,FALSE,past quiz
+128,11,"When considering the potential for injury from a fall, which of the following is least important?",FALSE,past quiz
+129,11,"You are dispatched to a local bar for the report of an unresponsive female patient found in the bathroom. As you approach the scene, you notice a large crowd outside the front door holding beer bottles. The group has pulled the patient outside. As you approach the scene, people from the group start yelling, ""Do something! She's not breathing."" What concerns you the most about this scene?",FALSE,past quiz
+130,11,You are called to a motor vehicle collision where the car is on fire. You should ensure safety by:,FALSE,past quiz
+131,12,Which of the following presentations would be considered normal during the breathing phase of the primary assessment?,FALSE,past quiz
+132,12,You find a teenage male lying supine in his bedroom. You hear gurgling sounds from the patient's mouth and see vomit with pill fragments on the floor. You should:,FALSE,past quiz
+133,12,Which of the following is true concerning the primary assessment?,FALSE,past quiz
+134,12,Which of the following represents the correct order of assessment for the EMT during the primary assessment from start to end?,FALSE,past quiz
+135,12,Which of the following is not part of the general impression?,FALSE,past quiz
+136,12,"In EMS, which of the following best describes the term intervention?",FALSE,past quiz
+137,12,A patient whose mental status can be described as verbal is able to:,FALSE,past quiz
+138,12,Which of the following describes the chief complaint?,FALSE,past quiz
+139,12,Which of the following is the correct manner for checking for responsiveness in an apparently unresponsive infant?,FALSE,past quiz
+140,12,You are approaching a young adult male lying supine on the ground with his eyes closed. You should:,FALSE,past quiz
+141,13,"If capillary refill is assessed in a child patient, how long should it take the normal pink color to return to the nail bed?",FALSE,past quiz
+142,13,A device that uses wavelengths of light to measure oxygen saturation (SpO2) is called a(n):,FALSE,past quiz
+143,13,"When the EMT checks the pupils, he or she is checking for what three things?",FALSE,past quiz
+144,13,The abbreviation mmHg indicates that the blood pressure is measured by which of the following comparisons?,FALSE,past quiz
+145,13,"You are assessing a 55-year-old male complaining of chest pain and have determined that his radial pulse is barely palpable. You also determine that there were 20 pulsations over a span of 30 seconds. Based on this, how would you report this patient's pulse?",FALSE,past quiz
+146,13,Breathing sounds that should concern the EMT are:,FALSE,past quiz
+147,13,Your patient is in late stages of liver failure and has requested to be transported to the emergency department. You notice his skin is warm and dry with a yellow color. Your radio report to the hospital should state your patient is:,FALSE,past quiz
+148,13,How often should a patient's vital signs be reassessed during transport to the hospital after the pulse has been restored with CPR and the use of an AED?,FALSE,past quiz
+149,13,"Your patient has a heart rate of 82, a respiratory rate of 16, and a blood pressure of 120/80 and does not appear to be in any distress. You should repeat vital sign measurements at least every:",FALSE,past quiz
+150,13,"When the heart contracts and forces blood into the arteries, the pressure created is known as the:",FALSE,past quiz
+151,14,Your elderly patient reports having stomach cramps for several hours. He denies any trauma and he hasn't eaten for several hours. Which of the following is most important to your assessment of this patient?,FALSE,past quiz
+152,14,You are dispatched for a patient with chest pain. Your patient tells you that she has had shortness of breath and chest pain for about 20 minutes. Which of the following questions will give you the best information regarding your patient's chest pain symptoms?,FALSE,past quiz
+153,14,"When assessing a patient's pertinent past history, you should ask which of the following questions?",FALSE,past quiz
+154,14,Which of the following methods should be used to have a patient rate the amount of pain he is having?,FALSE,past quiz
+155,14,"When using the memory aid OPQRST, which of the following questions would help you find out about P?",FALSE,past quiz
+156,14,"""If it looks like a duck and quacks like a duck, it must be a duck—except when it isn't"" is a way to summarize which of the following?",FALSE,past quiz
+157,14,A description of a patient's condition that assists a clinician in further evaluation and treatment is known as which of the following?,FALSE,past quiz
+158,14,_________ are signs or symptoms that suggest the possibility of a particular problem that is very serious.,FALSE,past quiz
+159,14,Which of the following describes skepticism about one thing causing another?,FALSE,past quiz
+160,14,"Mr. Green is complaining of severe difficulty breathing after being stung by a bee. His wife states he has had reactions to bee stings before, but not quite this severe. Which medications should you specifically ask him about?",FALSE,past quiz
+161,15,For which of the following patients is a focused physical examination appropriate?,FALSE,past quiz
+162,15,"When assessing a patient who has been stabbed, which of the following information should the EMT gain first?",FALSE,past quiz
+163,15,You are assessing a patient who has been involved in a motor vehicle crash. Which of the following questions would be the most important to ask him?,FALSE,past quiz
+164,15,"When assessing a 14-year-old male patient that has been involved in a bicycle accident, you notice that he has a small amount of blood coming from his left forearm. This observation is known as which of the following?",FALSE,past quiz
+165,15,"Immediately following a rapid physical exam on an unresponsive medical patient, which of the following should you do next?",FALSE,past quiz
+166,15,You have performed a rapid trauma assessment on a patient with multiple long-bone injuries. Your next assessment step should be which of the following?,FALSE,past quiz
+167,15,You respond to a motor vehicle collision and find a patient with an altered mental status and angulated left femur; the other driver is deceased. Your closest trauma center is 45 minutes away. Which of the following would you do next?,FALSE,past quiz
+168,15,"The ambulance is called for an assaulted patient. While transporting the patient to the hospital, the EMT notes the patient's jugular veins are flat (nondistended). Which of these is most likely the cause of this finding?",FALSE,past quiz
+169,15,You are called for a patient who is complaining of being weak and dizzy. He reports that he does not have enough money to pay for his medications so he has not gotten them refilled. Your service has an automatic blood pressure machine and you use it to measure the patient's blood pressure while you count his respirations. The blood pressure machine reports a blood pressure of 280/140. What should you do next?,FALSE,past quiz
+170,15,Your patient is the 18-year-old male driver of a vehicle that struck a tree. He is conscious and complaining of neck pain. The passenger is obviously dead. You have performed your primary assessment. Which of the following is the next step?,FALSE,past quiz
+171,16,"You are transporting a patient who has had her neck slashed from side to side. You and your partner are caring for the patient while a police officer drives you to the hospital, which is minutes away. You are focusing all of your efforts to maintain her airway and your partner is controlling her bleeding. Which of the following will you be unlikely to obtain?",FALSE,past quiz
+172,16,You are transporting a 20-year-old soccer player who injured his ankle during a match. His injury appears to be isolated and he has no significant past medical history. How frequently should you perform a reassessment on this patient?,FALSE,past quiz
+173,16,"Your patient called 911 because he was having chest pain. He states that his pain is a 7 on a 10-point scale. As part of your care, you assist him with taking his nitroglycerin per medical direction. After waiting a few minutes for the medication to take effect, you should:",FALSE,past quiz
+174,16,"Your patient is a 23-year-old male with a stab wound to the abdomen. You have bandaged the wound and are transporting the patient to a trauma center. During your reassessment, you note that the bandage has become soaked with blood. What should your priority be with this patient?",FALSE,past quiz
+175,16,"You are treating a 57-year-old male for chest pain. You have gathered all pertinent history of the present illness, completed two sets of vital signs, talked with medical direction, and assisted the patient with two doses of his nitroglycerin. Determination of whether or not the nitroglycerin was effective is assessed during the:",FALSE,past quiz
+176,16,"As you arrive at the emergency department with an unresponsive trauma patient, the nurse asks for your trending assessment. Why is this information important to the nurse?",FALSE,past quiz
+177,16,What is the first step in the reassessment process?,FALSE,past quiz
+178,16,"You are treating a 15-year-old boy who apparently broke his right arm when he fell while skateboarding with his friends. You have completed your primary and secondary assessment including splinting his arm, but you found no other injuries or problems. Which of the following is the most important step to do during the reassessment?",FALSE,past quiz
+179,16,"While transporting a patient to the hospital, the EMT repeats his reassessment including vital signs every 15 minutes until he arrives at the emergency department. According to this information, which of the following best describes your patient's current status?",FALSE,past quiz
+180,16,You are transporting a 30-year-old male who has been shot in the chest. He is suffering from a sucking chest wound and has a decreased level of consciousness. How often should you perform a reassessment?,FALSE,past quiz
+181,17,Which of the following is not appropriate for inclusion in the radio report to the receiving hospital?,FALSE,past quiz
+182,17,"You have received the following order from medical control: ""Administer one tablet of nitroglycerin under the patient's tongue."" Which of the following is the best response?",FALSE,past quiz
+183,17,Which of the following best describes a base station?,FALSE,past quiz
+184,17,Which of the following is not an appropriate statement for the EMT to make on a patient care report?,FALSE,past quiz
+185,17,Which of the following is not part of a medical radio report?,FALSE,past quiz
+186,17,"When you arrive at the receiving facility, the nurse asks your partner for a verbal report of the patient's condition. This is in addition to the radio report your partner gave to the hospital en route. Afterwards, you ask your partner why you must give a second verbal report and a written report to the receiving nurse. What is the best reason to provide both reports?",FALSE,past quiz
+187,17,Which of the following is not an appropriate way of dealing with a patient who does not speak the same language as you do?,FALSE,past quiz
+188,17,Which of the following is not a reason for routine review of prehospital care reports in a quality improvement program?,FALSE,past quiz
+189,17,Which of the following best describes a portable radio?,FALSE,past quiz
+190,17,The Health Insurance Portability and Accountability Act (HIPAA) requires ambulance services to do all of the following except.,FALSE,past quiz
+191,18,What is the most important medication that should be administered to a patient experiencing chest pain with difficulty breathing?,FALSE,past quiz
+192,18,"You are on the scene of a 48-year-old male patient complaining of chest pain. He has nitroglycerin prescribed and available. After performing your physical examination, you contact medical control and are ordered to assist the patient in taking his nitroglycerin. Five minutes after taking his nitroglycerin, the patient complains of being dizzy and having a headache. You lie the patient down on the stretcher and reassess his vital signs. He is now hypotensive. The patient is suffering from a(n):",FALSE,past quiz
+193,18,"You have just administered nitroglycerin to a 68-year-old patient. Within a few minutes, she complains of feeling faint and lightheaded, but states that she is still having some chest pain. Which of the following would be the best sequence of actions?",FALSE,past quiz
+194,18,Which of the following best describes the five rights?,FALSE,past quiz
+195,18,Epinephrine delivered by auto-injector may be indicated for patients with which of the following conditions?,FALSE,past quiz
+196,18,Choose the correct completion to this statement regarding intravenous (IV) administration: This route is used to administer medication into the body directly or through the bloodstream and is:,FALSE,past quiz
+197,18,"You are on the scene at a fancy hotel room for a 60-year-old male patient who calls 911 at 10 p.m. for chest pains. He states he was about to go to bed when he suddenly had chest pain that would not go away. He rates his pain as a 7 out of 10 and is diaphoretic. His vital signs are stable, and he takes medications for hypertension, high cholesterol, and erectile dysfunction. The patient is allergic to morphine. After placing the patient on oxygen, you contact medical control and request:",FALSE,past quiz
+198,18,"If an EMT is enlisted to help set up the IV administration set, the first step is to:",FALSE,past quiz
+199,18,Why should EMTs study pharmacology?,FALSE,past quiz
+200,18,"When you give patients nitroglycerin, they sometimes develop a headache. This would be called a(n):",FALSE,past quiz
+201,7,An infection of the brain is called:,FALSE,past quiz
+202,7,Our blood transports oxygen from the lungs to the cells and returns with what byproduct of metabolism?,FALSE,past quiz
+203,7,"You are caring for a 25-year-old male patient who has been shot once in the head. The patient is in extremis (near the point of death) with a noticeable breathing pattern that alternates between no breathing and fast breathing. Your understanding of pathophysiology leads you to believe the breathing pattern may be due to damage to the section of his brain responsible for respiratory control, also known as the:",FALSE,past quiz
+204,7,"What substances, when dissolved, separate into charged particles?",FALSE,past quiz
+205,7,What do chemoreceptors found in the body and vascular system measure?,FALSE,past quiz
+206,7,"The respiratory system moves air in and out; however, to ________ cells, the air that is inhaled must meet up with the circulatory system.",FALSE,past quiz
+207,7,What element does the cell need in order to not dehydrate and die?,FALSE,past quiz
+208,7,"Certain blood vessels that contain specialized sensors that detect the level of internal pressure and transmit messages to the nervous system, which then triggers the smooth muscle in the vessel walls to make any needed size adjustments. These sensors are called:",FALSE,past quiz
+209,7,"You are called to a kindergarten class where a boy has fallen while climbing on playground equipment. The teacher saw him fall and hit his stomach on a step. He is sobbing and holding his abdomen. As you assess him, you find his skin cool and moist to the touch, his pulse is 132, and his respiratory rate is 28. Why is the boy acting this way?",FALSE,past quiz
+210,7,________ blood returns to the right side of the heart.,FALSE,past quiz
+211,6,The cardiac muscle receives its supply of oxygenated blood by which of the following mechanisms?,FALSE,past quiz
+212,6,What is the inferior-most portion of the sternum?,FALSE,past quiz
+213,6,Which of the following structures closes over the trachea to protect it during swallowing?,FALSE,past quiz
+214,6,What two body systems are critical for the life support chain?,FALSE,past quiz
+215,6,"In relation to anatomy, the term topography means:",FALSE,past quiz
+216,6,What is another name for the shoulder blade?,FALSE,past quiz
+217,6,What condition of immediate concern results from a loss of red blood cells due to hemorrhage?,FALSE,past quiz
+218,6,What type of muscles control the size of the bronchioles in the lungs?,FALSE,past quiz
+219,6,Which of the following are the components of the complete nervous system?,FALSE,past quiz
+220,6,"What system is composed of organs, tissues, and vessels that help maintain the fluid balance of the body and contribute to the body's immune system?",FALSE,past quiz
+221,5,The wrist is ________ to the elbow.,FALSE,past quiz
+222,5,"With regard to medical terminology, a prefix is:",FALSE,past quiz
+223,5,"You and your EMT partner are responding to a medical aid call in the rural West County area. The dispatcher advises that the caller is reporting the patient as having a history of ""plegia."" Why would it be beneficial to have the dispatcher clarify a prefix for the word plegia?",FALSE,past quiz
+224,5,"Your 79-year-old female patient appears to show all signs and symptoms of a stroke. Her level of consciousness has rapidly deteriorated, she is now unconscious, and she can no longer control her own airway. While you intervene to manage her airway, the best position in which to keep fluid or vomitus from occluding her airway would be the:",FALSE,past quiz
+225,5,Which of the following are the abdominal regions created by drawing two imaginary lines intersecting at the navel?,FALSE,past quiz
+226,5,Which of the following describes the midline of the body?,FALSE,past quiz
+227,5,"With regard to anatomical locations, which of the following is not true?",FALSE,past quiz
+228,5,"You and your newly hired EMT partner arrive on the scene of a bicycle collision at the local community park. One cyclist stands by and says that she has no injuries. The other is lying on his side on the bike path, guarding his ribs and holding the lower part of his left leg. Your partner kneels next to the man, introduces herself, and asks, ""Can you ambulate?"" The patient looks up, confused and in obvious pain. ""Can you ambulate? You know...walk?"" Your partner says, a little louder. After transporting the patient, you discuss the call with your partner and suggest that she avoid using medical terms unnecessarily when talking with patients. She seems insulted and says, ""Why?"" What would you say?",FALSE,past quiz
+229,5,The term lateral is best defined as:,FALSE,past quiz
+230,5,The inside of a person's thigh is also known as its ________ aspect.,FALSE,past quiz
+231,4,You respond to the report of an unconscious female patient. You can acquire important medical information about the patient through which of the following?,FALSE,past quiz
+232,4,In which of the following situations should an EMT withhold resuscitative measures from a patient in cardiac arrest?,FALSE,past quiz
+233,4,The EMT's obligation to provide care to a patient either as a formal or ethical responsibility is known as which of the following?,FALSE,past quiz
+234,4,"You are treating an elderly male patient in the back of your ambulance. En route, the patient becomes unresponsive. Upon arrival, the ED nurse asks you several questions about his condition. What should you do?",FALSE,past quiz
+235,4,Your patient is a 10-year-old boy who suffered a possible fractured arm while rollerblading at a friend's house. Which of the following is the best way to obtain consent for treatment?,FALSE,past quiz
+236,4,The administration of oxygen and the application of spinal immobilization are part of which of the following for the EMT?,FALSE,past quiz
+237,4,Which of the following situations best illustrates the act of abandonment by the EMT?,FALSE,past quiz
+238,4,"While documenting a call, you add a false statement that was made about a local doctor. This could constitute which of the following?",FALSE,past quiz
+239,4,Sharing information about a patient's medical history with your neighbor after you hear a call on a radio scanner would constitute which of the following?,FALSE,past quiz
+240,4,Which of the following is not required to prove a claim of negligence against an EMT?,FALSE,past quiz
+241,3,Which of the following is another name for the squat-lift position?,FALSE,past quiz
+242,3,Which of the following patients should not be transported in a stair chair?,FALSE,past quiz
+243,3,"You and your partner arrive on the scene of a 400-pound patient lying in bed. He complains of nausea and vomiting for the past 3 days. When he tries to sit up, he gets very dizzy and has a syncopal episode. Realizing that he cannot assist you in getting on the stretcher, you decide to do which of the following?",FALSE,past quiz
+244,3,You are moving an elderly patient down the stairs using a stair chair. The patient is alert and very anxious. What should you do prior to moving the patient to prevent her from grabbing the railing and causing you to fall?,FALSE,past quiz
+245,3,Stretchers that are designed to carry obese patients weighing up to 800 pounds (or more) are called:,FALSE,past quiz
+246,3,How many pounds are most battery-powered hydraulic systems rated to safely lift?,FALSE,past quiz
+247,3,The term body mechanics describes the proper use of your body to lift without injury. What are the three considerations to review before any lift?,FALSE,past quiz
+248,3,"If the weight being pulled is below the level of the EMT's waist, he should be in a(n) ________ position.",FALSE,past quiz
+249,3,Which of the following is the correct position of an EMT's feet when lifting?,FALSE,past quiz
+250,3,Which of the following is not correct when performing a log roll?,FALSE,past quiz
+251,3,Where should you position the weight of the object being lifted?,FALSE,past quiz
+252,3,You have responded to a nursing home and find an elderly patient in his bed in cardiac arrest. Which type of move would you perform to get the patient to a hard surface so you can perform chest compressions?,FALSE,past quiz
+253,3,"Which of the methods listed below is best described as moving a patient from the floor to a stretcher by having two or more rescuers kneel, curl the patient to their chests, stand, and then reverse the process to place the patient on the stretcher?",FALSE,past quiz
+254,3,Urgent moves are required when:,FALSE,past quiz
+255,3,Which of the following should you not do when reaching for something?,FALSE,past quiz
+256,3,"You respond to a call at a park where you find a 550-pound patient who has fallen down a slope near a creek. As you and your partner discuss the situation, you decide to call a second unit for lifting assistance. Once the patient is on a stretcher, how would the additional two personnel help in this lift?",FALSE,past quiz
+257,3,What is the likely impact of power stretchers on EMS?,FALSE,past quiz
+258,3,Which of the following devices should be used to carry a patient down the stairs whenever possible?,FALSE,past quiz
+259,3,Which of the following factors least needs to be considered before lifting any patient?,FALSE,past quiz
+260,3,What is the main benefit of using a stair chair with a tracklike system over a traditional stair chair?,FALSE,past quiz
+261,2,"When covering a patient's mouth and nose with a mask of any kind, which of the following is the primary risk?",FALSE,past quiz
+262,2,Which of the following is true regarding proper hand cleaning?,FALSE,past quiz
+263,2,"Because EMS personnel are often exposed to both acute and chronic stressors, ________ management may be helpful to cope with on-the-job experiences.",FALSE,past quiz
+264,2,"For the last few days, your regular EMT partner has been having trouble sleeping, has been on edge, and has had trouble concentrating on his job during EMS calls. Luckily, your call volume has been low with no serious calls since the infant cardiac arrest you both worked last month. You ask him if anything is bothering him and he states he is fine in every way. He states that he has been going to the bars lately to relax and invites you to come along for some drinks after work. Choose the best answer for this situation.",FALSE,past quiz
+265,2,"You are on the scene of an ""unknown medical"" call. The patient is a 26-year-old, 250-pound male patient who suddenly becomes violently angry. Everything you say to the patient only makes him angrier. Offended by your questions, he screams that he is going to ""cut your tongue out"" and hurries into the kitchen. What should you do?",FALSE,past quiz
+266,2,"You are called to an assault on a homeless male. Dried blood from the trauma is visible around the patient's mouth and nose. During assessment, you note the patient has a productive cough. The patient says, ""Don't worry, I'm not contagious. I've had this cough for a year."" Describe the best approach regarding respiratory isolation.",FALSE,past quiz
+267,2,What are the minimum Standard Precautions an EMT should take when transporting a patient infected with Middle East Respiratory Syndrome (MERS)?,FALSE,past quiz
+268,2,The term burnout is also known as a(n) ________ stress reaction.,FALSE,past quiz
+269,2,"What is a positive, healthy way to help deal with stress?",FALSE,past quiz
+270,2,Healthcare employers are required by law to make a hepatitis B ________ available to employees free of charge.,FALSE,past quiz
+271,2,An EMT should consider wearing protective eyewear when caring for which of these patients?,FALSE,past quiz
+272,2,"The tuberculin skin test (TST), formerly known as the purified protein derivative (PPD) test, is used to:",FALSE,past quiz
+273,2,"What reference provides important information regarding hazardous materials, emergency care, and procedures in case of accidental fire or release; supplies definitions of placard colors and identification numbers; and should be standard issue on board all ambulances and rescue units?",FALSE,past quiz
+274,2,Which of the following is a physiologic effect of the stress triad as described by the physician Hans Selye?,FALSE,past quiz
+275,2,Which of the following provides the greatest personal safety for an EMT working at a motor vehicle collision?,FALSE,past quiz
+276,2,Which of the following is the form of stress that can cause immediate and long-term problems with an EMT's health and well-being?,FALSE,past quiz
+277,2,"Which hormone helps the body control stress, regulate metabolism, and influence an immune response?",FALSE,past quiz
+278,2,"While transporting a patient to the hospital who has a history of terminal brain cancer, the patient says, ""I know I'm going to die, but first I want to see my grandson graduate from high school."" What stage of death and dying describes this patient's current condition?",FALSE,past quiz
+279,2,"A family member who keeps pleading with a deceased loved one to ""wake up"" is experiencing which reaction to death and dying?",FALSE,past quiz
+280,2,"You are dispatched to a female with altered mental status. Once inside the home, you find a female who appears to have been beaten unconscious. A man, who smells of alcohol, says that she is his wife and that he does not know what happened: ""I just found her this way!"" The husband is behaving suspiciously, appears paranoid, and is pacing erratically around the room. What would be the safest course of action?",FALSE,past quiz
+281,1,What best defines the evaluation of the patient's condition in order to provide emergency care?,FALSE,past quiz
+282,1,"You and your EMT partner are assigned to spend a day at the senior center where you are to inspect the rooms and common areas for fall hazards. Your partner is upset that he is not in the ambulance where the ""action is."" He complains that ""looking for loose rugs"" is a waste of his time. What would be the best response to his complaints?",FALSE,past quiz
+283,1,Which of the following best describes a list of steps the EMT should perform while assessing and managing emergency medical situations?,FALSE,past quiz
+284,1,What best describes the level of EMS training that emphasizes use of advanced airway devices and some prehospital medication administration?,FALSE,past quiz
+285,1,You have just come on duty. The EMT on the previous shift complains to you that the QI manager was giving him grief because he did not document three sets of vital signs on the patient record. The EMT is angry and does not understand why documenting three sets of vital signs is so important. What is the best answer you could give him?,FALSE,past quiz
+286,1,Which of the following is a role of the EMT in the quality improvement process?,FALSE,past quiz
+287,1,Which of the following best describes training that supplements the EMT's original training and that is usually taken in regular intervals?,FALSE,past quiz
+288,1,"You and another new EMT are studying your local protocols. The other EMT notices that you may give oral glucose without utilizing on-line medical control, but you must get an on-line order from a physician before assisting a patient in taking his nitroglycerin for chest pain. The EMT asks you why some drugs require on-line medical control while others do not. What is the best answer to give him?",FALSE,past quiz
+289,1,Which of the following best describes a person who speaks up on behalf of the patient and supports his cause?,FALSE,past quiz
+290,1,The National Registry of Emergency Medical Technicians (NREMT) was founded to establish which of the following?,FALSE,past quiz
+291,1,"A fellow EMT is talking with the Medical Director at a staff meeting. The EMT states that the neighboring ambulance service is carrying special clotting bandages for serious bleeding wounds. The special bandages cost five times as much as the regular bandages, but the EMT claims they work ten times better. The EMT wants the Medical Director to approve the bandages for use in their ambulances. The Medical Director responds to the EMT by saying he will not approve the bandages until he can prove they are worth the additional cost. How can the EMT best prove the worth of the special bandages?",FALSE,past quiz
+292,1,Who assumes the ultimate responsibility for patient care rendered by the EMT?,FALSE,past quiz
+293,1,Why is research published in a medical journal more authoritative than the information in a typical article published in an EMS magazine?,FALSE,past quiz
+294,1,Why is it important for EMTs to participate in quality improvement programs?,FALSE,past quiz
+295,1,The application of oxygen for a patient who is short of breath without having to contact the physician in the emergency department because of existing protocols is an example of which of the following?,FALSE,past quiz
+296,1,Which of the following groups is credited with developing the earliest documented emergency medical service?,FALSE,past quiz
+297,1,Which of the following is a physical trait necessary for performing the duties of an EMT?,FALSE,past quiz
+298,1,"To be compassionate and empathetic, to be accurate with interviews, and to inspire confidence are all examples of which of the personal traits of a quality EMT?",FALSE,past quiz
+299,1,A written authorization for an EMS provider to perform a particular skill in a specific situation is a(n):,FALSE,past quiz
+300,1,"After delivering a patient to the emergency department, you discuss with hospital staff the details of your care and ask for suggestions to improve your care. This is an example of your role in which of the following?",FALSE,past quiz
+301,19,Which of the following is proper when assisting a patient with the use of a prescribed inhaler?,FALSE,past quiz
+302,19,"Your patient is a 30-year-old female who may have overdosed on antidepressant medications. On your arrival, she is lying supine on her bed with her head on a pillow. She is unresponsive to painful stimuli and is snoring. She appears to be pale and her skin is cool and clammy. What should you do first?",FALSE,past quiz
+303,19,What is not one of the symptoms of a pulmonary embolus?,FALSE,past quiz
+304,19,Which of the following best defines inadequate breathing?,FALSE,past quiz
+305,19,Your patient is a 60-year-old female with a sudden onset of severe difficulty breathing. She has no prior history of respiratory problems. Which of the following should be done before applying oxygen by nonrebreather mask?,FALSE,past quiz
+306,19,Which of the following inhalers would not be used to reverse an asthma attack?,FALSE,past quiz
+307,19,In which of the following circumstances is medical direction necessary when assisting a patient with the use of a prescribed inhaler?,FALSE,past quiz
+308,19,"You are called to the scene of a 45-year-old nonsmoker male with a history of asthma in respiratory distress. You find him lying supine on the couch. The patient is lethargic but can answer all your questions appropriately. He is diaphoretic, and complains of being cold, coughing, and having difficulty breathing for the past 3 days. His vital signs are blood pressure of 110/70, heart rate of 116, respiratory rate of 24, oxygen saturation of 93%, and temperature of 100.6°F. You hear rhonchi in the left lobes and he is coughing up yellow-tinged sputum. What condition do you suspect?",FALSE,past quiz
+309,19,"A patient who has shallow, slow, irregular, gasping breaths is said to have ________ respirations.",FALSE,past quiz
+310,19,Which of the following respiratory rates is considered an abnormal respiratory rate for an adult?,FALSE,past quiz
+311,20,Which of the following is the beneficial action of nitroglycerin in some cardiac emergencies?,FALSE,past quiz
+312,20,What is (are) the first organ(s) perfused by blood leaving the heart?,FALSE,past quiz
+313,20,"Assuming your protocol allows the administration of nitroglycerin when certain conditions exist, what is the maximum number of tablets to be administered in the prehospital setting?",FALSE,past quiz
+314,20,Which of the following terms refers to swelling of the lower extremities seen in many cardiac patients?,FALSE,past quiz
+315,20,Which of the following statements regarding the administration of nitroglycerin tablets is true?,FALSE,past quiz
+316,20,Which of the following is typical of angina pectoris?,FALSE,past quiz
+317,20,Which of the following is a general term used to refer to a problem with the heart?,FALSE,past quiz
+318,20,What is not a result of a mechanical malfunction of the heart?,FALSE,past quiz
+319,20,Which of the following statements regarding angina pectoris is true?,FALSE,past quiz
+320,20,In which of the following situations would the administration of aspirin to a cardiac patient be prohibited?,FALSE,past quiz
+321,21,In which of the following ways does cardiac arrest in children differ from cardiac arrest in adults?,FALSE,past quiz
+322,21,Mechanical CPR devices are used by EMS agencies in order to provide:,FALSE,past quiz
+323,21,"You are the first on the scene of a 72-year-old patient in cardiac arrest. You have your medical supply kit, oxygen, and an AED. At least 4 to 5 minutes of high-quality CPR has been provided by the police officer who arrived before you. You have confirmed an open airway, apnea, and pulselessness. Which of the following should you do next?",FALSE,past quiz
+324,21,"When using an AED, which of the following people is responsible for calling to ""clear"" the patient before delivering a shock?",FALSE,past quiz
+325,21,Which of the following should NOT be done during defibrillation?,FALSE,past quiz
+326,21,Blunt and penetrating injuries can damage chambers of the heart or cause conditions like:,FALSE,past quiz
+327,21,Which of the following BEST describes an appropriate shock sequence for the patient in ventricular tachycardia?,FALSE,past quiz
+328,21,Your patient is a 44-year-old female who has collapsed while jogging. She has been unresponsive for 4 to 5 minutes by the time you arrive. Her husband appears to be performing high-quality CPR. Which of the following should be your FIRST action?,FALSE,past quiz
+329,21,"If an EMT is tasked with managing the family of a patient who is deceased after termination of resuscitation, what is an effective care strategy?",FALSE,past quiz
+330,21,EMTs arrive at the scene of a cardiac arrest to see a police officer beginning to defibrillate the patient. At what point should the EMTs take over?,FALSE,past quiz
+331,22,"Looking at the following list, which of the items does NOT correctly compare the signs and symptoms of hypoglycemia and hyperglycemia?",FALSE,past quiz
+332,22,Normal consciousness is regulated by a series of neurologic circuits in the brain that compose the reticular activating system (RAS). The RAS has simple requirements to function properly. Which one of the following items is NOT one of those requirements?,FALSE,past quiz
+333,22,Which of the following is a typical cause of seizures in children 6 months to 3 years of age?,FALSE,past quiz
+334,22,Which of the following refers to difficulty in using words or understanding speech as a result of a stroke?,FALSE,past quiz
+335,22,Many stroke patients are candidates for thrombolytic drugs. One of the most important things that an EMT can do to optimize the care of a stroke patient who is a candidate for the drugs is:,FALSE,past quiz
+336,22,Which of the following blood glucose levels is considered normal for an adult?,FALSE,past quiz
+337,22,"Compared to hypoglycemia, which of the following is TRUE of hyperglycemia?",FALSE,past quiz
+338,22,Your patient is a 21-year-old female with a history of epilepsy. She is having a convulsion upon your arrival. Which of the following should you do?,FALSE,past quiz
+339,22,"During your primary assessment, you find your patient has an altered mental status. This could indicate which of the following?",FALSE,past quiz
+340,22,A hormone called insulin is secreted by the:,FALSE,past quiz
