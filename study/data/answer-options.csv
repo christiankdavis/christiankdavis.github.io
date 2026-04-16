@@ -1359,3 +1359,83 @@ id,question_id,option_text,is_correct
 1358,340,gallbladder found in the pancreas.,FALSE
 1359,340,islets of Langerhans in the pancreas.,TRUE
 1360,340,None of these.,FALSE
+1361,341,Assist him with the administration of his epinephrine auto-injector.,FALSE
+1362,341,Try to find out if the casserole contained seafood.,TRUE
+1363,341,Advise the patient that he does not require treatment and transport at this time.,FALSE
+1364,341,Transport the patient rapidly before the onset of anaphylaxis.,FALSE
+1365,342,"Anaphylactic reaction from the ""nox-a-sting"" swabs",FALSE
+1366,342,Moderate anaphylactic reaction,FALSE
+1367,342,Minor anaphylactic reaction,FALSE
+1368,342,Allergic reaction from the hornets' stings,TRUE
+1369,343,Rapid transport to the nearest facility,FALSE
+1370,343,Oxygen at 15 liters per minute by nonrebreather mask,FALSE
+1371,343,Oxygen at 15 liters per minute by bag-valve mask,FALSE
+1372,343,Administering epinephrine with consent from medical control,TRUE
+1373,344,Do not administer the EpiPen® under any circumstances.,FALSE
+1374,344,"Transport rapidly, bypassing the emergency department and taking the patient directly to the obstetrics unit of the hospital.",FALSE
+1375,344,Immediately administer the patient's EpiPen®.,FALSE
+1376,344,Administer the EpiPen® only on the advice of medical control.,TRUE
+1377,345,Patient's response to the medication,FALSE
+1378,345,Site of medication administration,FALSE
+1379,345,Time the medication was administered,FALSE
+1380,345,All of these,TRUE
+1381,346,"""I am having severe muscle pains.""",FALSE
+1382,346,"I can't remember what happened.""",FALSE
+1383,346,"""My legs are numb and I can't move them.""",FALSE
+1384,346,"""My throat feels like it is closing.""",TRUE
+1385,347,Advise the parents to call the pediatrician for a different antibiotic.,FALSE
+1386,347,Provide supportive care and monitor the patient's condition during transport to the hospital.,TRUE
+1387,347,Immediately administer EpiPen Jr.®,FALSE
+1388,347,Advise the parents that these symptoms are related to the ear infection and the antibiotic will take care of these symptoms if taken as directed.,FALSE
+1389,348,"Only perform a history on this patient, not a physical exam, so you can avoid contacting him with your gloves.",FALSE
+1390,348,Ask the nursing staff if the patient has an epinephrine auto-injector available in case of a reaction to your gloves.,FALSE
+1391,348,Ask the nursing facility staff to find synthetic exam gloves to wear for contact with this patient.,TRUE
+1392,348,Put on latex gloves anyway; you must protect yourself with BSI.,FALSE
+1393,349,Urticaria,FALSE
+1394,349,Stridor,FALSE
+1395,349,Respiratory distress,FALSE
+1396,349,Anaphylaxis,TRUE
+1397,350,Perform rapid extrication.,FALSE
+1398,350,Administer high-concentration oxygen.,TRUE
+1399,350,Read the candy wrapper to see if it contains peanuts.,FALSE
+1400,350,Search the patient for an epinephrine auto-injector.,FALSE
+1401,351,"Over time, bacteria have developed resistance to some antibiotics.",FALSE
+1402,351,Some bacteria inside the body are good and necessary to survival.,FALSE
+1403,351,Bacteria need to be inside the body in order to reproduce.,TRUE
+1404,351,Sepsis is a serious and sometimes deadly complication of bacterial infection.,FALSE
+1405,352,"An infectious agent in the body multiplies very rapidly, overwhelming the body's natural immune response.",FALSE
+1406,352,"The body overreacts to an infection and secretes substances that hurt cells, tissues, and organs.",TRUE
+1407,352,"More than one type of infectious agent invades the body, limiting the immune system's response to each agent.",FALSE
+1408,352,Vasoconstriction and internal fluid retention lead to shock that does not respond to intravenous fluids.,FALSE
+1409,353,Covering sneezes and coughs,FALSE
+1410,353,Hand washing,FALSE
+1411,353,Vaccination,FALSE
+1412,353,Standard Precautions,TRUE
+1413,354,"A patient who was vaccinated last year, exposed 4 weeks ago, and shows no signs",FALSE
+1414,354,A patient whose rash and fever went away a week ago,FALSE
+1415,354,A patient with a fever and a rash on the abdomen and back that began 3 days ago,FALSE
+1416,354,A patient who was exposed 6 days ago but does not yet have a fever or rash,TRUE
+1417,355,Open and maintain the patient's airway.,FALSE
+1418,355,Attempt to lower the patient's temperature.,FALSE
+1419,355,Assess the patient using capnography.,FALSE
+1420,355,Notify the emergency department that the patient is septic.,TRUE
+1421,356,shingles.,FALSE
+1422,356,measles.,TRUE
+1423,356,hepatitis A.,FALSE
+1424,356,chickenpox.,FALSE
+1425,357,"Infections of the lungs commonly lead to sepsis, but sepsis is not typically associated with cases of pneumonia.",FALSE
+1426,357,Patients who use urinary catheters are at a decreased risk of sepsis because catheter use makes it harder for microbes to enter the urinary tract.,FALSE
+1427,357,"The exact pathway for the development of sepsis remains unclear, and most cases do not have a clearly defined source.",TRUE
+1428,357,"Treatment of sepsis has changed and improved over time, but the definition of the condition has remained relatively unchanged.",FALSE
+1429,358,Respiratory rate of 32,FALSE
+1430,358,Temperature of 95.3°F,FALSE
+1431,358,Systolic blood pressure of 76,FALSE
+1432,358,Heart rate of 87,TRUE
+1433,359,A person can only pass the disease to another via contact with blood.,FALSE
+1434,359,A person with the disease cannot pass it to other people.,TRUE
+1435,359,"It is spread by an insect, not a bacteria, virus, or microbe.",FALSE
+1436,359,The condition is not fatal.,FALSE
+1437,360,Antiviral medications are not effective against the flu because it is caused by bacteria rather than a virus.,FALSE
+1438,360,Antiviral medication is often ineffective because the flu virus is capable of rapidly mutating inside the body.,FALSE
+1439,360,Antiviral medications for the flu must be started within 2 days of symptom onset to be effective.,TRUE
+1440,360,"Antiviral medications for the flu work against the strains of the virus that are expected to be prevalent that year, and the medication isn't effective against the strain this patient has.",FALSE
