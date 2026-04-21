@@ -447,10 +447,10 @@ id,question_id,option_text,is_correct
 446,112,Irreversible shock caused by the lack of blood flowing to the vital organs like the brain and heart,FALSE
 447,112,Cyanosis (blue or gray skin) and deterioration of the patient's mental status,TRUE
 448,112,"Warm dry skin, difficulty breathing, and hypertension",FALSE
-449,113,the gag reflex is returning.,FALSE
-450,113,the gag reflex is returning.,FALSE
-451,113,the gag reflex is returning.,FALSE
-452,113,the gag reflex is returning.,TRUE
+449,113,the patient is becoming more alert and is breathing independently.,FALSE
+450,113,air is escaping through a hole in the lung and filling the pleural space.,TRUE
+451,113,cardiac arrest is imminent.,FALSE
+452,113,the gag reflex is returning.,FALSE
 453,114,Carbon dioxide and oxygen,TRUE
 454,114,Hydrogen and carbon monoxide,FALSE
 455,114,Hydrogen and carbon dioxide,FALSE
@@ -1439,3 +1439,83 @@ id,question_id,option_text,is_correct
 1438,360,Antiviral medication is often ineffective because the flu virus is capable of rapidly mutating inside the body.,FALSE
 1439,360,Antiviral medications for the flu must be started within 2 days of symptom onset to be effective.,TRUE
 1440,360,"Antiviral medications for the flu work against the strains of the virus that are expected to be prevalent that year, and the medication isn't effective against the strain this patient has.",FALSE
+1441,361,psychological dependence.,FALSE
+1442,361,substance abuse.,TRUE
+1443,361,addiction.,FALSE
+1444,361,tolerance.,FALSE
+1445,362,hypertension.,TRUE
+1446,362,coma.,FALSE
+1447,362,respiratory depression.,FALSE
+1448,362,pinpoint pupils.,FALSE
+1449,363,Carbon,TRUE
+1450,363,Carbon monoxide,FALSE
+1451,363,Tar,FALSE
+1452,363,Cyanide,FALSE
+1453,364,Tranquilizers,FALSE
+1454,364,Narcotics,FALSE
+1455,364,Hallucinogens,FALSE
+1456,364,Both Tranquilizers and Narcotics,TRUE
+1457,365,Alcohol poisoning,FALSE
+1458,365,LSD abuse,FALSE
+1459,365,Delirium tremens,TRUE
+1460,365,Acute episode of paranoid schizophrenia,FALSE
+1461,366,Barbiturate,FALSE
+1462,366,Appetite suppressant,FALSE
+1463,366,Antidepressant,FALSE
+1464,366,Narcotic,TRUE
+1465,367,administer oxygen by bag-valve mask (BVM).,FALSE
+1466,367,administer an oropharyngeal airway (OPA).,FALSE
+1467,367,administer oxygen by nonrebreather mask (NRB).,FALSE
+1468,367,suction the patient's airway.,TRUE
+1469,368,"The patient will present with vague, flulike symptoms.",FALSE
+1470,368,"If the patient is feeling fine, they do not need to see a physician.",FALSE
+1471,368,Signs and symptoms may be delayed.,TRUE
+1472,368,Inhalation of the toxic gases will cause cherry-red skin or lips.,FALSE
+1473,369,What medication did she take?,TRUE
+1474,369,Were the medications new?,FALSE
+1475,369,Why is she on that particular depression medication?,FALSE
+1476,369,How many pills did she take?,FALSE
+1477,370,Intracerebral hematoma,FALSE
+1478,370,Subdural hematoma,TRUE
+1479,370,Concussion,FALSE
+1480,370,Skull fracture,FALSE
+1481,371,Standing orders,FALSE
+1482,371,Protocols,TRUE
+1483,371,Standard operating procedures,FALSE
+1484,371,On-line medical direction,FALSE
+1485,372,Central deployment,FALSE
+1486,372,Resource management,TRUE
+1487,372,Emergency preparedness plan,FALSE
+1488,372,Trauma system,FALSE
+1489,373,Advocate,TRUE
+1490,373,Assistant,FALSE
+1491,373,Representative,FALSE
+1492,373,Guardian,FALSE
+1493,374,Emergency Medical Responder,FALSE
+1494,374,Paramedic,TRUE
+1495,374,Advanced EMT,FALSE
+1496,374,Emergency Medical Technician,FALSE
+1497,375,To identify problem employees and create a corrective action plan,FALSE
+1498,375,To ensure adequate personnel are available for emergencies,FALSE
+1499,375,To ensure that individuals making false calls for EMS are prosecuted,FALSE
+1500,375,To identify problems and develop a plan to prevent their recurrence,TRUE
+1501,376,Strong student,FALSE
+1502,376,Strong communication,FALSE
+1503,376,Self-starter,TRUE
+1504,376,Good eyesight,FALSE
+1505,377,Providing oxygen to a patient that is short of breath,FALSE
+1506,377,Immobilizing the neck of a patient with a possible spinal injury,FALSE
+1507,377,Building rapport with the patient during transport to the hospital,TRUE
+1508,377,Granting patient wishes and not reporting spousal abuse to the authorities,FALSE
+1509,378,Emergency medical dispatch center,FALSE
+1510,378,Emergency department,TRUE
+1511,378,Emergency medical services system,FALSE
+1512,378,Surgical services department,FALSE
+1513,379,An education curriculum for EMT courses,FALSE
+1514,379,Quality oversight of emergency medical services practices,FALSE
+1515,379,National standards for emergency medical services personnel,TRUE
+1516,379,Quality improvement and quality assurance programs for emergency medical services,FALSE
+1517,380,Medical intervention,FALSE
+1518,380,Patient advocacy,FALSE
+1519,380,Patient access,FALSE
+1520,380,Patient assessment,TRUE
