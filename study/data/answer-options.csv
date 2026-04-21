@@ -1519,3 +1519,83 @@ id,question_id,option_text,is_correct
 1518,380,Patient advocacy,FALSE
 1519,380,Patient access,FALSE
 1520,380,Patient assessment,TRUE
+1521,381,Triage patients to be decontaminated.,FALSE
+1522,381,Transport patients to be decontaminated.,FALSE
+1523,381,Transport decontaminated patients.,TRUE
+1524,381,Coordinate hazmat response.,FALSE
+1525,382,Reflective outer clothing,TRUE
+1526,382,Nonslip footwear,FALSE
+1527,382,Flashlight,FALSE
+1528,382,Portable radio,FALSE
+1529,383,"Gloves, N-95 mask, and goggles",FALSE
+1530,383,Gloves and N-95 mask,FALSE
+1531,383,Gloves,FALSE
+1532,383,"Gloves, N-95 mask, goggles, and gown",TRUE
+1533,384,Harm-reduction strategy,FALSE
+1534,384,Infection-control plan,FALSE
+1535,384,Exposure-control plan,FALSE
+1536,384,Personal protective equipment,TRUE
+1537,385,post-traumatic,FALSE
+1538,385,acute,FALSE
+1539,385,cumulative,TRUE
+1540,385,delayed,FALSE
+1541,386,Giving a dying patient hope that a cure can be found before the patient dies,FALSE
+1542,386,Being firm with grieving family members and telling them they need to accept what has happened,FALSE
+1543,386,Being tolerant of angry reactions by patients and family members,TRUE
+1544,386,Providing spiritual guidance to patients who express anger at God,FALSE
+1545,387,acute stress reaction.,FALSE
+1546,387,cumulative stress reaction.,FALSE
+1547,387,delayed stress reaction.,TRUE
+1548,387,severe stress reaction.,FALSE
+1549,388,Respiratory droplet,FALSE
+1550,388,Bloodborne,FALSE
+1551,388,Unprotected sex,FALSE
+1552,388,Fecal-oral,TRUE
+1553,389,Use fine motor skills,FALSE
+1554,389,Control his or her emotions,FALSE
+1555,389,Think and solve problems,TRUE
+1556,389,Adapt to stress,FALSE
+1557,390,cure,FALSE
+1558,390,vaccine,TRUE
+1559,390,prophylactic,FALSE
+1560,390,fact sheet,FALSE
+1561,391,6 inches,FALSE
+1562,391,10 inches,TRUE
+1563,391,15 inches,FALSE
+1564,391,24 inches,FALSE
+1565,392,wheeled stretchers.,FALSE
+1566,392,bariatric stretchers.,TRUE
+1567,392,hydraulic stretchers.,FALSE
+1568,392,battery-powered stretchers.,FALSE
+1569,393,Direct carry,FALSE
+1570,393,Power lift,TRUE
+1571,393,Power grip,FALSE
+1572,393,Weight-lifter technique,FALSE
+1573,394,Stair chair,FALSE
+1574,394,Wheeled ambulance stretcher,TRUE
+1575,394,Scoop stretcher,FALSE
+1576,394,Reeve's stretcher,FALSE
+1577,395,Patient who is nauseated,FALSE
+1578,395,Patient with a suspected spinal injury,TRUE
+1579,395,Patient found lying in bed,FALSE
+1580,395,Patient with difficulty breathing,FALSE
+1581,396,there are no life threats and conditions are stable.,FALSE
+1582,396,life threats exist but there is time for precautions for spinal injuries.,TRUE
+1583,396,an emergency move is not possible.,FALSE
+1584,396,rapid transport is necessary.,FALSE
+1585,397,Move the patient in the direction of the long axis of the body.,TRUE
+1586,397,"Pull the patient from the feet, not the shoulders.",FALSE
+1587,397,Roll the patient over.,FALSE
+1588,397,"Move the patient sideways, alternating between moving the shoulders and the hips.",FALSE
+1589,398,"Environment, physical limitations, and communication",FALSE
+1590,398,"Equipment, patient injury, and communication",FALSE
+1591,398,"The object, patient injury, and communication",FALSE
+1592,398,"The object, your limitations, and communication",TRUE
+1593,399,Vise grip,FALSE
+1594,399,Power grip,TRUE
+1595,399,Power lift,FALSE
+1596,399,Lock grip,FALSE
+1597,400,Urgent move,FALSE
+1598,400,Extremity lift,FALSE
+1599,400,Nonurgent move,FALSE
+1600,400,Emergency move,TRUE
