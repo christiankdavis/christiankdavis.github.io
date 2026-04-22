@@ -1759,3 +1759,323 @@ id,question_id,option_text,is_correct
 1758,440,bronchial,FALSE
 1759,440,lower,FALSE
 1760,440,upper,TRUE
+1761,441,Decreased heart rate,FALSE
+1762,441,Increased contraction of the diaphragm,FALSE
+1763,441,Dissolved mucus in the airways,FALSE
+1764,441,Dilation of the air passages,TRUE
+1765,442,CPAP (Continuous Positive Airway Pressure),TRUE
+1766,442,COPD (Chronic Obstructive Pulmonary Disease),FALSE
+1767,442,Nonrebreather,FALSE
+1768,442,OPQRST,FALSE
+1769,443,Diaphragm lowers.,FALSE
+1770,443,Diaphragm relaxes.,TRUE
+1771,443,Chest cavity increases in size.,FALSE
+1772,443,Intercostal muscles contract.,FALSE
+1773,444,Patient with cyanosis,FALSE
+1774,444,Patient with an irregular respiratory rhythm,TRUE
+1775,444,Patient's whose breath sounds cannot be heard,FALSE
+1776,444,Patient with agonal respirations,FALSE
+1777,445,Breathing slower than normal,FALSE
+1778,445,Wheezing noises when breathing,FALSE
+1779,445,Breathing that is insufficient to sustain life,TRUE
+1780,445,Breathing faster than normal,FALSE
+1781,446,"The trachea is smaller, softer, and more flexible, allowing it to be more easily obstructed.",TRUE
+1782,446,"The chest wall is softer, making it easier for the chest to expand.",FALSE
+1783,446,"The tongue is smaller, taking up less room in the mouth and allowing larger objects to occlude the airway.",FALSE
+1784,446,"The cricoid cartilage is less developed, reducing the possibility that it can be completely occluded.",FALSE
+1785,447,Silent myocardial infarction,FALSE
+1786,447,Asthma,FALSE
+1787,447,COPD,FALSE
+1788,447,Pneumonia,TRUE
+1789,448,Sleepiness,FALSE
+1790,448,Tremors,TRUE
+1791,448,Trapped air in the lungs,FALSE
+1792,448,Decreased heart rate,FALSE
+1793,449,Pulse rate increases.,TRUE
+1794,449,The breath is delivered easily.,FALSE
+1795,449,Pulse rate slows down.,FALSE
+1796,449,You notice cyanosis developing around the mouth.,FALSE
+1797,450,16 breaths/min,FALSE
+1798,450,20 breaths/min,FALSE
+1799,450,12 breaths/min,FALSE
+1800,450,8 breaths/min,TRUE
+1801,451,Crackles,FALSE
+1802,451,Pedal edema,TRUE
+1803,451,Congestive heart failure,FALSE
+1804,451,Presacral swelling,FALSE
+1805,452,Does not present following stress,FALSE
+1806,452,Lasts 10 to 30 seconds,FALSE
+1807,452,May subside with rest,TRUE
+1808,452,Does not respond to nitroglycerin,FALSE
+1809,453,Acute myocardial infarction,FALSE
+1810,453,Congestive heart failure,TRUE
+1811,453,Aortic aneurysm,FALSE
+1812,453,Dysrhythmia,FALSE
+1813,454,Package the patient for rapid transport.,TRUE
+1814,454,Administer high-concentration oxygen at 15 lpm by bag-valve mask.,FALSE
+1815,454,Apply the AED.,FALSE
+1816,454,Insert an oral airway.,FALSE
+1817,455,The patient has a diastolic blood pressure greater than 90 mmHg.,FALSE
+1818,455,The patient has a gastrointestinal ulcer.,TRUE
+1819,455,The patient feels dizzy.,FALSE
+1820,455,The patient does not currently take aspirin.,FALSE
+1821,456,Pulseless electrical activity of the heart,FALSE
+1822,456,Tachycardia,FALSE
+1823,456,Dysrhythmia,FALSE
+1824,456,Palpitations,TRUE
+1825,457,It relaxes blood vessels throughout the body.,TRUE
+1826,457,It dilates only the coronary arteries.,FALSE
+1827,457,It increases the strength with which the ventricles contract.,FALSE
+1828,457,It slows down the heart.,FALSE
+1829,458,Coronary thrombosis,FALSE
+1830,458,Aneurysm,FALSE
+1831,458,Arteriosclerosis,FALSE
+1832,458,Coronary artery disease,TRUE
+1833,459,His pain will go away with oxygen.,FALSE
+1834,459,His pain will be reduced with aspirin.,FALSE
+1835,459,His pain will be alleviated with nitroglycerin.,FALSE
+1836,459,His pain will not be alleviated with any of these medications.,TRUE
+1837,460,an aneurysm.,TRUE
+1838,460,angioplasty.,FALSE
+1839,460,angina.,FALSE
+1840,460,asystole.,FALSE
+1841,461,Not all cardiac arrests are due to problems that respond to defibrillation.,TRUE
+1842,461,The patient may need medications to support his cardiac rhythm and blood pressure prior to attempting defibrillation.,FALSE
+1843,461,"Before attempting defibrillation, it may be necessary to obtain a 12-lead ECG on the patient.",FALSE
+1844,461,All of these,FALSE
+1845,462,Spontaneous circulation and breathing occur.,TRUE
+1846,462,The patient has no pulse after 1 minute.,FALSE
+1847,462,No other rescuer is available to relieve the EMT.,FALSE
+1848,462,The EMT's partner gives the order to cease.,FALSE
+1849,463,EMT managing the airway,FALSE
+1850,463,EMT operating the defibrillator,TRUE
+1851,463,EMT doing chest compressions,FALSE
+1852,463,EMT supervising bystanders,FALSE
+1853,464,Check for a pulse.,FALSE
+1854,464,Insert a Combitube.,FALSE
+1855,464,Continue CPR.,TRUE
+1856,464,Place in the recovery position.,FALSE
+1857,465,A 19-year-old college athlete who collapsed during football practice and is pulseless and apneic,TRUE
+1858,465,A 40-year-old female in cardiac arrest due to chest injuries sustained in a motor vehicle crash,FALSE
+1859,465,A 6-month-old in severe respiratory distress,FALSE
+1860,465,"A 67-year-old man with severe, crushing chest pain that is not relieved by nitroglycerin",FALSE
+1861,466,Minimize the family's time with the deceased patient.,FALSE
+1862,466,Be straightforward and use direct language.,TRUE
+1863,466,Prevent the family from seeing the deceased patient.,FALSE
+1864,466,Tell the family the EMT knows how they feel.,FALSE
+1865,467,Load the patient into the ambulance for further assessment.,FALSE
+1866,467,Insert an oropharyngeal airway and begin ventilations.,FALSE
+1867,467,Apply the AED.,TRUE
+1868,467,Stop CPR and check for a pulse.,FALSE
+1869,468,The patient has organized electrical activity in the heart but no pulse.,FALSE
+1870,468,The patient is in ventricular fibrillation or ventricular tachycardia.,TRUE
+1871,468,"The patient's heart has no electrical activity; he is ""flat line,"" or in asystole.",FALSE
+1872,468,The patient's heart rhythm is normal.,FALSE
+1873,469,Ventricular fibrillation is common in children.,FALSE
+1874,469,Cardiac arrest in children is more likely to be due to respiratory failure.,TRUE
+1875,469,Ventricular fibrillation is not common in adults.,FALSE
+1876,469,Cardiac arrest in adults is more likely to be due to respiratory failure.,FALSE
+1877,470,Prevents the heart muscle from contracting normally,TRUE
+1878,470,Initiates commotio cordis,FALSE
+1879,470,Causes asphyxial cardiac arrest,FALSE
+1880,470,Forces the heartbeat to become quite rapid,FALSE
+1881,471,80 mg/dL,TRUE
+1882,471,150 mg/dL,FALSE
+1883,471,40 mg/dL,FALSE
+1884,471,180 mg/dL,FALSE
+1885,472,heart.,FALSE
+1886,472,kidneys.,FALSE
+1887,472,brain.,TRUE
+1888,472,lungs.,FALSE
+1889,473,"Place the patient in the recovery position, administer oxygen, and monitor his airway status.",TRUE
+1890,473,Place the patient in the recovery position to protect the airway and place oral glucose solution under the patient's tongue.,FALSE
+1891,473,Apply oral glucose solution to a tongue depressor and insert it between the patient's cheek and gums.,FALSE
+1892,473,Encourage the patient's family to administer his insulin.,FALSE
+1893,474,altered RAS status.,FALSE
+1894,474,dehydration.,FALSE
+1895,474,syncope.,TRUE
+1896,474,vertigo.,FALSE
+1897,475,"Excessive intake of foods high in sugar, such as soda or candy",FALSE
+1898,475,Failure to take her insulin,FALSE
+1899,475,"A nondiabetic-related problem, such as a head injury or mental illness",FALSE
+1900,475,Failure to intake sufficient sugar,TRUE
+1901,476,Have the patient repeat a simple sentence.,FALSE
+1902,476,Ask the patient to smile.,FALSE
+1903,476,Test for equal grip strength.,TRUE
+1904,476,Test the patient for arm droop or lack of movement.,FALSE
+1905,477,placing the patient on the floor or ground.,FALSE
+1906,477,removing objects that might harm the patient.,FALSE
+1907,477,loosening restrictive clothing.,FALSE
+1908,477,placing a bite block in the patient's mouth so that he does not bite his tongue.,TRUE
+1909,478,80,FALSE
+1910,478,60,FALSE
+1911,478,50,FALSE
+1912,478,70,TRUE
+1913,479,Intoxication,TRUE
+1914,479,Respiratory distress,FALSE
+1915,479,Heart attack,FALSE
+1916,479,All of these,FALSE
+1917,480,islets of Langerhans in the liver.,FALSE
+1918,480,gallbladder found in the pancreas.,FALSE
+1919,480,islets of Langerhans in the pancreas.,TRUE
+1920,480,None of these.,FALSE
+1921,481,Urticaria,FALSE
+1922,481,Respiratory distress,FALSE
+1923,481,Anaphylaxis,TRUE
+1924,481,Stridor,FALSE
+1925,482,Leave it at the scene for the patient or his family to dispose of.,FALSE
+1926,482,Bend the needle at an angle to prevent accidental punctures and place it in the trash.,FALSE
+1927,482,Take it to the hospital for disposal in the emergency department.,FALSE
+1928,482,Place the device in a rigid biohazardous sharps disposal container.,TRUE
+1929,483,Hyperventilation syndrome,FALSE
+1930,483,Anaphylaxis,TRUE
+1931,483,Allergic reaction,FALSE
+1932,483,Heat stroke,FALSE
+1933,484,Immediately administer a second auto-injector.,FALSE
+1934,484,Continue supportive care en route to the hospital.,FALSE
+1935,484,Contact medical control.,TRUE
+1936,484,Divert transport to a hospital with critical care capabilities.,FALSE
+1937,485,Search the patient for an epinephrine auto-injector.,FALSE
+1938,485,Read the candy wrapper to see if it contains peanuts.,FALSE
+1939,485,Perform rapid extrication.,FALSE
+1940,485,Administer high-concentration oxygen.,TRUE
+1941,486,How far the patient lives from medical attention,TRUE
+1942,486,Patient's known allergies,FALSE
+1943,486,Patient's medical history,FALSE
+1944,486,Severity of previous allergic reactions,FALSE
+1945,487,EpiPen,TRUE
+1946,487,Autodrenalin,FALSE
+1947,487,Anajector,FALSE
+1948,487,AllerPen,FALSE
+1949,488,You have come into contact with poison ivy in the patient's yard.,FALSE
+1950,488,You have been exposed to an infectious disease through contact with the patient.,FALSE
+1951,488,You are showing early signs of an anaphylactic reaction.,FALSE
+1952,488,You are having an allergic reaction to the latex in the gloves.,TRUE
+1953,489,Allergens clump together and block blood flow through the lungs.,FALSE
+1954,489,Swelling of the airway tissues causes difficulty breathing.,TRUE
+1955,489,"Allergens bind to hemoglobin, preventing it from carrying oxygen.",FALSE
+1956,489,Swelling in the brain decreases the respiratory drive.,FALSE
+1957,490,Allergic reaction,FALSE
+1958,490,Asthma,FALSE
+1959,490,Anaphylaxis,TRUE
+1960,490,Heat exhaustion,FALSE
+1961,491,tuberculosis.,FALSE
+1962,491,pneumonia.,TRUE
+1963,491,pertussis.,FALSE
+1964,491,croup.,FALSE
+1965,492,Taking antiviral medication,TRUE
+1966,492,Having the vaccination,FALSE
+1967,492,Receiving immune globulin,FALSE
+1968,492,Washing your eye with water,FALSE
+1969,493,Systolic blood pressure of 76,FALSE
+1970,493,Heart rate of 87,TRUE
+1971,493,Temperature of 95.3°F,FALSE
+1972,493,Respiratory rate of 32,FALSE
+1973,494,Call medical direction and ask how you should proceed.,FALSE
+1974,494,Provide care without using precautions because his viral load is suppressed.,FALSE
+1975,494,Avoid direct contact with the patient but provide him with dressings he can apply himself.,FALSE
+1976,494,Take Standard Precautions while providing care for the patient.,TRUE
+1977,495,Share information with patients about the prevalence of the disease.,FALSE
+1978,495,Follow the recommendations of the CDC and your local health department.,TRUE
+1979,495,Tell patients not to worry because new reports exaggerate the severity of these diseases.,FALSE
+1980,495,Gather data about patient signs and symptoms and report them to the local health department.,FALSE
+1981,496,Tuberculosis,FALSE
+1982,496,Meningitis,TRUE
+1983,496,Shingles,FALSE
+1984,496,Hepatitis C,FALSE
+1985,497,Standard Precautions,TRUE
+1986,497,Hand washing,FALSE
+1987,497,Covering sneezes and coughs,FALSE
+1988,497,Vaccination,FALSE
+1989,498,"The exact pathway for the development of sepsis remains unclear, and most cases do not have a clearly defined source.",TRUE
+1990,498,"Treatment of sepsis has changed and improved over time, but the definition of the condition has remained relatively unchanged.",FALSE
+1991,498,Patients who use urinary catheters are at a decreased risk of sepsis because catheter use makes it harder for microbes to enter the urinary tract.,FALSE
+1992,498,"Infections of the lungs commonly lead to sepsis, but sepsis is not typically associated with cases of pneumonia.",FALSE
+1993,499,blood and saliva.,FALSE
+1994,499,airborne droplets and direct contact.,FALSE
+1995,499,saliva and droplets.,TRUE
+1996,499,all body fluids.,FALSE
+1997,500,"SIRS is used to predict the likelihood a patient will develop sepsis, whereas qSOFA is used to predict the likelihood of patient death from sepsis.",TRUE
+1998,500,"SIRS is more commonly used in the intensive care setting, whereas qSOFA is more commonly used in field assessments.",FALSE
+1999,500,"SIRS creates a score based on the number of abnormal findings, whereas qSOFA uses the presence of two or more specific criteria.",FALSE
+2000,500,"SIRS relies on the measurement of exhaled carbon dioxide to detect sepsis, whereas qSOFA uses a variety of measures.",FALSE
+2001,501,Charcoal,FALSE
+2002,501,Mesquite,FALSE
+2003,501,Actifed,FALSE
+2004,501,Actidose,TRUE
+2005,502,Inactivation,FALSE
+2006,502,Incorporation,FALSE
+2007,502,Absorption,FALSE
+2008,502,Adsorption,TRUE
+2009,503,14-year-old female who overdoses on her grandfather's cardiac medication,TRUE
+2010,503,45-year-old patient suffering from insecticide poisoning,FALSE
+2011,503,18-year-old patient who is passed out from drinking too much beer,FALSE
+2012,503,8-year-old boy who has a headache from carbon monoxide poisoning,FALSE
+2013,504,Production of heat when the acid and alkali interact,FALSE
+2014,504,Further damage to the patient's tissues,FALSE
+2015,504,Neutralization of the acid substance,FALSE
+2016,504,All of these,TRUE
+2017,505,Meth,FALSE
+2018,505,Uppers,FALSE
+2019,505,Downers,TRUE
+2020,505,Acid,FALSE
+2021,506,It can reduce the amount of poison absorbed by the gastrointestinal system.,FALSE
+2022,506,It is an antidote to many poisons.,TRUE
+2023,506,Ingestion of strong acids or alkalis is a contraindication to its use.,FALSE
+2024,506,It does not work on all poisons.,FALSE
+2025,507,It has an immediate action.,TRUE
+2026,507,It can cause a patient to aspirate stomach contents into the lungs.,FALSE
+2027,507,It causes vomiting in all patients with a single dose.,FALSE
+2028,507,It removes only about one-third of stomach contents.,FALSE
+2029,508,Agree. It is obvious that the broken arm is causing the decreased heart rate.,FALSE
+2030,508,Agree. The vital signs agree with this hypothesis.,TRUE
+2031,508,Disagree. The vital signs indicate that she has not taken her medication in several days.,FALSE
+2032,508,Disagree. The patient's vital signs are related to her broken arm.,FALSE
+2033,509,Concussion,FALSE
+2034,509,Subdural hematoma,TRUE
+2035,509,Intracerebral hematoma,FALSE
+2036,509,Skull fracture,FALSE
+2037,510,Marijuana overdose,FALSE
+2038,510,Alcohol overdose,FALSE
+2039,510,GHB overdose,FALSE
+2040,510,Cocaine overdose,TRUE
+2041,511,appendicitis.,TRUE
+2042,511,pancreatitis.,FALSE
+2043,511,peritonitis.,FALSE
+2044,511,cholecystitis.,FALSE
+2045,512,myocardial infarction.,FALSE
+2046,512,mid-cycle pain.,FALSE
+2047,512,cholecystitis.,FALSE
+2048,512,renal colic.,TRUE
+2049,513,Spleen,FALSE
+2050,513,Kidneys,TRUE
+2051,513,Liver,FALSE
+2052,513,Stomach,FALSE
+2053,514,visceral pain.,FALSE
+2054,514,tearing pain.,FALSE
+2055,514,referred pain.,TRUE
+2056,514,parietal pain.,FALSE
+2057,515,Position of comfort,TRUE
+2058,515,Right lateral,FALSE
+2059,515,Supine,FALSE
+2060,515,Semi-Fowler's,FALSE
+2061,516,What is your sexual orientation?,TRUE
+2062,516,Have you had sexual intercourse since your last menstrual period?,FALSE
+2063,516,Are you having vaginal bleeding or discharge now?,FALSE
+2064,516,"If you are menstruating, is the flow normal?",FALSE
+2065,517,appendicitis.,FALSE
+2066,517,aortic abdominal aneurysm.,FALSE
+2067,517,hernia.,TRUE
+2068,517,splenic rupture.,FALSE
+2069,518,Stomach,FALSE
+2070,518,Liver,FALSE
+2071,518,Uterus,FALSE
+2072,518,Kidneys,TRUE
+2073,519,Left lower,FALSE
+2074,519,Right upper,FALSE
+2075,519,Right lower,TRUE
+2076,519,Left upper,FALSE
+2077,520,Do you have any allergies to foods or medicines?,FALSE
+2078,520,"Do you have any medical problems, such as diabetes or heart problems?",FALSE
+2079,520,What medications are you taking?,FALSE
+2080,520,All of these,TRUE
