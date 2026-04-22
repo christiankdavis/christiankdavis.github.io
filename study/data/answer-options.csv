@@ -1599,3 +1599,163 @@ id,question_id,option_text,is_correct
 1598,400,Extremity lift,FALSE
 1599,400,Nonurgent move,FALSE
 1600,400,Emergency move,TRUE
+1601,401,The EMT failed to act according to the standard of care.,FALSE
+1602,401,The EMT had a duty to act.,FALSE
+1603,401,Proximate causation existed.,FALSE
+1604,401,The patient was in fear of bodily harm at the time of the incident.,TRUE
+1605,402,Have the patient's family put their wishes in writing.,FALSE
+1606,402,Withhold resuscitative measures.,FALSE
+1607,402,Begin resuscitative measures.,TRUE
+1608,402,Consult with the patient's physician.,FALSE
+1609,403,The EMT is not negligent because she did not have a duty to act.,TRUE
+1610,403,The EMT is negligent because the patient died.,FALSE
+1611,403,The EMT is negligent for not stopping and helping.,FALSE
+1612,403,The EMT is not negligent because she had a doctor's appointment.,FALSE
+1613,404,Call the patient's mother at work.,TRUE
+1614,404,"Get consent from the patient's 15-year-old sister, who is at the scene.",FALSE
+1615,404,Allow the patient to consent as an emancipated minor.,FALSE
+1616,404,Act on implied consent.,FALSE
+1617,405,Legal standards of practice,FALSE
+1618,405,Professional standards,FALSE
+1619,405,Protocols and standing orders,FALSE
+1620,405,Scope of practice,TRUE
+1621,406,In loco parentis,TRUE
+1622,406,Res ipsa loquitur,FALSE
+1623,406,Informed consent,FALSE
+1624,406,Healthcare proxy,FALSE
+1625,407,Medical identification device,TRUE
+1626,407,On-call Medical Director,FALSE
+1627,407,Driver's license,FALSE
+1628,407,Medical history identifier,FALSE
+1629,408,"Tell the patient that his chest pain is most likely caused by his diet, have him take an antacid and go to bed.",FALSE
+1630,408,"Inform the patient that if he does not agree to treatment, you will have to take him against his will because he has a potentially life-threatening problem.",FALSE
+1631,408,Try to find out why the patient does not want to go to the hospital.,TRUE
+1632,408,Ask the patient's daughter for the number of another family member you can call to convince him to consent to care.,FALSE
+1633,409,Professional standards,FALSE
+1634,409,Standard of care,TRUE
+1635,409,Protocols and standing orders,FALSE
+1636,409,Scope of practice,FALSE
+1637,410,"Inform the patient that he is having a ""heart attack"" and must be taken to the hospital for evaluation.",FALSE
+1638,410,Stay with the patient until he loses consciousness.,FALSE
+1639,410,Fully inform the patient about his situation and the implications of refusing care.,TRUE
+1640,410,Contact medical direction for orders to restrain the patient.,FALSE
+1641,411,right medial.,TRUE
+1642,411,left lower.,FALSE
+1643,411,left upper.,FALSE
+1644,411,right upper.,FALSE
+1645,412,to the side.,TRUE
+1646,412,toward the middle of.,FALSE
+1647,412,to the back of.,FALSE
+1648,412,under the arms.,FALSE
+1649,413,The medical acronyms and abbreviations used by prehospital care providers and hospital staff are different.,FALSE
+1650,413,There is a chance that they can lead to errors in continued care for the patient.,TRUE
+1651,413,Using acronyms and abbreviations is considered unprofessional.,FALSE
+1652,413,"They should only be avoided in verbal communications, where they can be misunderstood; they are expected in written patient care reports.",FALSE
+1653,414,"Explain that using large words and medical terms can be seen as being egotistical, which can alienate both patients and other providers.",FALSE
+1654,414,Tell her that the point of communicating with patients and other providers is so there is clear understanding; using medical terms when not necessary can cause confusion.,TRUE
+1655,414,"You should say that you are an experienced EMT and because she is new, she should just take your advice and apply it.",FALSE
+1656,414,"Tell her that the general public isn't smart enough to understand medical terminology and that all communication must be ""dumbed down"" when talking to patients.",FALSE
+1657,415,Abdominal regions,FALSE
+1658,415,Abdominal sextants,FALSE
+1659,415,Abdominal planes,FALSE
+1660,415,Abdominal quadrants,TRUE
+1661,416,The intersection of two imaginary lines crossing at the umbilicus,FALSE
+1662,416,An imaginary line dividing the body into a front and a back portion,FALSE
+1663,416,An imaginary line dividing the body into equal right and left halves,TRUE
+1664,416,An imaginary line dividing the body into a top and bottom portion,FALSE
+1665,417,A line from the center of the armpit extending vertically down the side of the chest,TRUE
+1666,417,A line drawn horizontally from one armpit to the other across the front of the body,FALSE
+1667,417,A line drawn diagonally from the outer end of the clavicle to the navel,FALSE
+1668,417,A line drawn vertically from the xiphoid process to the pubic bone,FALSE
+1669,418,prone position.,FALSE
+1670,418,recovery position.,TRUE
+1671,418,Fowler position.,FALSE
+1672,418,supine position.,FALSE
+1673,419,Lying on the side,FALSE
+1674,419,Lying flat on the back,FALSE
+1675,419,Sitting upright with the legs straight,TRUE
+1676,419,Lying on the stomach,FALSE
+1677,420,Caudal,FALSE
+1678,420,Posterior,FALSE
+1679,420,Anterior,TRUE
+1680,420,Dorsal,FALSE
+1681,421,Coronary arteries,TRUE
+1682,421,Femoral arteries,FALSE
+1683,421,Pulmonary arteries,FALSE
+1684,421,Brachial arteries,FALSE
+1685,422,The size of their tongues in proportion to their mouths is larger than an adult's.,FALSE
+1686,422,They rely more on the diaphragm during breathing difficulty.,TRUE
+1687,422,Young children have a pronounced inward curvature at the bottom of the ribcage.,FALSE
+1688,422,"The cricoid cartilage and trachea are both more flexible than in adults, making breathing more difficult.",FALSE
+1689,423,Decreased production of carbon dioxide,FALSE
+1690,423,Decrease in pulse rate,FALSE
+1691,423,Decreased ability to fight infection,FALSE
+1692,423,Decreased oxygen delivery to the tissues,TRUE
+1693,424,"On the medial side of the ankle, posterior to the tibia",FALSE
+1694,424,On the medial side of the upper arm,FALSE
+1695,424,Behind the knee,FALSE
+1696,424,In the crease between the abdomen and the groin,TRUE
+1697,425,Fibula,FALSE
+1698,425,Tibia,TRUE
+1699,425,Femur,FALSE
+1700,425,Patella,FALSE
+1701,426,Radius,FALSE
+1702,426,Humerus,TRUE
+1703,426,Scapula,FALSE
+1704,426,Ulna,FALSE
+1705,427,Cervical and thoracic,FALSE
+1706,427,Lumbar and sacral,FALSE
+1707,427,Cervical and lumbar,TRUE
+1708,427,Sacral and coccygeal,FALSE
+1709,428,Ulna,FALSE
+1710,428,Radius,TRUE
+1711,428,Fibula,FALSE
+1712,428,Acromion,FALSE
+1713,429,Spleen,TRUE
+1714,429,Thyroid gland,FALSE
+1715,429,Liver,FALSE
+1716,429,Heart,FALSE
+1717,430,Exhalation,FALSE
+1718,430,Bifurcation,FALSE
+1719,430,Gas exchange,FALSE
+1720,430,Inhalation,TRUE
+1721,431,Low oxygen and high carbon dioxide,TRUE
+1722,431,High oxygen and low carbon dioxide,FALSE
+1723,431,Low oxygen and low carbon dioxide,FALSE
+1724,431,High oxygen and high carbon dioxide,FALSE
+1725,432,white blood cells.,FALSE
+1726,432,oncotic pressure.,FALSE
+1727,432,hydrostatic pressure.,FALSE
+1728,432,plasma.,TRUE
+1729,433,He possibly has wet his pants and does not want anyone to know.,FALSE
+1730,433,He possibly has internal injuries and is in shock.,TRUE
+1731,433,He is embarrassed and is afraid that the other students will make fun of him.,FALSE
+1732,433,He is really upset and wants his mother.,FALSE
+1733,434,Potassium pump,FALSE
+1734,434,Nucleus,FALSE
+1735,434,Mitochondria,TRUE
+1736,434,Endoplasmic reticulum,FALSE
+1737,435,16,FALSE
+1738,435,5,FALSE
+1739,435,21,TRUE
+1740,435,100,FALSE
+1741,436,General weakness,FALSE
+1742,436,Changes in pupil dilation,FALSE
+1743,436,Hearing disturbances,FALSE
+1744,436,"Pale, sweaty skin",TRUE
+1745,437,"A medical, structural, and mechanical failure that has initiated the cascade of life-threatening problems will interrupt this control.",FALSE
+1746,437,A structural reason that has caused collapse of the upper and lower airways to block the flow of oxygen to the alveoli can interrupt this control.,FALSE
+1747,437,"Mechanical failure, soft-tissue damage, obstruction, and lack of perfusion will interrupt this control.",FALSE
+1748,437,"Stroke, infection, brain trauma, toxins and drugs, and neurologic disorders can interrupt this control.",TRUE
+1749,438,hypersensitivity.,TRUE
+1750,438,a histamine dump.,FALSE
+1751,438,hyposensitivity.,FALSE
+1752,438,an antibody reaction.,FALSE
+1753,439,Contraction of the heart,FALSE
+1754,439,Large proteins,TRUE
+1755,439,Constriction of the vessels,FALSE
+1756,439,Dilation of the vessels,FALSE
+1757,440,alveoli,FALSE
+1758,440,bronchial,FALSE
+1759,440,lower,FALSE
+1760,440,upper,TRUE
