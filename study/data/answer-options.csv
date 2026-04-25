@@ -2079,3 +2079,203 @@ id,question_id,option_text,is_correct
 2078,520,"Do you have any medical problems, such as diabetes or heart problems?",FALSE
 2079,520,What medications are you taking?,FALSE
 2080,520,All of these,TRUE
+2081,521,Rapid pulse and breathing,FALSE
+2082,521,Tense body posture or clenched fists,FALSE
+2083,521,Rapid speech and movement,FALSE
+2084,521,Crying,TRUE
+2085,522,Apparent behavioral emergencies may be due to an underlying medical cause.,FALSE
+2086,522,It is unusual to find a person with schizophrenia outside a mental health facility.,TRUE
+2087,522,Patients experiencing a behavioral emergency are not always dangerous to themselves or others.,FALSE
+2088,522,Cultural differences may cause a patient's behavior to initially appear abnormal to the EMT.,FALSE
+2089,523,Obtain a witnessed refusal.,FALSE
+2090,523,Find a relative or neighbor to come over and stay with the patient.,FALSE
+2091,523,Stay with the patient until he has stopped vomiting.,FALSE
+2092,523,Contact medical direction for further advice.,TRUE
+2093,524,Managing the patient's airway,FALSE
+2094,524,Personal safety,TRUE
+2095,524,Contacting law enforcement because suicide is illegal,FALSE
+2096,524,Determining whether the patient suffers from clinical depression,FALSE
+2097,525,Neurosis,FALSE
+2098,525,Catharsis,FALSE
+2099,525,Stress reaction,TRUE
+2100,525,Post-traumatic stress disorder,FALSE
+2101,526,Sit as close to the patient as you can to reassure him that you will not abandon him.,FALSE
+2102,526,Allow family members to confront the patient about his behavior.,FALSE
+2103,526,Go along with the patient's hallucinations or false beliefs.,FALSE
+2104,526,"Make supportive statements such as, ""That must have been very hard for you.""",TRUE
+2105,527,Snakebites,FALSE
+2106,527,Allergic reaction,FALSE
+2107,527,Hypoxia,TRUE
+2108,527,Gastroenteritis,FALSE
+2109,528,Do not take any action that may be considered threatening by the patient; doing so may bring about hostile behavior directed against you or others.,FALSE
+2110,528,Always be on the watch for weapons.,FALSE
+2111,528,Do not isolate yourself from your partner or other sources of help.,FALSE
+2112,528,Make certain the patient gets between you and the door. The patient should always feel he has an escape route.,TRUE
+2113,529,30-year-old married man who has just learned that his employer is transferring him to a different state,FALSE
+2114,529,22-year-old man who has lost his job and is getting divorced,TRUE
+2115,529,44-year-old woman who has just recovered from a serious illness,FALSE
+2116,529,35-year-old female who has a child with a serious illness,FALSE
+2117,530,"As soon as possible, perform a history and physical exam and provide emergency care on the wrist, if necessary.",FALSE
+2118,530,Watch for sudden changes in the patient's behavior and physical condition.,FALSE
+2119,530,Take charge of the situation; let the patient know that what he has done is wrong and tell him he is coming with you whether he likes it or not.,TRUE
+2120,530,Contact the receiving hospital and report on current mental status and other essential information.,FALSE
+2121,531,WBC for white blood cells,FALSE
+2122,531,SCA for sickle cell anemia,FALSE
+2123,531,CAPD for continuous acute peripheral disease,TRUE
+2124,531,RBC for red blood cells,FALSE
+2125,532,Kidneys,FALSE
+2126,532,Liver,FALSE
+2127,532,Lungs,FALSE
+2128,532,Spleen,TRUE
+2129,533,25 percent,FALSE
+2130,533,16 percent,FALSE
+2131,533,8 percent,TRUE
+2132,533,50 percent,FALSE
+2133,534,thrill.,TRUE
+2134,534,bruit.,FALSE
+2135,534,fluttering.,FALSE
+2136,534,frill.,FALSE
+2137,535,maintaining blood volume.,FALSE
+2138,535,balancing electrolytes.,FALSE
+2139,535,excreting urea.,FALSE
+2140,535,All of these,TRUE
+2141,536,They are crucial in the formation of clots.,FALSE
+2142,536,They are responsible for the delivery of oxygen to the cells.,TRUE
+2143,536,They are responsible for the removal of oxygen from the cells.,FALSE
+2144,536,They are critical in response to infection and are mediators of the body's immune response.,FALSE
+2145,537,Electrolyte imbalance,FALSE
+2146,537,Urinary tract infection,FALSE
+2147,537,Dehydration,TRUE
+2148,537,Kidney stones,FALSE
+2149,538,sludging,TRUE
+2150,538,clumping,FALSE
+2151,538,clotting,FALSE
+2152,538,aggregation,FALSE
+2153,539,Removal of carbon monoxide from the cells,TRUE
+2154,539,Control of bleeding by clotting,FALSE
+2155,539,Delivery of oxygen to the cells,FALSE
+2156,539,"Removal and delivery of waste products to organs that provide filtration and removal, such as the kidneys and liver",FALSE
+2157,540,Urinary tract infections,TRUE
+2158,540,Acute renal failure,FALSE
+2159,540,Kidney stones,FALSE
+2160,540,End-stage renal disease,FALSE
+2161,541,cholecystitis.,FALSE
+2162,541,gastroesophageal reflux disease (GERD).,FALSE
+2163,541,myocardial infarction.,FALSE
+2164,541,pancreatitis.,TRUE
+2165,542,splenic rupture.,FALSE
+2166,542,pancreatitis.,FALSE
+2167,542,renal colic.,FALSE
+2168,542,peritonitis.,TRUE
+2169,543,ectopic pregnancy.,FALSE
+2170,543,abdominal aortic aneurysm.,FALSE
+2171,543,cholecystitis.,TRUE
+2172,543,renal colic.,FALSE
+2173,544,Ectopic pregnancy,TRUE
+2174,544,Cholecystitis,FALSE
+2175,544,Menstrual irregularity,FALSE
+2176,544,Pelvic inflammatory disease,FALSE
+2177,545,visceral,TRUE
+2178,545,parietal,FALSE
+2179,545,acute,FALSE
+2180,545,referred,FALSE
+2181,546,Left lateral recumbent,TRUE
+2182,546,Trendelenburg,FALSE
+2183,546,Supine with knees bent,FALSE
+2184,546,Supine,FALSE
+2185,547,The patient may become unresponsive.,FALSE
+2186,547,The oxygen will cause the patient to start vomiting again.,FALSE
+2187,547,The patient may hyperventilate.,FALSE
+2188,547,The patient cannot clear any additional vomit.,TRUE
+2189,548,Ruptured appendix,FALSE
+2190,548,Acute pancreatitis,FALSE
+2191,548,Abdominal aortic aneurysm,TRUE
+2192,548,Myocardial infarction,FALSE
+2193,549,Insert an oropharyngeal airway.,FALSE
+2194,549,Try to determine the cause of his pain.,FALSE
+2195,549,Reassure him that you will make him as comfortable as possible and get him to the hospital for additional care.,TRUE
+2196,549,Tell the patient that you cannot transport him unless he calms down and lies still.,FALSE
+2197,550,is lying on the floor very still and quiet with his knees drawn up to his chest.,TRUE
+2198,550,"walks out to the ambulance informing you he has the worst ""belly ache.""",FALSE
+2199,550,"is sitting upright in a chair, moaning in pain, and drinking antacid.",FALSE
+2200,550,is rolling about on the floor complaining of pain.,FALSE
+2201,551,"As soon as possible, perform a history and physical exam and provide emergency care on the wrist, if necessary.",FALSE
+2202,551,Take charge of the situation; let the patient know that what he has done is wrong and tell him he is coming with you whether he likes it or not.,TRUE
+2203,551,Watch for sudden changes in the patient's behavior and physical condition.,FALSE
+2204,551,Contact the receiving hospital and report on current mental status and other essential information.,FALSE
+2205,552,Use Standard Precautions.,FALSE
+2206,552,Keep bystanders away from the patient.,FALSE
+2207,552,Take the razor blade away from her by force.,TRUE
+2208,552,Call law enforcement for assistance.,FALSE
+2209,553,Recent emotional trauma,FALSE
+2210,553,Sudden improvement in depression,FALSE
+2211,553,Alcohol and drug abuse,FALSE
+2212,553,All of these,TRUE
+2213,554,Find a relative or neighbor to come over and stay with the patient.,FALSE
+2214,554,Obtain a witnessed refusal.,FALSE
+2215,554,Stay with the patient until he has stopped vomiting.,FALSE
+2216,554,Contact medical direction for further advice.,TRUE
+2217,555,Tense body posture or clenched fists,FALSE
+2218,555,Crying,TRUE
+2219,555,Rapid pulse and breathing,FALSE
+2220,555,Rapid speech and movement,FALSE
+2221,556,Mental illness,FALSE
+2222,556,Stroke,FALSE
+2223,556,Hypoglycemia,FALSE
+2224,556,All of these,TRUE
+2225,557,Establish eye and verbal contact.,FALSE
+2226,557,Listen to the patient without being judgmental.,FALSE
+2227,557,Use assertive body language to show you are in control.,FALSE
+2228,557,Both Establish eye and verbal contact and Listen to the patient without being judgmental,TRUE
+2229,558,Do not take any action that may be considered threatening by the patient; doing so may bring about hostile behavior directed against you or others.,FALSE
+2230,558,Always be on the watch for weapons.,FALSE
+2231,558,Make certain the patient gets between you and the door. The patient should always feel he has an escape route.,TRUE
+2232,558,Do not isolate yourself from your partner or other sources of help.,FALSE
+2233,559,Quickly perform a head-to-toe exam and transport without delay.,FALSE
+2234,559,Establish control of the situation by a show of force.,FALSE
+2235,559,Remain calm and reassure the patient.,TRUE
+2236,559,Find out if the patient's insurance covers psychiatric treatment.,FALSE
+2237,560,Quickly check the patient's carotid pulse.,FALSE
+2238,560,Ask the wife to step outside with you so you can get information from her.,FALSE
+2239,560,Stay a safe distance away.,TRUE
+2240,560,Ask the wife to step into the other room so you can speak with the patient alone.,FALSE
+2241,561,place the patient on a simple face mask.,FALSE
+2242,561,place the patient on a nonrebreather mask.,TRUE
+2243,561,do nothing; no supplemental oxygen is necessary.,FALSE
+2244,561,place the patient on a nasal cannula.,FALSE
+2245,562,Patients who have missed dialysis and who become unresponsive and pulseless respond very well to the use of an AED.,FALSE
+2246,562,Calling for ALS would not be very helpful because they cannot really do anything that an EMT cannot do in these situations.,FALSE
+2247,562,You should delay transport if necessary to wait for ALS.,FALSE
+2248,562,Patients who have missed dialysis and who become unresponsive and pulseless do not respond very well to the use of an AED.,TRUE
+2249,563,liver.,FALSE
+2250,563,pancreas.,FALSE
+2251,563,heart.,FALSE
+2252,563,kidney.,TRUE
+2253,564,7 to 8 hours,FALSE
+2254,564,10 to 12 hours,FALSE
+2255,564,3 to 4 hours,TRUE
+2256,564,1 to 2 hours,FALSE
+2257,565,Delivery of oxygen to the cells,FALSE
+2258,565,Control of bleeding by clotting,FALSE
+2259,565,Removal of carbon monoxide from the cells,TRUE
+2260,565,"Removal and delivery of waste products to organs that provide filtration and removal, such as the kidneys and liver",FALSE
+2261,566,electrolytes; hormones,FALSE
+2262,566,blood; cholesterol,FALSE
+2263,566,urine; poisons,FALSE
+2264,566,toxins; fluids,TRUE
+2265,567,bruit.,FALSE
+2266,567,fluttering.,FALSE
+2267,567,frill.,FALSE
+2268,567,thrill.,TRUE
+2269,568,hemoglobin.,FALSE
+2270,568,plasma.,FALSE
+2271,568,aspirin.,TRUE
+2272,568,acetaminophen.,FALSE
+2273,569,chest pain; acute myocardial infarction,FALSE
+2274,569,neurological disturbances; stroke,FALSE
+2275,569,fluid accumulation; congestive heart failure,TRUE
+2276,569,shortness of breath; pneumonia,FALSE
+2277,570,a dialysis machine.,FALSE
+2278,570,the abdomen.,TRUE
+2279,570,an AV fistula.,FALSE
+2280,570,the urethra.,FALSE
