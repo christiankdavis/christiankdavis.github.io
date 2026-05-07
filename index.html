@@ -1,138 +1,229 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Christian KeShawn Davis - Coming Soon</title>
-  <style>
-    :root {
-      --bg-dark: #0f1624;
-      --card-light: #ffffff;
-      --gold: #CFB53B;
-      --text-light: #e5e9f0;
-      --text-dark: #0f1624;
-      --accent: #2b3a67;
-      --input-bg: #f5f5f5;
-      --btn-bg: var(--gold);
-      --btn-hover: #b2963b;
-    }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      background: var(--bg-dark);
-      overflow: hidden;
-      font-family: 'Poppins', sans-serif;
-      color: var(--text-light);
-    }
-    canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Christian KeShawn Davis</title>
+    <style>
+      :root {
+        --bg-dark: #0f1624;
+        --card-light: #ffffff;
+        --gold: #cfb53b;
+        --text-light: #e5e9f0;
+        --text-dark: #0f1624;
+        --accent: #2b3a67;
+        --input-bg: #f5f5f5;
+        --btn-bg: var(--gold);
+        --btn-hover: #b2963b;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background: var(--bg-dark);
+        overflow: hidden;
+        font-family: "Poppins", sans-serif;
+        color: var(--text-light);
+      }
+      canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
 
-    .card {
-      position: relative;
-      background: var(--card-light);
-      color: var(--text-dark);
-      padding: 3rem 2rem;
-      border-radius: 16px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
-      max-width: 380px;
-      width: 95%;
-      text-align: center;
-      z-index: 1;
-    }
+      .card {
+        position: relative;
+        background: var(--card-light);
+        color: var(--text-dark);
+        padding: 3rem 2rem;
+        border-radius: 16px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+        max-width: 380px;
+        width: 95%;
+        text-align: center;
+        z-index: 1;
+      }
 
-    .gear {
-      width: 48px;
-      height: 48px;
-      margin: 0 auto 1rem;
-      background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23CFB53B" d="M487.4 315.7l-42.8-24.7c2.5-16.6 2.5-33.7 0-50.3l42.8-24.7c7-4 9.6-13 5.6-19.8l-45.6-79c-4-6.8-13-9.6-19.8-5.6l-42.8 24.7c-13.2-11.2-28.1-20-44.1-26l-6.4-48c-1-7.5-7.2-13.2-14.8-13.2h-91.2c-7.6 0-13.8 5.7-14.8 13.2l-6.4 48c-16 6-30.9 14.8-44.1 26l-42.8-24.7c-6.8-4-15.7-1.2-19.8 5.6l-45.6 79c-4 6.8-1.2 15.8 5.6 19.8l42.8 24.7c-2.5 16.6-2.5 33.7 0 50.3l-42.8 24.7c-7 4-9.6 13-5.6 19.8l45.6 79c4 6.8 13 9.6 19.8 5.6l42.8-24.7c13.2 11.2 28.1 20 44.1 26l6.4 48c1 7.5 7.2 13.2 14.8 13.2h91.2c7.6 0 13.8-5.7 14.8-13.2l6.4-48c16-6 30.9-14.8 44.1-26l42.8 24.7c6.8 4 15.7 1.2 19.8-5.6l45.6-79c4-6.8 1.2-15.8-5.6-19.8zM256 336c-44.2 0-80-35.8-80-80s35.8-80 80-80 80 35.8 80 80-35.8 80-80 80z"/></svg>');
-      background-size: cover;
-      animation: rotate 8s linear infinite;
-    }
-    @keyframes rotate { to { transform: rotate(360deg); } }
+      .gear {
+        width: 48px;
+        height: 48px;
+        margin: 0 auto 1rem;
+        background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23CFB53B" d="M487.4 315.7l-42.8-24.7c2.5-16.6 2.5-33.7 0-50.3l42.8-24.7c7-4 9.6-13 5.6-19.8l-45.6-79c-4-6.8-13-9.6-19.8-5.6l-42.8 24.7c-13.2-11.2-28.1-20-44.1-26l-6.4-48c-1-7.5-7.2-13.2-14.8-13.2h-91.2c-7.6 0-13.8 5.7-14.8 13.2l-6.4 48c-16 6-30.9 14.8-44.1 26l-42.8-24.7c-6.8-4-15.7-1.2-19.8 5.6l-45.6 79c-4 6.8-1.2 15.8 5.6 19.8l42.8 24.7c-2.5 16.6-2.5 33.7 0 50.3l-42.8 24.7c-7 4-9.6 13-5.6 19.8l45.6 79c4 6.8 13 9.6 19.8 5.6l42.8-24.7c13.2 11.2 28.1 20 44.1 26l6.4 48c1 7.5 7.2 13.2 14.8 13.2h91.2c7.6 0 13.8-5.7 14.8-13.2l6.4-48c16-6 30.9-14.8 44.1-26l42.8 24.7c6.8 4 15.7 1.2 19.8-5.6l45.6-79c4-6.8 1.2-15.8-5.6-19.8zM256 336c-44.2 0-80-35.8-80-80s35.8-80 80-80 80 35.8 80 80-35.8 80-80 80z"/></svg>');
+        background-size: cover;
+        animation: rotate 8s linear infinite;
+      }
+      @keyframes rotate {
+        to {
+          transform: rotate(360deg);
+        }
+      }
 
-    h1 { font-size: 1.8rem; letter-spacing: 1px; margin-bottom: 0.25rem; }
-    h2 { font-size: 0.9rem; color: var(--accent); margin-bottom: 1rem; text-transform: uppercase; }
-    p { font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.5; }
+      h1 {
+        font-size: 1.8rem;
+        letter-spacing: 1px;
+        margin-bottom: 0.25rem;
+      }
+      h2 {
+        font-size: 0.9rem;
+        color: var(--accent);
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+      }
+      p {
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+        line-height: 1.5;
+      }
 
-    .info { list-style: none; margin-bottom: 1.5rem; text-align: left; padding: 0 1rem; }
-    .info li { display: flex; align-items: center; margin: 0.5rem 0; }
-    .info li span { width: 1.2rem; margin-right: 0.6rem; font-size: 1.2rem; color: var(--gold); }
+      .info {
+        list-style: none;
+        margin-bottom: 1.5rem;
+        text-align: left;
+        padding: 0 1rem;
+      }
+      .info li {
+        display: flex;
+        align-items: center;
+        margin: 0.5rem 0;
+      }
+      .info li span {
+        width: 1.2rem;
+        margin-right: 0.6rem;
+        font-size: 1.2rem;
+        color: var(--gold);
+      }
 
-    form { display: flex; gap: 0.5rem; margin-bottom: 1rem; padding: 0 1rem; }
-    form input {
-      flex: 1;
-      padding: 0.6rem 0.75rem;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      font-size: 0.9rem;
-      background: var(--input-bg);
-    }
-    form button {
-      padding: 0.6rem 1rem;
-      background: var(--btn-bg);
-      color: var(--text-light);
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-      transition: background 0.3s;
-    }
-    form button:hover { background: var(--btn-hover); }
+      form {
+        display: flex;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+        padding: 0 1rem;
+      }
+      form input {
+        flex: 1;
+        padding: 0.6rem 0.75rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        background: var(--input-bg);
+      }
+      form button {
+        padding: 0.6rem 1rem;
+        background: var(--btn-bg);
+        color: var(--text-light);
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+      form button:hover {
+        background: var(--btn-hover);
+      }
 
-    .social { display: flex; justify-content: center; gap: 1rem; }
-    .social a { font-size: 1.2rem; color: var(--gold); transition: transform 0.2s; }
-    .social a:hover { transform: translateY(-3px); }
-  </style>
-</head>
-<body>
-  <canvas id="bg"></canvas>
-  <div class="card">
-    <div class="gear"></div>
-    <h1>Christian KeShawn Davis</h1>
-    <h2>Site Under Construction</h2>
-    <p>Stanford CS ’20 • Chicago → Brooklyn, NY<br>Advocating for equity in tech & education.</p>
+      .social {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+      }
+      .social a {
+        font-size: 1.2rem;
+        color: var(--gold);
+        transition: transform 0.2s;
+      }
+      .social a:hover {
+        transform: translateY(-3px);
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="bg"></canvas>
+    <div class="card">
+      <div class="gear"></div>
+      <h1>Christian KeShawn Davis</h1>
+      <h2>Site Under Construction</h2>
+      <p>
+        Stanford CS ’20 • Chicago → Brooklyn, NY<br />Advocating for equity in
+        tech & education.
+      </p>
 
-    <ul class="info">
-      <li><span>🎓</span> B.S. Computer Science, Stanford ‘20</li>
-      <li><span>📍</span> Chicago native; now in Brooklyn</li>
-      <li><span>⚖️</span> Equity & education advocate</li>
-    </ul>
+      <ul class="info">
+        <li><span>🎓</span> B.S. Computer Science, Stanford ‘20</li>
+        <li><span>📍</span> Chicago native; now in Brooklyn</li>
+        <li><span>⚖️</span> Equity & education advocate</li>
+      </ul>
 
-    <!-- Formspree integration -->
-    <form action="https://formspree.io/f/mwpqqlon" method="POST">
-      <input type="email" name="email" placeholder="Your email" required />
-      <button type="submit">Notify Me</button>
-    </form>
+      <!-- Formspree integration -->
+      <form action="https://formspree.io/f/mwpqqlon" method="POST">
+        <input type="email" name="email" placeholder="Your email" required />
+        <button type="submit">Notify Me</button>
+      </form>
 
-    <div class="social">
-      <a href="https://twitter.com/" aria-label="Twitter" target="_blank" rel="noopener noreferrer">🐦</a>
-      <a href="https://github.com/" aria-label="GitHub" target="_blank" rel="noopener noreferrer">🐙</a>
-      <a href="https://www.linkedin.com/in/christiankdavis/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">💼</a>
+      <div class="social">
+        <a
+          href="https://twitter.com/"
+          aria-label="Twitter"
+          target="_blank"
+          rel="noopener noreferrer"
+          >🐦</a
+        >
+        <a
+          href="https://github.com/"
+          aria-label="GitHub"
+          target="_blank"
+          rel="noopener noreferrer"
+          >🐙</a
+        >
+        <a
+          href="https://www.linkedin.com/in/christiankdavis/"
+          aria-label="LinkedIn"
+          target="_blank"
+          rel="noopener noreferrer"
+          >💼</a
+        >
+      </div>
     </div>
-  </div>
 
-  <script>
-    // Animated background dots
-    const canvas = document.getElementById('bg');
-    const ctx = canvas.getContext('2d');
-    let w, h;
-    function resize() { w = canvas.width = innerWidth; h = canvas.height = innerHeight; }
-    window.onresize = resize; resize();
-    const dots = Array.from({ length: 80 }).map(() => ({ x: Math.random()*w, y: Math.random()*h, r: Math.random()*2+1, vx: (Math.random()-0.5)*0.3, vy: (Math.random()-0.5)*0.3 }));
-    function draw() {
-      ctx.clearRect(0,0,w,h);
-      dots.forEach(d => {
-        d.x += d.vx; d.y += d.vy;
-        if (d.x<0||d.x>w) d.vx *= -1;
-        if (d.y<0||d.y>h) d.vy *= -1;
-        ctx.beginPath(); ctx.arc(d.x, d.y, d.r, 0, Math.PI*2);
-        ctx.fillStyle = 'rgba(207,181,59,0.5)'; ctx.fill();
-      });
-      requestAnimationFrame(draw);
-    }
-    draw();
-  </script>
-</body>
+    <script>
+      // Animated background dots
+      const canvas = document.getElementById("bg");
+      const ctx = canvas.getContext("2d");
+      let w, h;
+      function resize() {
+        w = canvas.width = innerWidth;
+        h = canvas.height = innerHeight;
+      }
+      window.onresize = resize;
+      resize();
+      const dots = Array.from({ length: 80 }).map(() => ({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        r: Math.random() * 2 + 1,
+        vx: (Math.random() - 0.5) * 0.3,
+        vy: (Math.random() - 0.5) * 0.3,
+      }));
+      function draw() {
+        ctx.clearRect(0, 0, w, h);
+        dots.forEach((d) => {
+          d.x += d.vx;
+          d.y += d.vy;
+          if (d.x < 0 || d.x > w) d.vx *= -1;
+          if (d.y < 0 || d.y > h) d.vy *= -1;
+          ctx.beginPath();
+          ctx.arc(d.x, d.y, d.r, 0, Math.PI * 2);
+          ctx.fillStyle = "rgba(207,181,59,0.5)";
+          ctx.fill();
+        });
+        requestAnimationFrame(draw);
+      }
+      draw();
+    </script>
+  </body>
 </html>
-
