@@ -16,17 +16,27 @@ id,number,title
 15,15,Secondary Assessment
 16,16,Reassessment
 17,17,Communication and Documentation
-18,18,General Phramacology
+18,18,General Pharmacology
 19,19,Respiratory Emergencies
 20,20,Cardiac Emergencies
 21,21,Resuscitation
 22,22,Diabetic Emergencies and Altered Mental Status
 23,23,Allergic Reaction
-24,24,Infectious Disease and Sepsis
+24,24,Infectious Diseases and Sepsis
 25,25,Poisoning and Overdose Emergencies
 26,26,Abdominal Emergencies
 27,27,Behavioral and Psychiatric Emergencies and Suicide
 28,28,Hematologic and Renal Emergencies
 29,29,Bleeding and Shock
-30,30,Soft-Trauma
+30,30,Soft-Tissue Trauma
 31,31,Chest and Abdominal Trauma
+32,32,Musculoskeletal Trauma
+33,33,"Trauma to the Head, Neck, and Spine"
+34,34,Multisystem Trauma
+35,35,Environmental Emergencies
+36,36,Obstetric and Gynecologic Emergencies
+37,37,Emergencies for Patients with Special Challenges
+38,38,EMS Operations
+39,39,"Hazardous Materials, Multiple-Casualty Incidents, and Incident Management"
+40,40,Highway Safety and Vehicle Extrication
+41,41,EMS Response to Terrorism
