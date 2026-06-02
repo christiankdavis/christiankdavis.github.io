@@ -2923,819 +2923,1127 @@ id,question_id,option_text,is_correct
 2922,731,the mechanism of injury.,TRUE
 2923,731,"a tender, rigid, or distended abdomen.",FALSE
 2924,731,"bruising, swelling, or pain over vital organs.",FALSE
-2925,732,Pediatric patients have a greater risk of heart problems associated with the burn.,FALSE
-2926,732,Pediatric patients have a greater risk of shock from the burn.,TRUE
-2927,732,Infants and children have a greater risk of infection from the burn.,FALSE
-2928,732,None of these,FALSE
-2929,733,Cardiogenic,FALSE
-2930,733,Hypervolemic,TRUE
-2931,733,Hemorrhagic,FALSE
-2932,733,Hypovolemic,FALSE
-2933,734,granules.,FALSE
-2934,734,discs.,FALSE
-2935,734,powders.,FALSE
-2936,734,gauze or dressings.,TRUE
-2937,735,"Determining patient severity, amount of time on scene, and transport destination",TRUE
-2938,735,Deciding whether to treat life-threatening injuries on scene or to load and go,FALSE
-2939,735,Diagnosing the causes for a patient's presentation and identifying a course of definitive care,FALSE
-2940,735,Determining the potential liability involved in performing life-saving interventions,FALSE
-2941,736,"Lights, sirens, and diesel",FALSE
-2942,736,"Teamwork, timing, and transport",FALSE
-2943,736,"Physiological determinants, anatomic criteria, and mechanism of injury",TRUE
-2944,736,"Patient priority, amount of time on scene, and transport destination",FALSE
-2945,737,Veins,FALSE
-2946,737,Capillaries,TRUE
-2947,737,Arteries,FALSE
-2948,737,Arterioles,FALSE
-2949,738,There is external bleeding.,FALSE
-2950,738,Blood vessels are dilated.,FALSE
-2951,738,The heart is damaged.,FALSE
-2952,738,All of these,TRUE
-2953,739,Steady flow,FALSE
-2954,739,Dark red color,FALSE
-2955,739,Spurting under pressure,TRUE
-2956,739,Both Dark red color and Spurting under pressure,FALSE
-2957,740,Dilation of the pupils,FALSE
-2958,740,Altered mental status,TRUE
-2959,740,Increased heart rate,FALSE
-2960,740,Delayed capillary refill,FALSE
-2961,741,Cells are not supplied with oxygen.,FALSE
-2962,741,Cellular waste products are not removed.,FALSE
-2963,741,Acid buildup decreases and body pH increases.,TRUE
-2964,741,Cells are not supplied with nutrients.,FALSE
-2965,742,Preventing loss of body heat by covering the patient with a blanket,FALSE
-2966,742,Considering proper positioning of the patient,FALSE
-2967,742,Engaging in high-speed ambulance transportation,TRUE
-2968,742,Managing the patient's airway and preventing hypoxia,FALSE
-2969,743,Blood vessels dilate and the heart rate decreases.,FALSE
-2970,743,Blood vessels constrict and the heart rate decreases.,FALSE
-2971,743,Blood vessels constrict and the heart rate increases.,TRUE
-2972,743,Blood vessels dilate and the heart rate increases.,FALSE
-2973,744,Dilation of the peripheral blood vessels,FALSE
-2974,744,Increased respirations of the patient,FALSE
-2975,744,Constriction of the peripheral blood vessels,FALSE
-2976,744,The body's attempts at compensation for blood loss,TRUE
-2977,745,Vomiting,FALSE
-2978,745,Hemorrhage,TRUE
-2979,745,High blood pressure,FALSE
-2980,745,Excessive sweating,FALSE
-2981,746,Elevating the affected part,FALSE
-2982,746,Using direct pressure with a dressing,TRUE
-2983,746,Using an ice pack,FALSE
-2984,746,Running cold water over the wound,FALSE
-2985,747,"Pale, cool skin",FALSE
-2986,747,Tachycardia,FALSE
-2987,747,Tachypnea,FALSE
-2988,747,Hypotension,TRUE
-2989,748,Commercial tourniquets are preferable to improvised tourniquets.,FALSE
-2990,748,The tourniquet should be at least 2 inches wide.,FALSE
-2991,748,The tourniquet should be placed approximately 2 to 3 inches above the bleeding.,FALSE
-2992,748,"If possible, the tourniquet should be placed on a joint.",TRUE
-2993,749,Capillaries,FALSE
-2994,749,Venules,FALSE
-2995,749,Veins,FALSE
-2996,749,Arteries,TRUE
-2997,750,Lymphatic vessels,FALSE
-2998,750,Veins,FALSE
-2999,750,Arteries,TRUE
-3000,750,Capillaries,FALSE
-3001,751,Elevate the arm and prepare to apply a tourniquet or consider administering a hemostatic agent.,TRUE
-3002,751,"Remove the pressure dressing and bandage, apply an ice pack to the wound, and bandage it in place with an elastic bandage.",FALSE
-3003,751,"Apply additional dressing material, bandage it in place, and apply pressure to the brachial artery.",FALSE
-3004,751,"Remove the pressure dressing and bandage, apply direct pressure with your gloved hand, and elevate the arm.",FALSE
-3005,752,Venules,FALSE
-3006,752,Capillaries,TRUE
-3007,752,Arteries,FALSE
-3008,752,Veins,FALSE
-3009,753,Superficial partial thickness,FALSE
-3010,753,Deep partial thickness,FALSE
-3011,753,Superficial,FALSE
-3012,753,Full thickness,TRUE
-3013,754,laceration.,FALSE
-3014,754,abrasion.,TRUE
-3015,754,contusion.,FALSE
-3016,754,avulsion.,FALSE
-3017,755,9 percent,FALSE
-3018,755,14 percent,FALSE
-3019,755,18 percent,TRUE
-3020,755,1 percent,FALSE
-3021,756,Apply a tourniquet.,FALSE
-3022,756,Remove the saturated dressings and apply a large trauma dressing.,FALSE
-3023,756,Apply additional dressing material over the top of the original dressing and bandage it in place.,TRUE
-3024,756,Apply an ice pack over the original dressing.,FALSE
-3025,757,"Accumulation of blood beneath the skin, resulting in swelling",FALSE
-3026,757,Epidermis that is scraped away by a rough surface,FALSE
-3027,757,"An injury caused by a sharp, pointed object",FALSE
-3028,757,Flap of skin that is partially or completely torn away from the underlying tissue,TRUE
-3029,758,Apply an occlusive dressing to each penetrating wound.,TRUE
-3030,758,Traditional gauze dressings create the best seal over open wounds.,FALSE
-3031,758,Trim the dressing so that it is the exact size of the wound.,FALSE
-3032,758,"Use a porous material such as a 4"" by 4"" gauze pad.",FALSE
-3033,759,Sterile,TRUE
-3034,759,Occlusive,FALSE
-3035,759,Adherent,FALSE
-3036,759,Absorbent,FALSE
-3037,760,The skin is partially torn away from the foot.,FALSE
-3038,760,"The skin is stripped off the hand, like removing a glove.",FALSE
-3039,760,A finger is cut off with a butcher's saw.,TRUE
-3040,760,An ear is partially torn away from the head.,FALSE
-3041,761,Laceration,FALSE
-3042,761,Contusion,TRUE
-3043,761,Abrasion,FALSE
-3044,761,Avulsion,FALSE
-3045,762,Membranes,FALSE
-3046,762,Cartilage,TRUE
-3047,762,Muscles,FALSE
-3048,762,The skin,FALSE
-3049,763,The patient remains an electrocution hazard to rescuers for several minutes after being removed from the source of electricity.,FALSE
-3050,763,"The burning will continue for hours, perhaps days.",FALSE
-3051,763,Toxic gases were inhaled.,FALSE
-3052,763,The extent of tissue damage may be much greater than it appears on the surface.,TRUE
-3053,764,Use a material that is wide and thick.,TRUE
-3054,764,Apply the tourniquet over the elbow or knee.,FALSE
-3055,764,Remove the tourniquet as soon as bleeding is controlled to minimize further damage to the limb.,FALSE
-3056,764,Apply a bulky dressing and bandage over the tourniquet.,FALSE
-3057,765,Subdural layer,FALSE
-3058,765,Subcutaneous layer,TRUE
-3059,765,Epidermis,FALSE
-3060,765,Parietal layer,FALSE
-3061,766,"You need to expose the wound completely, control bleeding, clean the surface by simply removing large pieces of foreign matter if any, and dress and bandage the wound.",TRUE
-3062,766,You need to make sure the wound is very clean before trying to control bleeding by exposing the wound completely and cleaning it with alcohol.,FALSE
-3063,766,You can treat the wound without total exposure as exposing a wound in that area of the body could be embarrassing.,FALSE
-3064,766,You need to expose the wound completely because you need to clear away any embedded particles and debris from the wound.,FALSE
-3065,767,Tell the patient that if it does not get better within the next few days he should consult his own doctor.,FALSE
-3066,767,"Continue to apply cold, elevate and splint the limb, and transport the patient high priority.",FALSE
-3067,767,"Remove the ice from the wound, then elevate and splint the limb. Transport the patient high priority.",TRUE
-3068,767,The patient is correct. This type of wound will heal on its own and he can go back to work.,FALSE
-3069,768,Remove the object and put a bandage on the outside of the cheek.,FALSE
-3070,768,Let the child carefully pull the object out.,FALSE
-3071,768,"Stabilize the object, but do not try to remove it.",TRUE
-3072,768,Call the parents and see what they want you to do.,FALSE
-3073,769,The palm of the patient's hand equals 9% of the body's surface area.,FALSE
-3074,769,"You can only use the rule of palm for children, so you would use the rule of nines instead.",FALSE
-3075,769,The palm of your hand represents 1% of the body's surface area.,FALSE
-3076,769,The palm of the patient's hand equals about 1% of the body's surface area.,TRUE
-3077,770,leave them alone and transport rapidly.,FALSE
-3078,770,cover the organs with moist sterile dressings.,TRUE
-3079,770,cover the entire abdomen with a blanket.,FALSE
-3080,770,attempt to place the organs back into the abdomen.,FALSE
-3081,771,Application of a dry sterile dressing,FALSE
-3082,771,Keeping the site clean,FALSE
-3083,771,Application of antibiotic ointment,TRUE
-3084,771,Removing rings,FALSE
-3085,772,Apply a lotion containing a topical anesthetic and aloe vera.,FALSE
-3086,772,Apply a dry sterile dressing.,TRUE
-3087,772,Apply an antibiotic ointment.,FALSE
-3088,772,Apply a plastic bag full of ice to the skin.,FALSE
-3089,773,Applying an ice pack or chemical cold pack,FALSE
-3090,773,Applying direct pressure to the wound,TRUE
-3091,773,Packing the wound with rolled gauze,FALSE
-3092,773,Applying a sterile dressing,FALSE
-3093,774,increasing intrathoracic pressures.,FALSE
-3094,774,absence of unilateral pulses.,FALSE
-3095,774,massive hemorrhage.,FALSE
-3096,774,irritation and peritonitis.,TRUE
-3097,775,Laceration to the neck,FALSE
-3098,775,Stab wound to the chest,FALSE
-3099,775,A hemothorax from an object impaled into the chest,FALSE
-3100,775,Gunshot wound to the abdomen from which a loop of intestine is protruding,TRUE
-3101,776,compression injury.,TRUE
-3102,776,tension pneumothorax.,FALSE
-3103,776,penetrating injury.,FALSE
-3104,776,open chest injury.,FALSE
-3105,777,hemopneumothorax,FALSE
-3106,777,cardiac tamponade,TRUE
-3107,777,commotio cordis,FALSE
-3108,777,pericardial effusion,FALSE
-3109,778,A flutter valve is difficult to create with foil.,FALSE
-3110,778,Sterility cannot be ensured unless the foil was autoclaved.,FALSE
-3111,778,The foil may lacerate eviscerated organs.,TRUE
-3112,778,Foil cannot create an airtight seal.,FALSE
-3113,779,Paradoxical motion,FALSE
-3114,779,Open chest wound,FALSE
-3115,779,Sucking chest wound,TRUE
-3116,779,Closed tension pneumothorax,FALSE
-3117,780,The bluish or reddish facial discoloration is not associated with traumatic asphyxia; a pale discoloration is usually present.,FALSE
-3118,780,High pressure on the chest leads to blood being forced from the right atrium into the face and neck.,TRUE
-3119,780,The physiological strain of the body results in a flushed appearance and increased risk of a hypertensive event.,FALSE
-3120,780,"The patient has become hypoxic due to a chest injury, and the finding suggests central cyanosis.",FALSE
-3121,781,Open wound to the neck,FALSE
-3122,781,Open wound to the abdomen from which a loop of intestine is protruding,FALSE
-3123,781,Open wound to the chest,FALSE
-3124,781,All of these,TRUE
-3125,782,Do not use occlusive dressings in this case.,FALSE
-3126,782,Manually maintain pressure.,TRUE
-3127,782,Do not use adhesive tape.,FALSE
-3128,782,Wrap the dressing circumferentially with gauze.,FALSE
-3129,783,Liver,TRUE
-3130,783,Kidneys,FALSE
-3131,783,Pancreas,FALSE
-3132,783,Intestines,FALSE
-3133,784,Fracture of one rib in two or more consecutive places,FALSE
-3134,784,"Section of the chest wall that is unstable, leading to breathing problems",TRUE
-3135,784,"Lung that has been punctured by a fractured rib, resulting in a buildup of air",FALSE
-3136,784,Fracture of at least four ribs in two or more places,FALSE
-3137,785,roll the patient onto his left side.,FALSE
-3138,785,administer 15 lpm oxygen via mask.,FALSE
-3139,785,begin positive pressure ventilation.,TRUE
-3140,785,tape the chest to restrict movement.,FALSE
-3141,786,place the patient on high-concentration oxygen.,FALSE
-3142,786,place your gloved hand over the wound.,TRUE
-3143,786,cover the wound with an occlusive dressing.,FALSE
-3144,786,place a trauma dressing over the wound.,FALSE
-3145,787,The patient is showing signs of abdominal bleeding.,FALSE
-3146,787,The patient may have an abdominal evisceration.,FALSE
-3147,787,The patient is showing signs of an open chest injury.,FALSE
-3148,787,The patient may have a flail chest.,TRUE
-3149,788,The possibility of commotio cordis,FALSE
-3150,788,Reducing the swelling around his eyes by applying a cold pack,FALSE
-3151,788,The presence of any defensive wounds the patient may have sustained,FALSE
-3152,788,The potential for serious internal damage,TRUE
-3153,789,"Check distal CSM, apply a traction splint, and transport the patient.",FALSE
-3154,789,"Check distal CSM, apply a sling and swathe, and transport the patient.",TRUE
-3155,789,Contact medical control for input into the best treatment for this patient.,FALSE
-3156,789,Report the popping sound to the receiving physician when you arrive at the hospital.,FALSE
-3157,790,Possible fracture of the femur,TRUE
-3158,790,Possible fracture of the cervical spine,FALSE
-3159,790,"Suspected multiple fractures of the femur, tibia, and fibula",FALSE
-3160,790,Possible fracture of the humerus,FALSE
-3161,791,spinal fracture or injury.,FALSE
-3162,791,pelvic dislocation syndrome.,FALSE
-3163,791,pelvic trauma/fracture.,TRUE
-3164,791,priapism.,FALSE
-3165,792,7,TRUE
-3166,792,4,FALSE
-3167,792,5,FALSE
-3168,792,12,FALSE
-3169,793,Crushing syndrome,FALSE
-3170,793,Perfusing syndrome,FALSE
-3171,793,Compartment syndrome,TRUE
-3172,793,Fracture syndrome,FALSE
-3173,794,boney skeleton.,FALSE
-3174,794,axial skeleton.,TRUE
-3175,794,torso.,FALSE
-3176,794,appendicular skeleton.,FALSE
-3177,795,All musculoskeletal injuries are life threatening due to the bone bleeding leading to hypoperfusion.,FALSE
-3178,795,Splints do not adequately fit the patient's extremities and must be modified with padding to ensure immobilization.,FALSE
-3179,795,"Many musculoskeletal injuries have a grotesque appearance, and the EMT cannot be distracted from life-threatening conditions by a deformed limb.",TRUE
-3180,795,Most musculoskeletal injuries are simply splinted and not a life threat to the patient.,FALSE
-3181,796,"Pain, pallor, paresthesia, pulses, placement, and pressure",FALSE
-3182,796,"Pain, pallor, position, pulses, placement, and pad",FALSE
-3183,796,"Pain, pallor, paresthesia, pulses, paralysis, and pressure",TRUE
-3184,796,"Pain, pallor, position, pulses, placement, and pressure",FALSE
-3185,797,Skull and neck,FALSE
-3186,797,Arms,FALSE
-3187,797,Legs,FALSE
-3188,797,Hands and feet,TRUE
-3189,798,Smooth muscle,FALSE
-3190,798,Cartilage,TRUE
-3191,798,Tendons,FALSE
-3192,798,Ligaments,FALSE
-3193,799,Ilium,FALSE
-3194,799,Sternum,TRUE
-3195,799,Tarsals,FALSE
-3196,799,Metacarpals,FALSE
-3197,800,Converting a closed fracture to an open one,FALSE
-3198,800,Compromising circulation to the extremity,FALSE
-3199,800,Ignoring life-threatening problems while focusing on an extremity injury,TRUE
-3200,800,All of these,FALSE
-3201,801,Nerve damage,FALSE
-3202,801,Swelling,FALSE
-3203,801,Hemorrhage,FALSE
-3204,801,All of these,TRUE
-3205,802,Seeing if you can elicit crepitus on palpation,FALSE
-3206,802,Gently attempting to flex the mid-portion of the bone to check for angulation,FALSE
-3207,802,Asking the patient to see if he can bear weight on the extremity,FALSE
-3208,802,Comparing the injured side to the uninjured side,TRUE
-3209,803,Avulsion or partial amputation where traction could separate the extremity,FALSE
-3210,803,Injury to the lower third of the leg that would interfere with the ankle hitch,FALSE
-3211,803,Severe swelling and redness at a midshaft femur,TRUE
-3212,803,"Pelvis, hip, or knee injury",FALSE
-3213,804,Extensive force,TRUE
-3214,804,Twisting or rotational forces,FALSE
-3215,804,Indirect force,FALSE
-3216,804,Direct force,FALSE
-3217,805,Another name for manual traction is tension.,FALSE
-3218,805,Joints are places where bones articulate.,FALSE
-3219,805,A sprain is the stretching and tearing of ligaments.,FALSE
-3220,805,Tendons connect muscles to ligaments.,TRUE
-3221,806,Fractures can occur to the proximal femur.,TRUE
-3222,806,Fractures can occur to the proximal tibia and fibula.,FALSE
-3223,806,Fractures can occur to the patella.,FALSE
-3224,806,There could be pain and tenderness.,FALSE
-3225,807,Tendons are bands of connective tissue that bind the ligaments to muscles.,TRUE
-3226,807,Cartilage is connective tissue that covers the outside of the bone end and acts as a surface for articulation.,FALSE
-3227,807,Ligaments are connective tissues that connect bone to bone.,FALSE
-3228,807,Muscles are the tissues or fibers that cause movement of body parts or organs.,FALSE
-3229,808,wrist; shoulder,FALSE
-3230,808,forearm; humerus,TRUE
-3231,808,fingertips; shoulder,FALSE
-3232,808,wrist; elbow,FALSE
-3233,809,distraction injury.,FALSE
-3234,809,compression fracture.,FALSE
-3235,809,whiplash injury.,TRUE
-3236,809,extension injury.,FALSE
-3237,810,When the patient is secured to a long backboard,TRUE
-3238,810,After a short immobilization device has been applied,FALSE
-3239,810,Only when directed to do so by medical control,FALSE
-3240,810,After a cervical collar has been applied,FALSE
-3241,811,"Grip strength, verbal response, and eye opening",FALSE
-3242,811,"Verbal response, motor response, and AVPU",FALSE
-3243,811,"Motor response, arm movement, and speech",FALSE
-3244,811,"Eye opening, verbal response, and motor response",TRUE
-3245,812,at least 10 seconds,FALSE
-3246,812,20 to 30 seconds,FALSE
-3247,812,15 to 20 seconds,FALSE
-3248,812,at least 60 seconds,TRUE
-3249,813,If you suspect a skull fracture and need to palpate the head,FALSE
-3250,813,If the helmet interferes with airway management,TRUE
-3251,813,If you want to place a nasal cannula on the patient but cannot because his ears are covered by the helmet,FALSE
-3252,813,If the helmet fits so snugly that you cannot inspect the ears for the presence of blood or fluid,FALSE
-3253,814,25-year-old male who regained consciousness one or two minutes after being struck on the head by a baseball bat and is now asking repetitive questions,FALSE
-3254,814,"15-year-old female who was ejected from a vehicle, struck her head on a tree, and displays decerebrate movements in response to painful stimuli",TRUE
-3255,814,"70-year-old male who struck his head when he fell in the parking lot, has a large laceration on his forehead, and is disoriented",FALSE
-3256,814,25-year-old female victim of battery who is awake but complains of a headache and has bloody fluid draining from her nose and left ear,FALSE
-3257,815,Hip dislocation,FALSE
-3258,815,Compression fracture of the lumbar or sacral spine,FALSE
-3259,815,Fractured pelvis,TRUE
-3260,815,None of these,FALSE
-3261,816,Foramen magnum,FALSE
-3262,816,Dermatome,FALSE
-3263,816,Vertebrae,FALSE
-3264,816,Spinous process,TRUE
-3265,817,Mandible,FALSE
-3266,817,Maxillae,FALSE
-3267,817,Temporal,FALSE
-3268,817,Malar,TRUE
-3269,818,Trauma in which the patient has more than one serious injury,FALSE
-3270,818,One or more injuries that affect more than one body system,TRUE
-3271,818,A trauma that requires the response of multiple agencies,FALSE
-3272,818,A trauma in which there are multiple casualties,FALSE
-3273,819,Failure to keep the patient awake and talking,FALSE
-3274,819,Administration of 100% oxygen,FALSE
-3275,819,Allowing seepage of cerebrospinal fluid (CSF) from the ears or nose,FALSE
-3276,819,Improper management of airway and ventilation,TRUE
-3277,820,Hypotension,FALSE
-3278,820,Internal bleeding,FALSE
-3279,820,Hypoperfusion,TRUE
-3280,820,Hemorrhage,FALSE
-3281,821,Contusion without a skull fracture,FALSE
-3282,821,Laceration with a skull fracture,TRUE
-3283,821,Laceration without a skull fracture,FALSE
-3284,821,Both Contusion without a skull fracture and Laceration with a skull fracture,FALSE
-3285,822,Malar,FALSE
-3286,822,Dermatome,TRUE
-3287,822,Maxillae,FALSE
-3288,822,Spinous process,FALSE
-3289,823,Motor response,FALSE
-3290,823,Verbal response,FALSE
-3291,823,Eye movement,FALSE
-3292,823,Work of breathing,TRUE
-3293,824,Long spine board,FALSE
-3294,824,Pair of pillows,FALSE
-3295,824,Soft cervical collars,FALSE
-3296,824,Rigid cervical collars,TRUE
-3297,825,Peripheral nervous system,TRUE
-3298,825,Central nervous system,FALSE
-3299,825,Autonomic nervous system,FALSE
-3300,825,All of these,FALSE
-3301,826,Cervical and sacra,FALSE
-3302,826,Thoracic and lumbar,FALSE
-3303,826,Cervical and lumbar,TRUE
-3304,826,Thoracic and sacra,FALSE
-3305,827,open head injury.,FALSE
-3306,827,closed head injury.,FALSE
-3307,827,nontraumatic brain injury.,TRUE
-3308,827,insecticide poisoning.,FALSE
-3309,828,Begin providing CPR to the patient.,FALSE
-3310,828,Begin providing BVM-assisted ventilations to the patient.,FALSE
-3311,828,Call dispatch for an ALS intercept en route to the hospital.,FALSE
-3312,828,Free a corner or edge of the dressing to release pressure buildup.,TRUE
-3313,829,Load and go–conduct any other care in the ambulance en route due to the potential seriousness of the burns.,FALSE
-3314,829,"While on the scene, rapidly do a complete assessment, provide oxygen, provide care for potential spine injuries, and transport as soon as possible after the exam.",TRUE
-3315,829,Put the patient on oxygen and help him into your ambulance.,FALSE
-3316,829,"Stay with the patient awhile, and if he does not appear to be in distress, encourage him to refuse care.",FALSE
-3317,830,"Eye opening, motor response, and verbal response",TRUE
-3318,830,"Verbal responses, motor skills, and mental status",FALSE
-3319,830,"Speech patterns, motor patterns, and mental status",FALSE
-3320,830,"Motor response, verbal response, and attentiveness",FALSE
-3321,831,Closed head injury,FALSE
-3322,831,Coup-contrecoup injury,FALSE
-3323,831,Increased intracranial pressure,TRUE
-3324,831,Increased arterial pressure,FALSE
-3325,832,on the back of the neck.,FALSE
-3326,832,behind the ear.,TRUE
-3327,832,on the back of the head.,FALSE
-3328,832,between the eyes.,FALSE
-3329,833,Take the patient to a trauma center.,FALSE
-3330,833,Have the patient to sign a refusal form.,FALSE
-3331,833,Explain to the patient the need for transport to a local community hospital.,TRUE
-3332,833,Call for ALS intercept.,FALSE
-3333,834,Cooling off too quickly,FALSE
-3334,834,Sweating too much,TRUE
-3335,834,Drinking too many sports drinks,FALSE
-3336,834,Heat exhaustion,FALSE
-3337,835,indirect injury.,FALSE
-3338,835,laceration injury.,FALSE
-3339,835,closed head injury.,FALSE
-3340,835,open head injury.,TRUE
-3341,836,"Use moldable splints for the upper and lower extremities, padding any voids to fully stabilize the fractures.",FALSE
-3342,836,Immobilize the patient to a long backboard without splinting the extremities individually.,TRUE
-3343,836,Use traction splints for the lower extremities and allow the upper extremities to be immobilized by the long backboard.,FALSE
-3344,836,Use padded board splints for the upper extremities and a PASG for the lower extremities.,FALSE
-3345,837,Patient demonstrates signs of shock.,FALSE
-3346,837,Patient cannot lift legs when lying supine.,FALSE
-3347,837,Patient feels the need to empty his bladder.,FALSE
-3348,837,All of these.,TRUE
-3349,838,remove the helmet to better manage proper alignment.,TRUE
-3350,838,pad under his shoulders to straighten his neck.,FALSE
-3351,838,tip his head back to gain neutral alignment.,FALSE
-3352,838,place towels on either side of the helmet to stabilize it.,FALSE
-3353,839,Glasgow Coma Scale (GCS) of 15,FALSE
-3354,839,Constricted pupils,FALSE
-3355,839,Increased pulse rate,FALSE
-3356,839,Increased blood pressure,TRUE
-3357,840,30,FALSE
-3358,840,18,FALSE
-3359,840,25,FALSE
-3360,840,20,TRUE
-3361,841,5; 45,FALSE
-3362,841,10; 29,TRUE
-3363,841,12; 20,FALSE
-3364,841,8; 32,FALSE
-3365,842,15 feet.,FALSE
-3366,842,25 feet.,FALSE
-3367,842,10 feet.,FALSE
-3368,842,20 feet.,TRUE
-3369,843,Make decisions beyond what is usually called for.,TRUE
-3370,843,"Provide the best quality care possible, including definitive care on scene.",FALSE
-3371,843,Respond above and beyond the call of duty.,FALSE
-3372,843,Practice outside the scope of practice in order to provide the greatest good.,FALSE
-3373,844,"Level of consciousness, systolic blood pressure, and pulse rate",FALSE
-3374,844,"GCS, pulse rate, and respiratory rate",FALSE
-3375,844,"GCS, systolic blood pressure, and pulse rate",FALSE
-3376,844,"GCS, systolic blood pressure, and respiratory rate",TRUE
-3377,845,"Physiological determinants, anatomic criteria, and mechanism of injury",FALSE
-3378,845,"Teamwork, timing, and transport",TRUE
-3379,845,"Ground ambulances, air helicopters, and trauma centers",FALSE
-3380,845,"Lights, sirens, and diesel",FALSE
-3381,846,Motorcycle crash greater than 20 mph,FALSE
-3382,846,Fall greater than 20 feet,FALSE
-3383,846,EMS provider judgment,TRUE
-3384,846,Partial ejection from automobile,FALSE
-3385,847,8,FALSE
-3386,847,14,FALSE
-3387,847,13,TRUE
-3388,847,12,FALSE
-3389,848,Patient's choice of destination,FALSE
-3390,848,Trauma center,FALSE
-3391,848,"Any hospital, as long as on-line medical direction approves the facility's capabilities",FALSE
-3392,848,Any hospital with surgical facilities,TRUE
-3393,849,Immediate surgical capabilities,TRUE
-3394,849,Availability of a chaplain,FALSE
-3395,849,Rehabilitation services,FALSE
-3396,849,Critical-care nursing,FALSE
-3397,850,Awaiting arrival of police on scene,TRUE
-3398,850,Ventilating a patient in respiratory distress,FALSE
-3399,850,Suctioning the airway,FALSE
-3400,850,Immobilizing the patient to a long spine board,FALSE
-3401,851,Vehicle crash-generated telemetry data,FALSE
-3402,851,Vehicle rollover,FALSE
-3403,851,Intrusion into the occupant area greater than 8 inches,FALSE
-3404,851,Auto versus pedestrian,TRUE
-3405,852,Should I allow police to interview the patient on scene?,TRUE
-3406,852,Is the patient seriously injured?,FALSE
-3407,852,Should I transport to a trauma center?,FALSE
-3408,852,Do I need to minimize on-scene time?,FALSE
-3409,853,An unlicensed teenage driver who has a pulse rate of 120 after a MVC and a 4 minute EMS response,FALSE
-3410,853,An end-stage renal disease (ERSD) patient who tripped and fell and is complaining of shoulder pain on the same side as his shunt,FALSE
-3411,853,A pregnant female in the third trimester who is spotting (showing small amounts of vaginal bleeding) following a low mechanism of injury MVC,TRUE
-3412,853,An elderly patient who slipped out of her wheelchair and is complaining of pelvic pain,FALSE
-3413,854,Call medical control for advice from the trauma center.,FALSE
-3414,854,Continue transporting to the local hospital because it's the closest facility.,FALSE
-3415,854,Divert to the trauma center because the patient is becoming symptomatic.,TRUE
-3416,854,Continue transporting to the local hospital because you've already given your report and they accepted the patient.,FALSE
-3417,855,Femur fracture,FALSE
-3418,855,Arterial bleed,TRUE
-3419,855,Snoring respirations,FALSE
-3420,855,Broken wrist,FALSE
-3421,856,"5, 3, 4, 2, 6, 1",FALSE
-3422,856,"2, 5, 6, 3, 4, 1",FALSE
-3423,856,"1, 3, 4, 5, 6, 2",FALSE
-3424,856,"1, 4, 3, 5, 6, 2",TRUE
-3425,857,Faster metabolism,FALSE
-3426,857,Inadequate salt intake,FALSE
-3427,857,Increased body mass,FALSE
-3428,857,Poor ability to regulate body temperature,TRUE
-3429,858,blood clots.,FALSE
-3430,858,loss of calcium.,FALSE
-3431,858,chemical imbalance in the tissues.,FALSE
-3432,858,ice crystal formation in the tissues.,TRUE
-3433,859,Seizures,FALSE
-3434,859,Heart attack,FALSE
-3435,859,Rewarming shock,FALSE
-3436,859,Ventricular fibrillation,TRUE
-3437,860,80,FALSE
-3438,860,85,FALSE
-3439,860,100,TRUE
-3440,860,115,FALSE
-3441,861,Late frostbite,FALSE
-3442,861,Hypothermia,FALSE
-3443,861,Early frostnip,TRUE
-3444,861,Deep frostnip,FALSE
-3445,862,Hyperthermia,TRUE
-3446,862,Heat exhaustion,FALSE
-3447,862,Heat shock,FALSE
-3448,862,Perspiration,FALSE
-3449,863,Taking cold or sinus medications before a dive,FALSE
-3450,863,Breathing 100% oxygen before a dive,FALSE
-3451,863,Flying within several hours after a dive,TRUE
-3452,863,Diving on a full stomach,FALSE
-3453,864,Movement of both lower extremities,FALSE
-3454,864,Sensation of the right leg,TRUE
-3455,864,Sensation in the left arm,FALSE
-3456,864,Movement of the left arm,FALSE
-3457,865,Hypothermia,TRUE
-3458,865,Frostbite,FALSE
-3459,865,Frostnip,FALSE
-3460,865,All of these,FALSE
-3461,866,Arterial gas embolism,TRUE
-3462,866,Hyperbaric arterial injury,FALSE
-3463,866,Arterial thrombosis,FALSE
-3464,866,Arterial blood gases,FALSE
-3465,867,The patient may need to be questioned by police and fire officials about the cause of the fire.,FALSE
-3466,867,"Being involved in a crime makes the patient part of the chain of evidence, requiring a police officer to ride with you to the hospital.",FALSE
-3467,867,The burn is the most serious injury to the patient.,FALSE
-3468,867,Medical conditions may be aggravated by the burn.,TRUE
-3469,868,Row the boat out to the swimmer.,FALSE
-3470,868,Use the buoy to float out to the swimmer.,FALSE
-3471,868,Call for help and try to throw the buoy to the swimmer.,TRUE
-3472,868,Find someone who can swim to try to swim out and save the swimmer.,FALSE
-3473,869,Transport the patient by air medical to the nearest facility.,FALSE
-3474,869,Transport the patient by air medical to the specialty center.,FALSE
-3475,869,Transport the patient to the nearest facility.,FALSE
-3476,869,Transport the patient by ground to the specialty center.,TRUE
-3477,870,Confirm the location and status of the snake.,TRUE
-3478,870,Confirm the type of snake and contact medical control for specific instructions.,FALSE
-3479,870,Immediately apply a constricting band to minimize the spread of the venom.,FALSE
-3480,870,Perform a primary assessment and identify any potential life threats.,FALSE
-3481,871,keep the digits frozen on ice until they can be properly rewarmed at the hospital.,FALSE
-3482,871,gently bandage the digits.,TRUE
-3483,871,gently warm the digits by slowly massaging them.,FALSE
-3484,871,actively rewarm the digits.,FALSE
-3485,872,Cooling off too quickly,FALSE
-3486,872,Drinking too many sports drinks,FALSE
-3487,872,Sweating too much,TRUE
-3488,872,Heat exhaustion,FALSE
-3489,873,Treat the patient for shock and transport.,TRUE
-3490,873,Assist the patient in administering her epinephrine auto-injector.,FALSE
-3491,873,Place the patient in the Trendelenburg position.,FALSE
-3492,873,Place a constricting band around the arm to minimize the spread of the venom.,FALSE
-3493,874,Using a tourniquet,FALSE
-3494,874,Using direct pressure to control the bleeding,FALSE
-3495,874,Replacing fluid level by giving the patient adequate amounts of water,TRUE
-3496,874,Administering oxygen,FALSE
-3497,875,Leave the hook in place and try not to disturb it.,TRUE
-3498,875,Push the hook through the wound to avoid further damage from the barbed end.,FALSE
-3499,875,Apply a pressure dressing over the hook.,FALSE
-3500,875,Pull the hook out from the same direction in which it entered the hand.,FALSE
-3501,876,500 cc,TRUE
-3502,876,"1,000 cc",FALSE
-3503,876,250 cc,FALSE
-3504,876,100 cc,FALSE
-3505,877,12,FALSE
-3506,877,1,FALSE
-3507,877,7,TRUE
-3508,877,3,FALSE
-3509,878,"Wrapping the infant in a blanket, covering his head, and keeping the temperature in the ambulance between 90°F and 100°F",TRUE
-3510,878,Applying high-concentration oxygen with a neonatal nonrebreather mask,FALSE
-3511,878,Encouraging family members to hold the infant,FALSE
-3512,878,Deeply suctioning the airway with a rigid tonsil-tip,FALSE
-3513,879,Keep the infant at the level of the mother's vagina until the cord is clamped and cut.,FALSE
-3514,879,Hold the infant by the ankles to allow the airway to drain.,TRUE
-3515,879,Place the infant on his side with his head slightly lower than his body.,FALSE
-3516,879,Dry the infant and wrap him in a blanket.,FALSE
-3517,880,Asking how long ago the contractions began,FALSE
-3518,880,Phoning the patient's obstetrician for advice,TRUE
-3519,880,Determining whether the patient feels as if she needs to move her bowels,FALSE
-3520,880,Finding out how many times the patient has been pregnant,FALSE
-3521,881,"Ask the woman to ""push"" or ""bear down"" as you inspect the vaginal opening.",FALSE
-3522,881,"Place your hand on the woman's abdomen, just above the umbilicus, and check for the firmness of the uterus during contractions.",FALSE
-3523,881,"Cover her with a sheet, have her remove her underwear, wait for a contraction, and then visualize the vaginal opening.",TRUE
-3524,881,None of these,FALSE
-3525,882,Checking for fever,FALSE
-3526,882,Vigorously rubbing the infant's back immediately upon delivery to stimulate breathing,FALSE
-3527,882,Being prepared to suction the infant immediately before he takes a breath,TRUE
-3528,882,None of these,FALSE
-3529,883,Check to see if the umbilical cord is around the neck.,FALSE
-3530,883,Suction the mouth.,FALSE
-3531,883,Suction the nose.,FALSE
-3532,883,All of these,TRUE
-3533,884,7,FALSE
-3534,884,9,TRUE
-3535,884,10,FALSE
-3536,884,8,FALSE
-3537,885,massaging the uterus to control bleeding.,FALSE
-3538,885,having the mother squeeze her legs together to provide direct pressure.,TRUE
-3539,885,elevating the mother's feet.,FALSE
-3540,885,applying firm pressure with a sanitary napkin over the vaginal opening.,FALSE
-3541,886,On the ambulance floor,FALSE
-3542,886,"In the patient's lap, but not higher than his heart",FALSE
-3543,886,Hanging from the ceiling of the ambulance or IV pole higher than the patient,FALSE
-3544,886,"Lower than the patient, but not on the floor",TRUE
-3545,887,Liver disease,FALSE
-3546,887,Type 2 diabetes,FALSE
-3547,887,Respiratory problems,FALSE
-3548,887,All of these,TRUE
-3549,888,In the lower right chest,FALSE
-3550,888,In the upper left chest,TRUE
-3551,888,In the upper right chest,FALSE
-3552,888,In the lower left chest,FALSE
-3553,889,Acquired disease,TRUE
-3554,889,Congenital disease,FALSE
-3555,889,Either a congenital or acquired disease,FALSE
-3556,889,Neither a congenital nor acquired disease,FALSE
-3557,890,Alcohol and drug abuse are uncommon.,FALSE
-3558,890,They may be inappropriately unconcerned about the child.,TRUE
-3559,890,They usually want the child's injuries treated.,FALSE
-3560,890,They usually identify with the child's pain and suffering.,FALSE
-3561,891,Shock position,FALSE
-3562,891,Supine,FALSE
-3563,891,Head slightly elevated,TRUE
-3564,891,Prone,FALSE
-3565,892,Use a TDD/TYY telephone.,FALSE
-3566,892,Speak loudly and directly into the patient's ear.,FALSE
-3567,892,Slow down your speech so that the patient can read your lips.,FALSE
-3568,892,Write your questions using paper and pen.,TRUE
-3569,893,Peritoneal dialysis is more effective.,FALSE
-3570,893,Peritoneal dialysis is much faster.,FALSE
-3571,893,Peritoneal dialysis is less prone to infection.,FALSE
-3572,893,Peritoneal dialysis is likely to be done at the patient's home.,TRUE
-3573,894,They cope well with change when that change occurs quickly.,FALSE
-3574,894,They may have very high pain thresholds and tolerate excruciating injuries.,TRUE
-3575,894,They find faint background noise comforting.,FALSE
-3576,894,"They respond well to gentle, reassuring contact from EMTs.",FALSE
-3577,895,Terminal,FALSE
-3578,895,Handicapped,FALSE
-3579,895,Disabled,FALSE
-3580,895,Disability,TRUE
-3581,896,at intersections.,TRUE
-3582,896,during inclement weather.,FALSE
-3583,896,on wet roads.,FALSE
-3584,896,at night.,FALSE
-3585,897,lightweight,FALSE
-3586,897,medium-duty,TRUE
-3587,897,heavy-duty,FALSE
-3588,897,specialty weight,FALSE
-3589,898,patient endangerment.,FALSE
-3590,898,unlawful consent.,FALSE
-3591,898,abandonment.,TRUE
-3592,898,false imprisonment.,FALSE
-3593,899,pull to the left,FALSE
-3594,899,pull to the right,FALSE
-3595,899,stop,FALSE
-3596,899,speed up,TRUE
-3597,900,privately employed,FALSE
-3598,900,experienced,FALSE
-3599,900,inexperienced,TRUE
-3600,900,all,FALSE
-3601,901,Emergency Medical Driver,FALSE
-3602,901,Emergency Medical Director,FALSE
-3603,901,Emergency Medical Dispatcher,TRUE
-3604,901,Emergency Medical Doctor,FALSE
-3605,902,50 feet by 50 feet,FALSE
-3606,902,75 feet by 75 feet,FALSE
-3607,902,25 feet by 25 feet,FALSE
-3608,902,100 feet by 100 feet,TRUE
-3609,903,"allowable, provided you do not exceed 15 mph above the posted speed limit.",FALSE
-3610,903,subject to laws that govern all drivers.,TRUE
-3611,903,covered by your service's insurance carrier.,FALSE
-3612,903,not likely to result in an investigation in the event of a collision.,FALSE
-3613,904,"Select the proper patient-carrying device, move the patient to the ambulance, package the patient for transport, and load the patient into the ambulance.",FALSE
-3614,904,"Package the patient for transport, select the proper patient-carrying device, move the patient to the ambulance, and load the patient into the ambulance.",FALSE
-3615,904,"Select the proper patient-carrying device, package the patient for transport, move the patient to the ambulance, and load the patient into the ambulance.",TRUE
-3616,904,"Package the patient for transport, move the patient to the ambulance, select the proper patient-carrying device, and load the patient into the ambulance.",FALSE
-3617,905,68-year-old with mild respiratory distress and seat belt burns,FALSE
-3618,905,45-year-old with no vital signs,FALSE
-3619,905,6-year-old with lower leg fracture and normal vital signs,FALSE
-3620,905,25-year-old with abdominal bruising and signs of shock,TRUE
-3621,906,ensure there is at least one person on-site trained at the technician level.,FALSE
-3622,906,document the appropriate level of training for each employee.,TRUE
-3623,906,have knowledge of all hazardous materials on the premises.,FALSE
-3624,906,train employees to handle any type of hazardous materials incident.,FALSE
-3625,907,"Circulation, sensory, and motor status",FALSE
-3626,907,"Respiration, pain, and mental status",FALSE
-3627,907,"Respiration, sensory, and motor status",FALSE
-3628,907,"Respiration, pulse, and mental status",TRUE
-3629,908,Hazardous Materials Specialist,FALSE
-3630,908,Hazardous Materials Technician,FALSE
-3631,908,First Responder Operations,TRUE
-3632,908,First Responder Awareness,FALSE
-3633,909,An estimate of the amount of the substance involved,TRUE
-3634,909,Your level of EMS certification,FALSE
-3635,909,Your background in chemistry,FALSE
-3636,909,Both An estimate of the amount of the substance involved and Your level of EMS certification,FALSE
-3637,910,"Upwind, uphill from the spill",FALSE
-3638,910,"Downwind, uphill from the spill",FALSE
-3639,910,"Downwind, downhill from the spill",FALSE
-3640,910,"Upwind, on the same level as the spill",TRUE
-3641,911,Chemical permeable gloves,FALSE
-3642,911,HEPA mask,FALSE
-3643,911,Tyvek or other chemical impermeable coveralls,TRUE
-3644,911,Structural firefighting gear,FALSE
-3645,912,yellow tagged.,FALSE
-3646,912,Priority 4 walking wounded.,FALSE
-3647,912,red tagged.,FALSE
-3648,912,Priority 3 walking wounded.,TRUE
-3649,913,"secure the scene quickly, triage each patient, and move to fresh air.",FALSE
-3650,913,"recognize a HAZMAT incident, dress in a Tyvek suit, secure the scene by limiting access, isolate the possible contaminated from the noncontaminated, and request HAZMAT response.",FALSE
-3651,913,"recognize a HAZMAT incident, secure the scene by limiting access, isolate the possible contaminated from the noncontaminated, and request HAZMAT response.",TRUE
-3652,913,"recognize a HAZMAT incident, dress in a Tyvek suit, access the scene to identify the spilled product, secure the MSDS sheets, and remove victims to fresh air.",FALSE
-3653,914,Have dispatch relay your patient reports to the receiving facility.,FALSE
-3654,914,Notify the receiving facility by radio of the nature of the patients' injuries.,FALSE
-3655,914,Allow the transportation supervisor to notify the receiving facility.,TRUE
-3656,914,Notify the receiving hospital by cellular phone of the nature of the patients' injuries.,FALSE
-3657,915,"Priority 3, green tag",FALSE
-3658,915,"Priority 4, black tag",FALSE
-3659,915,"Priority 1, red tag",TRUE
-3660,915,"Priority 2, yellow tag",FALSE
-3661,916,use the extinguishing agent sparingly to avoid creating a cloud of powder.,TRUE
-3662,916,aim the nozzle of the extinguisher away from the patient to avoid hitting the patient.,FALSE
-3663,916,apply the extinguishing agent liberally to speed up the extinguishing process.,FALSE
-3664,916,resist the urge to extinguish the fire and focus on extricating any patients.,FALSE
-3665,917,kneel or squat as necessary.,FALSE
-3666,917,"always squat, so you can move away quickly.",TRUE
-3667,917,kneel on one knee only so you can move away quickly.,FALSE
-3668,917,kneel on both knees for stabilization.,FALSE
-3669,918,Determining the extent of the patient's entrapment,FALSE
-3670,918,Providing airway management,TRUE
-3671,918,Determining the need for additional resources,FALSE
-3672,918,Determining the mechanism of injury,FALSE
-3673,919,To anticipate any dangerous steps in the extrication process,TRUE
-3674,919,To provide direction to the rescue technicians if they appear to be making errors,FALSE
-3675,919,To take over the extrication process if requested by the rescue technicians,FALSE
-3676,919,All of these,FALSE
-3677,920,Prescription eyeglasses,FALSE
-3678,920,Plastic face shield of the type used for Standard Precautions,FALSE
-3679,920,Face conforming goggles,TRUE
-3680,920,Shield of a Firefighter's helmet,FALSE
-3681,921,Your own safety,TRUE
-3682,921,Treating life-threatening injuries,FALSE
-3683,921,Helping law enforcement get the driver's name and insurance information,FALSE
-3684,921,"Preserving evidence, such as alcohol beverage bottles and vehicle positioning",FALSE
-3685,922,Controlling major bleeding,FALSE
-3686,922,Maintaining the patient's airway,FALSE
-3687,922,Ensuring your personal safety,TRUE
-3688,922,Gaining access to the patient,FALSE
-3689,923,It should only be considered stable after assessment by trained rescue personnel.,TRUE
-3690,923,It is stable if the ignition is turned off.,FALSE
-3691,923,It is stable if it is upright on all four wheels.,FALSE
-3692,923,"It is stable if the transmission is in ""Park"" or the parking brake is on.",FALSE
-3693,924,Fabric work gloves with non-slip palms,FALSE
-3694,924,Double-thickness latex gloves,FALSE
-3695,924,Leather gloves,TRUE
-3696,924,Elbow-length chemical-proof gloves,FALSE
-3697,925,Cut away the fabric portion of the airbag to get it out of the way.,FALSE
-3698,925,Use a portable fan to ventilate the car to remove the powder from the airbag.,FALSE
-3699,925,Lift the airbag and inspect the steering wheel for damage.,TRUE
-3700,925,Sharply strike the front bumper to make sure the second airbag has deployed.,FALSE
-3701,926,Inhalation,FALSE
-3702,926,Skin,FALSE
-3703,926,Ingestion,FALSE
-3704,926,All of these,TRUE
-3705,927,bacteria.,TRUE
-3706,927,viruses.,FALSE
-3707,927,toxins.,FALSE
-3708,927,biologics.,FALSE
-3709,928,Inhalation,FALSE
-3710,928,Absorption,TRUE
-3711,928,Ingestion,FALSE
-3712,928,Injection,FALSE
-3713,929,"technique, distance, and serum.",FALSE
-3714,929,"time, decontamination, and shielding.",FALSE
-3715,929,"time, distance, and shielding.",TRUE
-3716,929,"time, decontamination, and serum.",FALSE
-3717,930,Acts of violence perpetrated by American citizens against the government of another country,FALSE
-3718,930,Politically motivated act of violence that occurs within the United States,FALSE
-3719,930,Interpersonal violence between family members,FALSE
-3720,930,Groups or individuals directing violent acts at their own population or government,TRUE
-3721,931,Nerve agents,FALSE
-3722,931,Blister agents,FALSE
-3723,931,Cyanide,TRUE
-3724,931,All of these,FALSE
-3725,932,Function of the target,FALSE
-3726,932,Number of people present,FALSE
-3727,932,Occurrence on the anniversary of a significant or symbolic historical event,FALSE
-3728,932,All of these,TRUE
-3729,933,Delta,FALSE
-3730,933,Gamma,TRUE
-3731,933,Beta,FALSE
-3732,933,Alpha,FALSE
-3733,934,Psychological and economic,FALSE
-3734,934,Violence and intimidation,FALSE
-3735,934,Chemical and biologic,FALSE
-3736,934,Domestic and international,TRUE
-3737,935,Incident Control System.,FALSE
-3738,935,Interagency Communication System.,FALSE
-3739,935,Incident Command System.,TRUE
-3740,935,Interagency Command System.,FALSE
+2925,732,"1, 4",FALSE
+2926,732,"1, 2, 3",FALSE
+2927,732,"2, 3",FALSE
+2928,732,"1, 2, 3, 4",TRUE
+2929,733,Pediatric patients have a greater risk of heart problems associated with the burn.,FALSE
+2930,733,Pediatric patients have a greater risk of shock from the burn.,TRUE
+2931,733,Infants and children have a greater risk of infection from the burn.,FALSE
+2932,733,None of these,FALSE
+2933,734,it should not be left in place for more than 20 minutes.,FALSE
+2934,734,it will reduce pain.,FALSE
+2935,734,it should be applied directly to the skin and will not be effective if anything is between the cold agent and the wound.,TRUE
+2936,734,it should not be used alone but rather in conjunction with other manual techniques.,FALSE
+2937,735,Capillary bleeding,TRUE
+2938,735,Liver bleeding,FALSE
+2939,735,Cardiac bleeding,FALSE
+2940,735,Brain bleeding,FALSE
+2941,736,Cardiogenic,FALSE
+2942,736,Hypervolemic,TRUE
+2943,736,Hemorrhagic,FALSE
+2944,736,Hypovolemic,FALSE
+2945,737,granules.,FALSE
+2946,737,discs.,FALSE
+2947,737,powders.,FALSE
+2948,737,gauze or dressings.,TRUE
+2949,738,"Determining patient severity, amount of time on scene, and transport destination",TRUE
+2950,738,Deciding whether to treat life-threatening injuries on scene or to load and go,FALSE
+2951,738,Diagnosing the causes for a patient's presentation and identifying a course of definitive care,FALSE
+2952,738,Determining the potential liability involved in performing life-saving interventions,FALSE
+2953,739,"Lights, sirens, and diesel",FALSE
+2954,739,"Teamwork, timing, and transport",FALSE
+2955,739,"Physiological determinants, anatomic criteria, and mechanism of injury",TRUE
+2956,739,"Patient priority, amount of time on scene, and transport destination",FALSE
+2957,740,Veins,FALSE
+2958,740,Capillaries,TRUE
+2959,740,Arteries,FALSE
+2960,740,Arterioles,FALSE
+2961,741,There is external bleeding.,FALSE
+2962,741,Blood vessels are dilated.,FALSE
+2963,741,The heart is damaged.,FALSE
+2964,741,All of these,TRUE
+2965,742,Steady flow,FALSE
+2966,742,Dark red color,FALSE
+2967,742,Spurting under pressure,TRUE
+2968,742,Both Dark red color and Spurting under pressure,FALSE
+2969,743,Dilation of the pupils,FALSE
+2970,743,Altered mental status,TRUE
+2971,743,Increased heart rate,FALSE
+2972,743,Delayed capillary refill,FALSE
+2973,744,Cells are not supplied with oxygen.,FALSE
+2974,744,Cellular waste products are not removed.,FALSE
+2975,744,Acid buildup decreases and body pH increases.,TRUE
+2976,744,Cells are not supplied with nutrients.,FALSE
+2977,745,Preventing loss of body heat by covering the patient with a blanket,FALSE
+2978,745,Considering proper positioning of the patient,FALSE
+2979,745,Engaging in high-speed ambulance transportation,TRUE
+2980,745,Managing the patient's airway and preventing hypoxia,FALSE
+2981,746,Blood vessels dilate and the heart rate decreases.,FALSE
+2982,746,Blood vessels constrict and the heart rate decreases.,FALSE
+2983,746,Blood vessels constrict and the heart rate increases.,TRUE
+2984,746,Blood vessels dilate and the heart rate increases.,FALSE
+2985,747,Dilation of the peripheral blood vessels,FALSE
+2986,747,Increased respirations of the patient,FALSE
+2987,747,Constriction of the peripheral blood vessels,FALSE
+2988,747,The body's attempts at compensation for blood loss,TRUE
+2989,748,Vomiting,FALSE
+2990,748,Hemorrhage,TRUE
+2991,748,High blood pressure,FALSE
+2992,748,Excessive sweating,FALSE
+2993,749,Elevating the affected part,FALSE
+2994,749,Using direct pressure with a dressing,TRUE
+2995,749,Using an ice pack,FALSE
+2996,749,Running cold water over the wound,FALSE
+2997,750,"Pale, cool skin",FALSE
+2998,750,Tachycardia,FALSE
+2999,750,Tachypnea,FALSE
+3000,750,Hypotension,TRUE
+3001,751,Commercial tourniquets are preferable to improvised tourniquets.,FALSE
+3002,751,The tourniquet should be at least 2 inches wide.,FALSE
+3003,751,The tourniquet should be placed approximately 2 to 3 inches above the bleeding.,FALSE
+3004,751,"If possible, the tourniquet should be placed on a joint.",TRUE
+3005,752,Capillaries,FALSE
+3006,752,Venules,FALSE
+3007,752,Veins,FALSE
+3008,752,Arteries,TRUE
+3009,753,Lymphatic vessels,FALSE
+3010,753,Veins,FALSE
+3011,753,Arteries,TRUE
+3012,753,Capillaries,FALSE
+3013,754,Elevate the arm and prepare to apply a tourniquet or consider administering a hemostatic agent.,TRUE
+3014,754,"Remove the pressure dressing and bandage, apply an ice pack to the wound, and bandage it in place with an elastic bandage.",FALSE
+3015,754,"Apply additional dressing material, bandage it in place, and apply pressure to the brachial artery.",FALSE
+3016,754,"Remove the pressure dressing and bandage, apply direct pressure with your gloved hand, and elevate the arm.",FALSE
+3017,755,Venules,FALSE
+3018,755,Capillaries,TRUE
+3019,755,Arteries,FALSE
+3020,755,Veins,FALSE
+3021,756,Superficial partial thickness,FALSE
+3022,756,Deep partial thickness,FALSE
+3023,756,Superficial,FALSE
+3024,756,Full thickness,TRUE
+3025,757,laceration.,FALSE
+3026,757,abrasion.,TRUE
+3027,757,contusion.,FALSE
+3028,757,avulsion.,FALSE
+3029,758,9 percent,FALSE
+3030,758,14 percent,FALSE
+3031,758,18 percent,TRUE
+3032,758,1 percent,FALSE
+3033,759,avulsion.,FALSE
+3034,759,contusion.,TRUE
+3035,759,abrasion.,FALSE
+3036,759,hematoma.,FALSE
+3037,760,Direct pressure,TRUE
+3038,760,Application of an ice pack or chemical cold pack,FALSE
+3039,760,Elevation of the injured part,FALSE
+3040,760,Running cold water over the wound,FALSE
+3041,761,Apply a tourniquet.,FALSE
+3042,761,Remove the saturated dressings and apply a large trauma dressing.,FALSE
+3043,761,Apply additional dressing material over the top of the original dressing and bandage it in place.,TRUE
+3044,761,Apply an ice pack over the original dressing.,FALSE
+3045,762,"Accumulation of blood beneath the skin, resulting in swelling",FALSE
+3046,762,Epidermis that is scraped away by a rough surface,FALSE
+3047,762,"An injury caused by a sharp, pointed object",FALSE
+3048,762,Flap of skin that is partially or completely torn away from the underlying tissue,TRUE
+3049,763,Apply an occlusive dressing to each penetrating wound.,TRUE
+3050,763,Traditional gauze dressings create the best seal over open wounds.,FALSE
+3051,763,Trim the dressing so that it is the exact size of the wound.,FALSE
+3052,763,"Use a porous material such as a 4"" by 4"" gauze pad.",FALSE
+3053,764,Other illnesses or injuries the patient may have,FALSE
+3054,764,Body surface area (BSA) involved in the burn,FALSE
+3055,764,The type of agent that caused the burn,FALSE
+3056,764,All of these,TRUE
+3057,765,Sterile,TRUE
+3058,765,Occlusive,FALSE
+3059,765,Adherent,FALSE
+3060,765,Absorbent,FALSE
+3061,766,Treat for shock if you think there are internal injuries even if the patient's vital signs are normal.,FALSE
+3062,766,Anticipate vomiting.,FALSE
+3063,766,"Splint any swollen, deformed extremities.",FALSE
+3064,766,All of these,TRUE
+3065,767,The skin is partially torn away from the foot.,FALSE
+3066,767,"The skin is stripped off the hand, like removing a glove.",FALSE
+3067,767,A finger is cut off with a butcher's saw.,TRUE
+3068,767,An ear is partially torn away from the head.,FALSE
+3069,768,Laceration,FALSE
+3070,768,Contusion,TRUE
+3071,768,Abrasion,FALSE
+3072,768,Avulsion,FALSE
+3073,769,Membranes,FALSE
+3074,769,Cartilage,TRUE
+3075,769,Muscles,FALSE
+3076,769,The skin,FALSE
+3077,770,The patient remains an electrocution hazard to rescuers for several minutes after being removed from the source of electricity.,FALSE
+3078,770,"The burning will continue for hours, perhaps days.",FALSE
+3079,770,Toxic gases were inhaled.,FALSE
+3080,770,The extent of tissue damage may be much greater than it appears on the surface.,TRUE
+3081,771,Use a material that is wide and thick.,TRUE
+3082,771,Apply the tourniquet over the elbow or knee.,FALSE
+3083,771,Remove the tourniquet as soon as bleeding is controlled to minimize further damage to the limb.,FALSE
+3084,771,Apply a bulky dressing and bandage over the tourniquet.,FALSE
+3085,772,Epidermis,TRUE
+3086,772,Adipose tissue,FALSE
+3087,772,Fascia,FALSE
+3088,772,Dermis,FALSE
+3089,773,Subdural layer,FALSE
+3090,773,Subcutaneous layer,TRUE
+3091,773,Epidermis,FALSE
+3092,773,Parietal layer,FALSE
+3093,774,"You need to expose the wound completely, control bleeding, clean the surface by simply removing large pieces of foreign matter if any, and dress and bandage the wound.",TRUE
+3094,774,You need to make sure the wound is very clean before trying to control bleeding by exposing the wound completely and cleaning it with alcohol.,FALSE
+3095,774,You can treat the wound without total exposure as exposing a wound in that area of the body could be embarrassing.,FALSE
+3096,774,You need to expose the wound completely because you need to clear away any embedded particles and debris from the wound.,FALSE
+3097,775,Tell the patient that if it does not get better within the next few days he should consult his own doctor.,FALSE
+3098,775,"Continue to apply cold, elevate and splint the limb, and transport the patient high priority.",FALSE
+3099,775,"Remove the ice from the wound, then elevate and splint the limb. Transport the patient high priority.",TRUE
+3100,775,The patient is correct. This type of wound will heal on its own and he can go back to work.,FALSE
+3101,776,Remove the object and put a bandage on the outside of the cheek.,FALSE
+3102,776,Let the child carefully pull the object out.,FALSE
+3103,776,"Stabilize the object, but do not try to remove it.",TRUE
+3104,776,Call the parents and see what they want you to do.,FALSE
+3105,777,The palm of the patient's hand equals 9% of the body's surface area.,FALSE
+3106,777,"You can only use the rule of palm for children, so you would use the rule of nines instead.",FALSE
+3107,777,The palm of your hand represents 1% of the body's surface area.,FALSE
+3108,777,The palm of the patient's hand equals about 1% of the body's surface area.,TRUE
+3109,778,leave them alone and transport rapidly.,FALSE
+3110,778,cover the organs with moist sterile dressings.,TRUE
+3111,778,cover the entire abdomen with a blanket.,FALSE
+3112,778,attempt to place the organs back into the abdomen.,FALSE
+3113,779,Application of a dry sterile dressing,FALSE
+3114,779,Keeping the site clean,FALSE
+3115,779,Application of antibiotic ointment,TRUE
+3116,779,Removing rings,FALSE
+3117,780,Apply a lotion containing a topical anesthetic and aloe vera.,FALSE
+3118,780,Apply a dry sterile dressing.,TRUE
+3119,780,Apply an antibiotic ointment.,FALSE
+3120,780,Apply a plastic bag full of ice to the skin.,FALSE
+3121,781,Getting a description of the assailants,FALSE
+3122,781,"The swelling around his eyes, which may be reduced by applying a cold pack",FALSE
+3123,781,The presence of any defensive wounds the patient may have sustained,FALSE
+3124,781,Potential internal injuries,TRUE
+3125,782,Applying an ice pack or chemical cold pack,FALSE
+3126,782,Applying direct pressure to the wound,TRUE
+3127,782,Packing the wound with rolled gauze,FALSE
+3128,782,Applying a sterile dressing,FALSE
+3129,783,increasing intrathoracic pressures.,FALSE
+3130,783,absence of unilateral pulses.,FALSE
+3131,783,massive hemorrhage.,FALSE
+3132,783,irritation and peritonitis.,TRUE
+3133,784,Laceration to the neck,FALSE
+3134,784,Stab wound to the chest,FALSE
+3135,784,A hemothorax from an object impaled into the chest,FALSE
+3136,784,Gunshot wound to the abdomen from which a loop of intestine is protruding,TRUE
+3137,785,compression injury.,TRUE
+3138,785,tension pneumothorax.,FALSE
+3139,785,penetrating injury.,FALSE
+3140,785,open chest injury.,FALSE
+3141,786,hemopneumothorax,FALSE
+3142,786,cardiac tamponade,TRUE
+3143,786,commotio cordis,FALSE
+3144,786,pericardial effusion,FALSE
+3145,787,A flutter valve is difficult to create with foil.,FALSE
+3146,787,Sterility cannot be ensured unless the foil was autoclaved.,FALSE
+3147,787,The foil may lacerate eviscerated organs.,TRUE
+3148,787,Foil cannot create an airtight seal.,FALSE
+3149,788,Paradoxical motion,FALSE
+3150,788,Open chest wound,FALSE
+3151,788,Sucking chest wound,TRUE
+3152,788,Closed tension pneumothorax,FALSE
+3153,789,The bluish or reddish facial discoloration is not associated with traumatic asphyxia; a pale discoloration is usually present.,FALSE
+3154,789,High pressure on the chest leads to blood being forced from the right atrium into the face and neck.,TRUE
+3155,789,The physiological strain of the body results in a flushed appearance and increased risk of a hypertensive event.,FALSE
+3156,789,"The patient has become hypoxic due to a chest injury, and the finding suggests central cyanosis.",FALSE
+3157,790,It may reduce the chances of developing a tension pneumothorax.,TRUE
+3158,790,It eliminates the need to continue monitoring the patient's respiratory status.,FALSE
+3159,790,It prevents the development of a hemothorax by allowing blood to escape.,FALSE
+3160,790,It allows easy access for reexamination of the wound en route to the hospital.,FALSE
+3161,791,Open wound to the neck,FALSE
+3162,791,Open wound to the abdomen from which a loop of intestine is protruding,FALSE
+3163,791,Open wound to the chest,FALSE
+3164,791,All of these,TRUE
+3165,792,Do not use occlusive dressings in this case.,FALSE
+3166,792,Manually maintain pressure.,TRUE
+3167,792,Do not use adhesive tape.,FALSE
+3168,792,Wrap the dressing circumferentially with gauze.,FALSE
+3169,793,Liver,TRUE
+3170,793,Kidneys,FALSE
+3171,793,Pancreas,FALSE
+3172,793,Intestines,FALSE
+3173,794,Fracture of one rib in two or more consecutive places,FALSE
+3174,794,"Section of the chest wall that is unstable, leading to breathing problems",TRUE
+3175,794,"Lung that has been punctured by a fractured rib, resulting in a buildup of air",FALSE
+3176,794,Fracture of at least four ribs in two or more places,FALSE
+3177,795,aortic dissection.,TRUE
+3178,795,commotio cordis.,FALSE
+3179,795,flail chest.,FALSE
+3180,795,tension pneumothorax.,FALSE
+3181,796,Cardiac tamponade,FALSE
+3182,796,Commotio cordis,TRUE
+3183,796,Tension pneumothorax,FALSE
+3184,796,Aortic dissection,FALSE
+3185,797,roll the patient onto his left side.,FALSE
+3186,797,administer 15 lpm oxygen via mask.,FALSE
+3187,797,begin positive pressure ventilation.,TRUE
+3188,797,tape the chest to restrict movement.,FALSE
+3189,798,place the patient on high-concentration oxygen.,FALSE
+3190,798,place your gloved hand over the wound.,TRUE
+3191,798,cover the wound with an occlusive dressing.,FALSE
+3192,798,place a trauma dressing over the wound.,FALSE
+3193,799,The patient is showing signs of abdominal bleeding.,FALSE
+3194,799,The patient may have an abdominal evisceration.,FALSE
+3195,799,The patient is showing signs of an open chest injury.,FALSE
+3196,799,The patient may have a flail chest.,TRUE
+3197,800,elevate the patient's legs.,FALSE
+3198,800,place him on a backboard.,FALSE
+3199,800,begin chest compressions.,TRUE
+3200,800,attach the AED and analyze.,FALSE
+3201,801,Placing an occlusive dressing over the wound,TRUE
+3202,801,Placing the patient in the shock position,FALSE
+3203,801,Performing a rapid trauma assessment,FALSE
+3204,801,Placing a pressure dressing over the wound to control bleeding,FALSE
+3205,802,The possibility of commotio cordis,FALSE
+3206,802,Reducing the swelling around his eyes by applying a cold pack,FALSE
+3207,802,The presence of any defensive wounds the patient may have sustained,FALSE
+3208,802,The potential for serious internal damage,TRUE
+3209,803,"Check distal CSM, apply a traction splint, and transport the patient.",FALSE
+3210,803,"Check distal CSM, apply a sling and swathe, and transport the patient.",TRUE
+3211,803,Contact medical control for input into the best treatment for this patient.,FALSE
+3212,803,Report the popping sound to the receiving physician when you arrive at the hospital.,FALSE
+3213,804,Placing the arm in a sling and using a triangular bandage to secure it to the body,TRUE
+3214,804,"Placing two long padded board splints on either side of the extremity, extending from the shoulder to the wrist",FALSE
+3215,804,Using an upper extremity traction splint,FALSE
+3216,804,Using a long-arm air splint,FALSE
+3217,805,Possible fracture of the femur,TRUE
+3218,805,Possible fracture of the cervical spine,FALSE
+3219,805,"Suspected multiple fractures of the femur, tibia, and fibula",FALSE
+3220,805,Possible fracture of the humerus,FALSE
+3221,806,spinal fracture or injury.,FALSE
+3222,806,pelvic dislocation syndrome.,FALSE
+3223,806,pelvic trauma/fracture.,TRUE
+3224,806,priapism.,FALSE
+3225,807,7,TRUE
+3226,807,4,FALSE
+3227,807,5,FALSE
+3228,807,12,FALSE
+3229,808,Crushing syndrome,FALSE
+3230,808,Perfusing syndrome,FALSE
+3231,808,Compartment syndrome,TRUE
+3232,808,Fracture syndrome,FALSE
+3233,809,boney skeleton.,FALSE
+3234,809,axial skeleton.,TRUE
+3235,809,torso.,FALSE
+3236,809,appendicular skeleton.,FALSE
+3237,810,All musculoskeletal injuries are life threatening due to the bone bleeding leading to hypoperfusion.,FALSE
+3238,810,Splints do not adequately fit the patient's extremities and must be modified with padding to ensure immobilization.,FALSE
+3239,810,"Many musculoskeletal injuries have a grotesque appearance, and the EMT cannot be distracted from life-threatening conditions by a deformed limb.",TRUE
+3240,810,Most musculoskeletal injuries are simply splinted and not a life threat to the patient.,FALSE
+3241,811,"Pain, pallor, paresthesia, pulses, placement, and pressure",FALSE
+3242,811,"Pain, pallor, position, pulses, placement, and pad",FALSE
+3243,811,"Pain, pallor, paresthesia, pulses, paralysis, and pressure",TRUE
+3244,811,"Pain, pallor, position, pulses, placement, and pressure",FALSE
+3245,812,Skull and neck,FALSE
+3246,812,Arms,FALSE
+3247,812,Legs,FALSE
+3248,812,Hands and feet,TRUE
+3249,813,Smooth muscle,FALSE
+3250,813,Cartilage,TRUE
+3251,813,Tendons,FALSE
+3252,813,Ligaments,FALSE
+3253,814,Ilium,FALSE
+3254,814,Sternum,TRUE
+3255,814,Tarsals,FALSE
+3256,814,Metacarpals,FALSE
+3257,815,Converting a closed fracture to an open one,FALSE
+3258,815,Compromising circulation to the extremity,FALSE
+3259,815,Ignoring life-threatening problems while focusing on an extremity injury,TRUE
+3260,815,All of these,FALSE
+3261,816,Nerve damage,FALSE
+3262,816,Swelling,FALSE
+3263,816,Hemorrhage,FALSE
+3264,816,All of these,TRUE
+3265,817,Seeing if you can elicit crepitus on palpation,FALSE
+3266,817,Gently attempting to flex the mid-portion of the bone to check for angulation,FALSE
+3267,817,Asking the patient to see if he can bear weight on the extremity,FALSE
+3268,817,Comparing the injured side to the uninjured side,TRUE
+3269,818,Avulsion or partial amputation where traction could separate the extremity,FALSE
+3270,818,Injury to the lower third of the leg that would interfere with the ankle hitch,FALSE
+3271,818,Severe swelling and redness at a midshaft femur,TRUE
+3272,818,"Pelvis, hip, or knee injury",FALSE
+3273,819,Extensive force,TRUE
+3274,819,Twisting or rotational forces,FALSE
+3275,819,Indirect force,FALSE
+3276,819,Direct force,FALSE
+3277,820,Cartilage,FALSE
+3278,820,Ligaments,TRUE
+3279,820,Tendons,FALSE
+3280,820,Periosteum,FALSE
+3281,821,Another name for manual traction is tension.,FALSE
+3282,821,Joints are places where bones articulate.,FALSE
+3283,821,A sprain is the stretching and tearing of ligaments.,FALSE
+3284,821,Tendons connect muscles to ligaments.,TRUE
+3285,822,Fractures can occur to the proximal femur.,TRUE
+3286,822,Fractures can occur to the proximal tibia and fibula.,FALSE
+3287,822,Fractures can occur to the patella.,FALSE
+3288,822,There could be pain and tenderness.,FALSE
+3289,823,Tendons are bands of connective tissue that bind the ligaments to muscles.,TRUE
+3290,823,Cartilage is connective tissue that covers the outside of the bone end and acts as a surface for articulation.,FALSE
+3291,823,Ligaments are connective tissues that connect bone to bone.,FALSE
+3292,823,Muscles are the tissues or fibers that cause movement of body parts or organs.,FALSE
+3293,824,En route to the hospital,FALSE
+3294,824,Immediately,FALSE
+3295,824,During the secondary exam,TRUE
+3296,824,During the primary exam,FALSE
+3297,825,"Provide manual in-line stabilization of the cervical spine along with assessment of breathing, pulse, and the presence of significant hemorrhage; apply high-concentration oxygen; perform a rapid trauma exam; immobilize to a long backboard; and check with medical control about the need to splint the forearm injury prior to transport.",FALSE
+3298,825,"Provide manual in-line stabilization of the cervical spine along with assessment of breathing, pulse, and the presence of significant hemorrhage; apply high-concentration oxygen; perform a rapid trauma exam; immobilize to a long backboard; transport; and splint the extremity en route if time and resources allow.",TRUE
+3299,825,Open the airway; assess breathing; check the carotid pulse; splint the forearm injury; immobilize the patient to a long backboard; apply high-concentration oxygen; and transport.,FALSE
+3300,825,"Provide immediate manual in-line stabilization of the cervical spine; apply high-concentration oxygen by nonrebreather mask; perform a focused history and assessment; apply the cervical collar; apply a padded board splint, sling, and swathe to the forearm injury; and transport.",FALSE
+3301,826,wrist; shoulder,FALSE
+3302,826,forearm; humerus,TRUE
+3303,826,fingertips; shoulder,FALSE
+3304,826,wrist; elbow,FALSE
+3305,827,Splint the leg in the position in which it was found and transport without delay.,FALSE
+3306,827,Gently attempt to straighten the leg to regain a pulse before splinting.,TRUE
+3307,827,Transport rapidly to the nearest trauma center.,FALSE
+3308,827,"Explain to the patient that, because you cannot detect circulation in his foot, his leg will most likely have to be amputated above the site of the injury.",FALSE
+3309,828,distraction injury.,FALSE
+3310,828,compression fracture.,FALSE
+3311,828,whiplash injury.,TRUE
+3312,828,extension injury.,FALSE
+3313,829,Cervical spine trauma,FALSE
+3314,829,Brain injury,FALSE
+3315,829,Airway obstruction,FALSE
+3316,829,All of these,TRUE
+3317,830,When the patient is secured to a long backboard,TRUE
+3318,830,After a short immobilization device has been applied,FALSE
+3319,830,Only when directed to do so by medical control,FALSE
+3320,830,After a cervical collar has been applied,FALSE
+3321,831,"Grip strength, verbal response, and eye opening",FALSE
+3322,831,"Verbal response, motor response, and AVPU",FALSE
+3323,831,"Motor response, arm movement, and speech",FALSE
+3324,831,"Eye opening, verbal response, and motor response",TRUE
+3325,832,at least 10 seconds,FALSE
+3326,832,20 to 30 seconds,FALSE
+3327,832,15 to 20 seconds,FALSE
+3328,832,at least 60 seconds,TRUE
+3329,833,If you suspect a skull fracture and need to palpate the head,FALSE
+3330,833,If the helmet interferes with airway management,TRUE
+3331,833,If you want to place a nasal cannula on the patient but cannot because his ears are covered by the helmet,FALSE
+3332,833,If the helmet fits so snugly that you cannot inspect the ears for the presence of blood or fluid,FALSE
+3333,834,25-year-old male who regained consciousness one or two minutes after being struck on the head by a baseball bat and is now asking repetitive questions,FALSE
+3334,834,"15-year-old female who was ejected from a vehicle, struck her head on a tree, and displays decerebrate movements in response to painful stimuli",TRUE
+3335,834,"70-year-old male who struck his head when he fell in the parking lot, has a large laceration on his forehead, and is disoriented",FALSE
+3336,834,25-year-old female victim of battery who is awake but complains of a headache and has bloody fluid draining from her nose and left ear,FALSE
+3337,835,Hip dislocation,FALSE
+3338,835,Compression fracture of the lumbar or sacral spine,FALSE
+3339,835,Fractured pelvis,TRUE
+3340,835,None of these,FALSE
+3341,836,Foramen magnum,FALSE
+3342,836,Dermatome,FALSE
+3343,836,Vertebrae,FALSE
+3344,836,Spinous process,TRUE
+3345,837,Mandible,FALSE
+3346,837,Maxillae,FALSE
+3347,837,Temporal,FALSE
+3348,837,Malar,TRUE
+3349,838,Trauma in which the patient has more than one serious injury,FALSE
+3350,838,One or more injuries that affect more than one body system,TRUE
+3351,838,A trauma that requires the response of multiple agencies,FALSE
+3352,838,A trauma in which there are multiple casualties,FALSE
+3353,839,Subdural hematoma,TRUE
+3354,839,Epidural hematoma,FALSE
+3355,839,Epidural contusion,FALSE
+3356,839,Subdural contusion,FALSE
+3357,840,EMT at the head of the patient,TRUE
+3358,840,EMT with the most seniority,FALSE
+3359,840,EMT at the heaviest portion of the patient,FALSE
+3360,840,EMT with the highest level of training,FALSE
+3361,841,Failure to keep the patient awake and talking,FALSE
+3362,841,Administration of 100% oxygen,FALSE
+3363,841,Allowing seepage of cerebrospinal fluid (CSF) from the ears or nose,FALSE
+3364,841,Improper management of airway and ventilation,TRUE
+3365,842,Hypotension,FALSE
+3366,842,Internal bleeding,FALSE
+3367,842,Hypoperfusion,TRUE
+3368,842,Hemorrhage,FALSE
+3369,843,Contusion without a skull fracture,FALSE
+3370,843,Laceration with a skull fracture,TRUE
+3371,843,Laceration without a skull fracture,FALSE
+3372,843,Both Contusion without a skull fracture and Laceration with a skull fracture,FALSE
+3373,844,Malar,FALSE
+3374,844,Dermatome,TRUE
+3375,844,Maxillae,FALSE
+3376,844,Spinous process,FALSE
+3377,845,Motor response,FALSE
+3378,845,Verbal response,FALSE
+3379,845,Eye movement,FALSE
+3380,845,Work of breathing,TRUE
+3381,846,Extreme emotional response to paralysis,FALSE
+3382,846,Blood loss from damaged spinal blood vessels,FALSE
+3383,846,Failure of the heart to adequately pump blood,FALSE
+3384,846,Failure of the nervous system to control the diameter of blood vessels,TRUE
+3385,847,Rotation of the head and neck,FALSE
+3386,847,Hyperflexion of the neck,FALSE
+3387,847,Excessive lateral movement of the mandible,FALSE
+3388,847,Hyperextension of the neck,TRUE
+3389,848,Long spine board,FALSE
+3390,848,Pair of pillows,FALSE
+3391,848,Soft cervical collars,FALSE
+3392,848,Rigid cervical collars,TRUE
+3393,849,Peripheral nervous system,TRUE
+3394,849,Central nervous system,FALSE
+3395,849,Autonomic nervous system,FALSE
+3396,849,All of these,FALSE
+3397,850,Cervical and sacra,FALSE
+3398,850,Thoracic and lumbar,FALSE
+3399,850,Cervical and lumbar,TRUE
+3400,850,Thoracic and sacra,FALSE
+3401,851,open head injury.,FALSE
+3402,851,closed head injury.,FALSE
+3403,851,nontraumatic brain injury.,TRUE
+3404,851,insecticide poisoning.,FALSE
+3405,852,Begin providing CPR to the patient.,FALSE
+3406,852,Begin providing BVM-assisted ventilations to the patient.,FALSE
+3407,852,Call dispatch for an ALS intercept en route to the hospital.,FALSE
+3408,852,Free a corner or edge of the dressing to release pressure buildup.,TRUE
+3409,853,Load and go–conduct any other care in the ambulance en route due to the potential seriousness of the burns.,FALSE
+3410,853,"While on the scene, rapidly do a complete assessment, provide oxygen, provide care for potential spine injuries, and transport as soon as possible after the exam.",TRUE
+3411,853,Put the patient on oxygen and help him into your ambulance.,FALSE
+3412,853,"Stay with the patient awhile, and if he does not appear to be in distress, encourage him to refuse care.",FALSE
+3413,854,"Eye opening, motor response, and verbal response",TRUE
+3414,854,"Verbal responses, motor skills, and mental status",FALSE
+3415,854,"Speech patterns, motor patterns, and mental status",FALSE
+3416,854,"Motor response, verbal response, and attentiveness",FALSE
+3417,855,Closed head injury,FALSE
+3418,855,Coup-contrecoup injury,FALSE
+3419,855,Increased intracranial pressure,TRUE
+3420,855,Increased arterial pressure,FALSE
+3421,856,on the back of the neck.,FALSE
+3422,856,behind the ear.,TRUE
+3423,856,on the back of the head.,FALSE
+3424,856,between the eyes.,FALSE
+3425,857,Take the patient to a trauma center.,FALSE
+3426,857,Have the patient to sign a refusal form.,FALSE
+3427,857,Explain to the patient the need for transport to a local community hospital.,TRUE
+3428,857,Call for ALS intercept.,FALSE
+3429,858,Cooling off too quickly,FALSE
+3430,858,Sweating too much,TRUE
+3431,858,Drinking too many sports drinks,FALSE
+3432,858,Heat exhaustion,FALSE
+3433,859,coccyx is easily dislocated.,FALSE
+3434,859,cervical spine is not supported by other bony structures.,TRUE
+3435,859,thoracic spine is especially vulnerable to injury.,FALSE
+3436,859,lumbar area is rarely injured due to the rib support.,FALSE
+3437,860,indirect injury.,FALSE
+3438,860,laceration injury.,FALSE
+3439,860,closed head injury.,FALSE
+3440,860,open head injury.,TRUE
+3441,861,"Use moldable splints for the upper and lower extremities, padding any voids to fully stabilize the fractures.",FALSE
+3442,861,Immobilize the patient to a long backboard without splinting the extremities individually.,TRUE
+3443,861,Use traction splints for the lower extremities and allow the upper extremities to be immobilized by the long backboard.,FALSE
+3444,861,Use padded board splints for the upper extremities and a PASG for the lower extremities.,FALSE
+3445,862,Carefully rotate the patient's head to check for trauma.,FALSE
+3446,862,Hyperventilate at a rate of 24 breaths per minute using supplemental oxygen.,FALSE
+3447,862,Log-roll the patient onto a short spine board.,FALSE
+3448,862,Provide cervical spine immobilization.,TRUE
+3449,863,Battle sign,FALSE
+3450,863,Tonic-clonic activity,FALSE
+3451,863,Posturing,TRUE
+3452,863,Cushing reflex,FALSE
+3453,864,Patient demonstrates signs of shock.,FALSE
+3454,864,Patient cannot lift legs when lying supine.,FALSE
+3455,864,Patient feels the need to empty his bladder.,FALSE
+3456,864,All of these.,TRUE
+3457,865,remove the helmet to better manage proper alignment.,TRUE
+3458,865,pad under his shoulders to straighten his neck.,FALSE
+3459,865,tip his head back to gain neutral alignment.,FALSE
+3460,865,place towels on either side of the helmet to stabilize it.,FALSE
+3461,866,Glasgow Coma Scale (GCS) of 15,FALSE
+3462,866,Constricted pupils,FALSE
+3463,866,Increased pulse rate,FALSE
+3464,866,Increased blood pressure,TRUE
+3465,867,30,FALSE
+3466,867,18,FALSE
+3467,867,25,FALSE
+3468,867,20,TRUE
+3469,868,5; 45,FALSE
+3470,868,10; 29,TRUE
+3471,868,12; 20,FALSE
+3472,868,8; 32,FALSE
+3473,869,110,FALSE
+3474,869,100,FALSE
+3475,869,80,FALSE
+3476,869,90,TRUE
+3477,870,15 feet.,FALSE
+3478,870,25 feet.,FALSE
+3479,870,10 feet.,FALSE
+3480,870,20 feet.,TRUE
+3481,871,Make decisions beyond what is usually called for.,TRUE
+3482,871,"Provide the best quality care possible, including definitive care on scene.",FALSE
+3483,871,Respond above and beyond the call of duty.,FALSE
+3484,871,Practice outside the scope of practice in order to provide the greatest good.,FALSE
+3485,872,"Level of consciousness, systolic blood pressure, and pulse rate",FALSE
+3486,872,"GCS, pulse rate, and respiratory rate",FALSE
+3487,872,"GCS, systolic blood pressure, and pulse rate",FALSE
+3488,872,"GCS, systolic blood pressure, and respiratory rate",TRUE
+3489,873,"Physiological determinants, anatomic criteria, and mechanism of injury",FALSE
+3490,873,"Teamwork, timing, and transport",TRUE
+3491,873,"Ground ambulances, air helicopters, and trauma centers",FALSE
+3492,873,"Lights, sirens, and diesel",FALSE
+3493,874,Motorcycle crash greater than 20 mph,FALSE
+3494,874,Fall greater than 20 feet,FALSE
+3495,874,EMS provider judgment,TRUE
+3496,874,Partial ejection from automobile,FALSE
+3497,875,8,FALSE
+3498,875,14,FALSE
+3499,875,13,TRUE
+3500,875,12,FALSE
+3501,876,Patient's choice of destination,FALSE
+3502,876,Trauma center,FALSE
+3503,876,"Any hospital, as long as on-line medical direction approves the facility's capabilities",FALSE
+3504,876,Any hospital with surgical facilities,TRUE
+3505,877,Immediate surgical capabilities,TRUE
+3506,877,Availability of a chaplain,FALSE
+3507,877,Rehabilitation services,FALSE
+3508,877,Critical-care nursing,FALSE
+3509,878,Awaiting arrival of police on scene,TRUE
+3510,878,Ventilating a patient in respiratory distress,FALSE
+3511,878,Suctioning the airway,FALSE
+3512,878,Immobilizing the patient to a long spine board,FALSE
+3513,879,Vehicle crash-generated telemetry data,FALSE
+3514,879,Vehicle rollover,FALSE
+3515,879,Intrusion into the occupant area greater than 8 inches,FALSE
+3516,879,Auto versus pedestrian,TRUE
+3517,880,Should I allow police to interview the patient on scene?,TRUE
+3518,880,Is the patient seriously injured?,FALSE
+3519,880,Should I transport to a trauma center?,FALSE
+3520,880,Do I need to minimize on-scene time?,FALSE
+3521,881,An unlicensed teenage driver who has a pulse rate of 120 after a MVC and a 4 minute EMS response,FALSE
+3522,881,An end-stage renal disease (ERSD) patient who tripped and fell and is complaining of shoulder pain on the same side as his shunt,FALSE
+3523,881,A pregnant female in the third trimester who is spotting (showing small amounts of vaginal bleeding) following a low mechanism of injury MVC,TRUE
+3524,881,An elderly patient who slipped out of her wheelchair and is complaining of pelvic pain,FALSE
+3525,882,Patient with a Glasgow Coma Scale of 15,FALSE
+3526,882,Patient with a broken femur,FALSE
+3527,882,Patient with a penetrating chest injury,TRUE
+3528,882,Patient with a Revised Trauma Score of 12,FALSE
+3529,883,Suction vomit and secretions from the airway.,FALSE
+3530,883,Manually stabilizing the cervical spine.,FALSE
+3531,883,Extensively splint the patient's injuries.,TRUE
+3532,883,Begin chest compressions.,FALSE
+3533,884,Call medical control for advice from the trauma center.,FALSE
+3534,884,Continue transporting to the local hospital because it's the closest facility.,FALSE
+3535,884,Divert to the trauma center because the patient is becoming symptomatic.,TRUE
+3536,884,Continue transporting to the local hospital because you've already given your report and they accepted the patient.,FALSE
+3537,885,The nearest community facility,FALSE
+3538,885,Level I Trauma Center,FALSE
+3539,885,Level II Trauma Center,TRUE
+3540,885,"Nowhere, because the patient is an adult and refusing care",FALSE
+3541,886,Femur fracture,FALSE
+3542,886,Arterial bleed,TRUE
+3543,886,Snoring respirations,FALSE
+3544,886,Broken wrist,FALSE
+3545,887,"5, 3, 4, 2, 6, 1",FALSE
+3546,887,"2, 5, 6, 3, 4, 1",FALSE
+3547,887,"1, 3, 4, 5, 6, 2",FALSE
+3548,887,"1, 4, 3, 5, 6, 2",TRUE
+3549,888,central,FALSE
+3550,888,active,TRUE
+3551,888,passive,FALSE
+3552,888,peripheral,FALSE
+3553,889,Faster metabolism,FALSE
+3554,889,Inadequate salt intake,FALSE
+3555,889,Increased body mass,FALSE
+3556,889,Poor ability to regulate body temperature,TRUE
+3557,890,Head,FALSE
+3558,890,Heart and lungs,FALSE
+3559,890,Intestines,FALSE
+3560,890,Extremities,TRUE
+3561,891,Increasing the respiratory rate,FALSE
+3562,891,Shivering,TRUE
+3563,891,Burning fewer calories,FALSE
+3564,891,Excreting more urine,FALSE
+3565,892,blood clots.,FALSE
+3566,892,loss of calcium.,FALSE
+3567,892,chemical imbalance in the tissues.,FALSE
+3568,892,ice crystal formation in the tissues.,TRUE
+3569,893,Seizures,FALSE
+3570,893,Heart attack,FALSE
+3571,893,Rewarming shock,FALSE
+3572,893,Ventricular fibrillation,TRUE
+3573,894,80,FALSE
+3574,894,85,FALSE
+3575,894,100,TRUE
+3576,894,115,FALSE
+3577,895,70,TRUE
+3578,895,98.6,FALSE
+3579,895,32,FALSE
+3580,895,50,FALSE
+3581,896,Late frostbite,FALSE
+3582,896,Hypothermia,FALSE
+3583,896,Early frostnip,TRUE
+3584,896,Deep frostnip,FALSE
+3585,897,Hyperthermia,TRUE
+3586,897,Heat exhaustion,FALSE
+3587,897,Heat shock,FALSE
+3588,897,Perspiration,FALSE
+3589,898,Taking cold or sinus medications before a dive,FALSE
+3590,898,Breathing 100% oxygen before a dive,FALSE
+3591,898,Flying within several hours after a dive,TRUE
+3592,898,Diving on a full stomach,FALSE
+3593,899,Movement of both lower extremities,FALSE
+3594,899,Sensation of the right leg,TRUE
+3595,899,Sensation in the left arm,FALSE
+3596,899,Movement of the left arm,FALSE
+3597,900,Hypothermia,TRUE
+3598,900,Frostbite,FALSE
+3599,900,Frostnip,FALSE
+3600,900,All of these,FALSE
+3601,901,Arterial gas embolism,TRUE
+3602,901,Hyperbaric arterial injury,FALSE
+3603,901,Arterial thrombosis,FALSE
+3604,901,Arterial blood gases,FALSE
+3605,902,Skin cool to the touch,FALSE
+3606,902,Numbness,FALSE
+3607,902,Heavy shivering,TRUE
+3608,902,Drowsiness,FALSE
+3609,903,The patient may need to be questioned by police and fire officials about the cause of the fire.,FALSE
+3610,903,"Being involved in a crime makes the patient part of the chain of evidence, requiring a police officer to ride with you to the hospital.",FALSE
+3611,903,The burn is the most serious injury to the patient.,FALSE
+3612,903,Medical conditions may be aggravated by the burn.,TRUE
+3613,904,They have less fat than adults.,TRUE
+3614,904,Their immune system is not fully developed.,FALSE
+3615,904,They are unable to recognize how cold they are.,FALSE
+3616,904,They shiver more than adults.,FALSE
+3617,905,Row the boat out to the swimmer.,FALSE
+3618,905,Use the buoy to float out to the swimmer.,FALSE
+3619,905,Call for help and try to throw the buoy to the swimmer.,TRUE
+3620,905,Find someone who can swim to try to swim out and save the swimmer.,FALSE
+3621,906,Pnemothorax,FALSE
+3622,906,The bends,FALSE
+3623,906,Decompression sickness,FALSE
+3624,906,Air embolism,TRUE
+3625,907,Transport the patient by air medical to the nearest facility.,FALSE
+3626,907,Transport the patient by air medical to the specialty center.,FALSE
+3627,907,Transport the patient to the nearest facility.,FALSE
+3628,907,Transport the patient by ground to the specialty center.,TRUE
+3629,908,Decompression sickness,FALSE
+3630,908,Near drowning,FALSE
+3631,908,Myocardial infarction,FALSE
+3632,908,Air embolism,TRUE
+3633,909,Confirm the location and status of the snake.,TRUE
+3634,909,Confirm the type of snake and contact medical control for specific instructions.,FALSE
+3635,909,Immediately apply a constricting band to minimize the spread of the venom.,FALSE
+3636,909,Perform a primary assessment and identify any potential life threats.,FALSE
+3637,910,keep the digits frozen on ice until they can be properly rewarmed at the hospital.,FALSE
+3638,910,gently bandage the digits.,TRUE
+3639,910,gently warm the digits by slowly massaging them.,FALSE
+3640,910,actively rewarm the digits.,FALSE
+3641,911,Cooling off too quickly,FALSE
+3642,911,Drinking too many sports drinks,FALSE
+3643,911,Sweating too much,TRUE
+3644,911,Heat exhaustion,FALSE
+3645,912,Treat the patient for shock and transport.,TRUE
+3646,912,Assist the patient in administering her epinephrine auto-injector.,FALSE
+3647,912,Place the patient in the Trendelenburg position.,FALSE
+3648,912,Place a constricting band around the arm to minimize the spread of the venom.,FALSE
+3649,913,Using a tourniquet,FALSE
+3650,913,Using direct pressure to control the bleeding,FALSE
+3651,913,Replacing fluid level by giving the patient adequate amounts of water,TRUE
+3652,913,Administering oxygen,FALSE
+3653,914,Leave the hook in place and try not to disturb it.,TRUE
+3654,914,Push the hook through the wound to avoid further damage from the barbed end.,FALSE
+3655,914,Apply a pressure dressing over the hook.,FALSE
+3656,914,Pull the hook out from the same direction in which it entered the hand.,FALSE
+3657,915,vigorous crying.,FALSE
+3658,915,relaxation of the extremities.,TRUE
+3659,915,cyanosis of only the hands and feet.,FALSE
+3660,915,heart rate greater than 100.,FALSE
+3661,916,White cotton thread,FALSE
+3662,916,Section of wire coat hanger,FALSE
+3663,916,Pair of shoelaces,TRUE
+3664,916,Clothespin,FALSE
+3665,917,500 cc,TRUE
+3666,917,"1,000 cc",FALSE
+3667,917,250 cc,FALSE
+3668,917,100 cc,FALSE
+3669,918,1 and 5 minutes,TRUE
+3670,918,5 and 10 minutes,FALSE
+3671,918,1 and 6 minutes,FALSE
+3672,918,2 and 7 minutes,FALSE
+3673,919,12,FALSE
+3674,919,1,FALSE
+3675,919,7,TRUE
+3676,919,3,FALSE
+3677,920,1 to 2 inches higher on the sternum,TRUE
+3678,920,0.5 to 1 inch higher on the sternum,FALSE
+3679,920,1 to 2 inches lower on the sternum,FALSE
+3680,920,0.5 to 1 inch lower on the sternum,FALSE
+3681,921,The infant is breathing on his or her own.,FALSE
+3682,921,The cord is no longer pulsating.,FALSE
+3683,921,The cord is clamped in two places.,FALSE
+3684,921,All of these,TRUE
+3685,922,"Wrapping the infant in a blanket, covering his head, and keeping the temperature in the ambulance between 90°F and 100°F",TRUE
+3686,922,Applying high-concentration oxygen with a neonatal nonrebreather mask,FALSE
+3687,922,Encouraging family members to hold the infant,FALSE
+3688,922,Deeply suctioning the airway with a rigid tonsil-tip,FALSE
+3689,923,Place the mother in a head-down position with pillows under her hips.,TRUE
+3690,923,Use your gloved hand to push the umbilical cord back up through the cervix.,FALSE
+3691,923,Encourage the mother to push forcefully in order to speed delivery.,FALSE
+3692,923,Immediately clamp the cord in two places and cut it between the clamps.,FALSE
+3693,924,Keep the infant at the level of the mother's vagina until the cord is clamped and cut.,FALSE
+3694,924,Hold the infant by the ankles to allow the airway to drain.,TRUE
+3695,924,Place the infant on his side with his head slightly lower than his body.,FALSE
+3696,924,Dry the infant and wrap him in a blanket.,FALSE
+3697,925,Asking how long ago the contractions began,FALSE
+3698,925,Phoning the patient's obstetrician for advice,TRUE
+3699,925,Determining whether the patient feels as if she needs to move her bowels,FALSE
+3700,925,Finding out how many times the patient has been pregnant,FALSE
+3701,926,"Ask the woman to ""push"" or ""bear down"" as you inspect the vaginal opening.",FALSE
+3702,926,"Place your hand on the woman's abdomen, just above the umbilicus, and check for the firmness of the uterus during contractions.",FALSE
+3703,926,"Cover her with a sheet, have her remove her underwear, wait for a contraction, and then visualize the vaginal opening.",TRUE
+3704,926,None of these,FALSE
+3705,927,Checking for fever,FALSE
+3706,927,Vigorously rubbing the infant's back immediately upon delivery to stimulate breathing,FALSE
+3707,927,Being prepared to suction the infant immediately before he takes a breath,TRUE
+3708,927,None of these,FALSE
+3709,928,It usually occurs during the second trimester.,FALSE
+3710,928,It may cause painless bright red bleeding.,FALSE
+3711,928,The fallopian tubes cannot stretch to accommodate a fetus.,TRUE
+3712,928,The fertilized egg usually implants in the wall of the uterus.,FALSE
+3713,929,Check to see if the umbilical cord is around the neck.,FALSE
+3714,929,Suction the mouth.,FALSE
+3715,929,Suction the nose.,FALSE
+3716,929,All of these,TRUE
+3717,930,7,FALSE
+3718,930,9,TRUE
+3719,930,10,FALSE
+3720,930,8,FALSE
+3721,931,Braxton-Hicks contractions.,FALSE
+3722,931,placenta previa.,FALSE
+3723,931,contracted food poisoning.,FALSE
+3724,931,supine hypotensive syndrome.,TRUE
+3725,932,massaging the uterus to control bleeding.,FALSE
+3726,932,having the mother squeeze her legs together to provide direct pressure.,TRUE
+3727,932,elevating the mother's feet.,FALSE
+3728,932,applying firm pressure with a sanitary napkin over the vaginal opening.,FALSE
+3729,933,On the ambulance floor,FALSE
+3730,933,"In the patient's lap, but not higher than his heart",FALSE
+3731,933,Hanging from the ceiling of the ambulance or IV pole higher than the patient,FALSE
+3732,933,"Lower than the patient, but not on the floor",TRUE
+3733,934,Liver disease,FALSE
+3734,934,Type 2 diabetes,FALSE
+3735,934,Respiratory problems,FALSE
+3736,934,All of these,TRUE
+3737,935,In the lower right chest,FALSE
+3738,935,In the upper left chest,TRUE
+3739,935,In the upper right chest,FALSE
+3740,935,In the lower left chest,FALSE
+3741,936,Acquired disease,TRUE
+3742,936,Congenital disease,FALSE
+3743,936,Either a congenital or acquired disease,FALSE
+3744,936,Neither a congenital nor acquired disease,FALSE
+3745,937,Alcohol and drug abuse are uncommon.,FALSE
+3746,937,They may be inappropriately unconcerned about the child.,TRUE
+3747,937,They usually want the child's injuries treated.,FALSE
+3748,937,They usually identify with the child's pain and suffering.,FALSE
+3749,938,Shock position,FALSE
+3750,938,Supine,FALSE
+3751,938,Head slightly elevated,TRUE
+3752,938,Prone,FALSE
+3753,939,Use a TDD/TYY telephone.,FALSE
+3754,939,Speak loudly and directly into the patient's ear.,FALSE
+3755,939,Slow down your speech so that the patient can read your lips.,FALSE
+3756,939,Write your questions using paper and pen.,TRUE
+3757,940,Peritoneal dialysis is more effective.,FALSE
+3758,940,Peritoneal dialysis is much faster.,FALSE
+3759,940,Peritoneal dialysis is less prone to infection.,FALSE
+3760,940,Peritoneal dialysis is likely to be done at the patient's home.,TRUE
+3761,941,They cope well with change when that change occurs quickly.,FALSE
+3762,941,They may have very high pain thresholds and tolerate excruciating injuries.,TRUE
+3763,941,They find faint background noise comforting.,FALSE
+3764,941,"They respond well to gentle, reassuring contact from EMTs.",FALSE
+3765,942,Terminal,FALSE
+3766,942,Handicapped,FALSE
+3767,942,Disabled,FALSE
+3768,942,Disability,TRUE
+3769,943,2,FALSE
+3770,943,3,TRUE
+3771,943,5,FALSE
+3772,943,1,FALSE
+3773,944,at intersections.,TRUE
+3774,944,during inclement weather.,FALSE
+3775,944,on wet roads.,FALSE
+3776,944,at night.,FALSE
+3777,945,En route to the hospital,FALSE
+3778,945,As soon as you are free from patient duties,TRUE
+3779,945,As soon as you arrive at the hospital,FALSE
+3780,945,At the end of your shift,FALSE
+3781,946,lightweight,FALSE
+3782,946,medium-duty,TRUE
+3783,946,heavy-duty,FALSE
+3784,946,specialty weight,FALSE
+3785,947,patient endangerment.,FALSE
+3786,947,unlawful consent.,FALSE
+3787,947,abandonment.,TRUE
+3788,947,false imprisonment.,FALSE
+3789,948,Before moving the patient to the ambulance,TRUE
+3790,948,Before the primary assessment,FALSE
+3791,948,After checking for cervical range of motion,FALSE
+3792,948,En route to the hospital,FALSE
+3793,949,pull to the left,FALSE
+3794,949,pull to the right,FALSE
+3795,949,stop,FALSE
+3796,949,speed up,TRUE
+3797,950,Ambulance operators are not affected by siren noise.,TRUE
+3798,950,The sound of the siren may increase the patient's anxiety.,FALSE
+3799,950,EMTs should assume that other drivers cannot hear the siren.,FALSE
+3800,950,Dense shrubbery may block the sound of the siren.,FALSE
+3801,951,privately employed,FALSE
+3802,951,experienced,FALSE
+3803,951,inexperienced,TRUE
+3804,951,all,FALSE
+3805,952,Type I.,FALSE
+3806,952,Type IV.,TRUE
+3807,952,Type II.,FALSE
+3808,952,Type III.,FALSE
+3809,953,Emergency Medical Driver,FALSE
+3810,953,Emergency Medical Director,FALSE
+3811,953,Emergency Medical Dispatcher,TRUE
+3812,953,Emergency Medical Doctor,FALSE
+3813,954,50 feet by 50 feet,FALSE
+3814,954,75 feet by 75 feet,FALSE
+3815,954,25 feet by 25 feet,FALSE
+3816,954,100 feet by 100 feet,TRUE
+3817,955,"allowable, provided you do not exceed 15 mph above the posted speed limit.",FALSE
+3818,955,subject to laws that govern all drivers.,TRUE
+3819,955,covered by your service's insurance carrier.,FALSE
+3820,955,not likely to result in an investigation in the event of a collision.,FALSE
+3821,956,Time of day,FALSE
+3822,956,Size of the vehicle,FALSE
+3823,956,Speed of the vehicle,TRUE
+3824,956,Weather conditions,FALSE
+3825,957,"Select the proper patient-carrying device, move the patient to the ambulance, package the patient for transport, and load the patient into the ambulance.",FALSE
+3826,957,"Package the patient for transport, select the proper patient-carrying device, move the patient to the ambulance, and load the patient into the ambulance.",FALSE
+3827,957,"Select the proper patient-carrying device, package the patient for transport, move the patient to the ambulance, and load the patient into the ambulance.",TRUE
+3828,957,"Package the patient for transport, move the patient to the ambulance, select the proper patient-carrying device, and load the patient into the ambulance.",FALSE
+3829,958,You could possibly be charged with false imprisonment.,FALSE
+3830,958,"Nothing, provided that your supervisor authorizes this action.",FALSE
+3831,958,You could possibly be charged with abandonment.,TRUE
+3832,958,Nothing; there are other people who are in need of an ambulance.,FALSE
+3833,959,68-year-old with mild respiratory distress and seat belt burns,FALSE
+3834,959,45-year-old with no vital signs,FALSE
+3835,959,6-year-old with lower leg fracture and normal vital signs,FALSE
+3836,959,25-year-old with abdominal bruising and signs of shock,TRUE
+3837,960,Hazardous Materials Technician,FALSE
+3838,960,Hazardous Materials Specialist,TRUE
+3839,960,First Responder Awareness,FALSE
+3840,960,First Responder Operations,FALSE
+3841,961,ensure there is at least one person on-site trained at the technician level.,FALSE
+3842,961,document the appropriate level of training for each employee.,TRUE
+3843,961,have knowledge of all hazardous materials on the premises.,FALSE
+3844,961,train employees to handle any type of hazardous materials incident.,FALSE
+3845,962,Hazardous Materials Technician,TRUE
+3846,962,First Responder Awareness,FALSE
+3847,962,First Responder Operations,FALSE
+3848,962,Hazardous Materials Specialist,FALSE
+3849,963,Hot zone,FALSE
+3850,963,Cold zone,TRUE
+3851,963,Ground zero,FALSE
+3852,963,Warm zone,FALSE
+3853,964,"Circulation, sensory, and motor status",FALSE
+3854,964,"Respiration, pain, and mental status",FALSE
+3855,964,"Respiration, sensory, and motor status",FALSE
+3856,964,"Respiration, pulse, and mental status",TRUE
+3857,965,Hazardous Materials Specialist,FALSE
+3858,965,Hazardous Materials Technician,FALSE
+3859,965,First Responder Operations,TRUE
+3860,965,First Responder Awareness,FALSE
+3861,966,Bill of lading,FALSE
+3862,966,Placard,FALSE
+3863,966,Shipping manifest,FALSE
+3864,966,Safety Data Sheets,TRUE
+3865,967,Keeping a log of all patients transported,FALSE
+3866,967,Staying on station until called upon to receive a patient,FALSE
+3867,967,Waiting in a designated location until called upon by the designated section officer,TRUE
+3868,967,Setting up a triage center from the back of your ambulance,FALSE
+3869,968,An estimate of the amount of the substance involved,TRUE
+3870,968,Your level of EMS certification,FALSE
+3871,968,Your background in chemistry,FALSE
+3872,968,Both An estimate of the amount of the substance involved and Your level of EMS certification,FALSE
+3873,969,"Upwind, uphill from the spill",FALSE
+3874,969,"Downwind, uphill from the spill",FALSE
+3875,969,"Downwind, downhill from the spill",FALSE
+3876,969,"Upwind, on the same level as the spill",TRUE
+3877,970,It is specific to the geographical location.,FALSE
+3878,970,It has been practiced in mock disasters.,FALSE
+3879,970,It is based on the availability of resources in a particular area.,FALSE
+3880,970,All of these,TRUE
+3881,971,Disinfection,FALSE
+3882,971,Deodorization,TRUE
+3883,971,Emulsification,FALSE
+3884,971,Disposal,FALSE
+3885,972,Rehabilitating the HAZMAT team,FALSE
+3886,972,Treating injured patients,FALSE
+3887,972,Staying in the cold zone,FALSE
+3888,972,Decontaminating injured victims,TRUE
+3889,973,Collecting a sample of the material for laboratory analysis,TRUE
+3890,973,Using binoculars to obtain information from the placard on a container,FALSE
+3891,973,Asking the driver of the tractor-trailer truck involved in the incident,FALSE
+3892,973,Checking the safety data sheet,FALSE
+3893,974,Chemical permeable gloves,FALSE
+3894,974,HEPA mask,FALSE
+3895,974,Tyvek or other chemical impermeable coveralls,TRUE
+3896,974,Structural firefighting gear,FALSE
+3897,975,yellow tagged.,FALSE
+3898,975,Priority 4 walking wounded.,FALSE
+3899,975,red tagged.,FALSE
+3900,975,Priority 3 walking wounded.,TRUE
+3901,976,"secure the scene quickly, triage each patient, and move to fresh air.",FALSE
+3902,976,"recognize a HAZMAT incident, dress in a Tyvek suit, secure the scene by limiting access, isolate the possible contaminated from the noncontaminated, and request HAZMAT response.",FALSE
+3903,976,"recognize a HAZMAT incident, secure the scene by limiting access, isolate the possible contaminated from the noncontaminated, and request HAZMAT response.",TRUE
+3904,976,"recognize a HAZMAT incident, dress in a Tyvek suit, access the scene to identify the spilled product, secure the MSDS sheets, and remove victims to fresh air.",FALSE
+3905,977,Have dispatch relay your patient reports to the receiving facility.,FALSE
+3906,977,Notify the receiving facility by radio of the nature of the patients' injuries.,FALSE
+3907,977,Allow the transportation supervisor to notify the receiving facility.,TRUE
+3908,977,Notify the receiving hospital by cellular phone of the nature of the patients' injuries.,FALSE
+3909,978,"Priority 1, red tag",FALSE
+3910,978,"Priority 4, black tag",FALSE
+3911,978,"Priority 3, green tag",TRUE
+3912,978,"Priority 2, yellow tag",FALSE
+3913,979,"Priority 3, green tag",FALSE
+3914,979,"Priority 4, black tag",FALSE
+3915,979,"Priority 1, red tag",TRUE
+3916,979,"Priority 2, yellow tag",FALSE
+3917,980,Aim at the base of the fire and use short bursts until the fire is out.,TRUE
+3918,980,Close the hood to contain the fire within the engine compartment.,FALSE
+3919,980,Sweep the nozzle of the extinguisher left and right using short bursts until you are out of extinguishing agent.,FALSE
+3920,980,"Aim the nozzle to the side of the fire and, with a sweeping motion, push the fire at its base.",FALSE
+3921,981,Extrication of the patient from the vehicle,FALSE
+3922,981,Disentanglement of the patient,FALSE
+3923,981,Primary assessment and rapid trauma exam,TRUE
+3924,981,Stabilization of the vehicle,FALSE
+3925,982,On sunny days,FALSE
+3926,982,On cloudy days,FALSE
+3927,982,At night,FALSE
+3928,982,All of these,TRUE
+3929,983,use the extinguishing agent sparingly to avoid creating a cloud of powder.,TRUE
+3930,983,aim the nozzle of the extinguisher away from the patient to avoid hitting the patient.,FALSE
+3931,983,apply the extinguishing agent liberally to speed up the extinguishing process.,FALSE
+3932,983,resist the urge to extinguish the fire and focus on extricating any patients.,FALSE
+3933,984,kneel or squat as necessary.,FALSE
+3934,984,"always squat, so you can move away quickly.",TRUE
+3935,984,kneel on one knee only so you can move away quickly.,FALSE
+3936,984,kneel on both knees for stabilization.,FALSE
+3937,985,Determining the extent of the patient's entrapment,FALSE
+3938,985,Providing airway management,TRUE
+3939,985,Determining the need for additional resources,FALSE
+3940,985,Determining the mechanism of injury,FALSE
+3941,986,To anticipate any dangerous steps in the extrication process,TRUE
+3942,986,To provide direction to the rescue technicians if they appear to be making errors,FALSE
+3943,986,To take over the extrication process if requested by the rescue technicians,FALSE
+3944,986,All of these,FALSE
+3945,987,Prescription eyeglasses,FALSE
+3946,987,Plastic face shield of the type used for Standard Precautions,FALSE
+3947,987,Face conforming goggles,TRUE
+3948,987,Shield of a Firefighter's helmet,FALSE
+3949,988,Penetrating injury from extrication tools,FALSE
+3950,988,Broken glass and metal fragments,TRUE
+3951,988,Carbon monoxide poisoning,FALSE
+3952,988,Both Penetrating injury from extrication tools and Carbon monoxide poisoning,FALSE
+3953,989,To avoid criticism from bystanders,FALSE
+3954,989,To allow a patient with life-threatening injuries to be removed quickly,TRUE
+3955,989,To avoid being cut by glass,FALSE
+3956,989,To make the interior of the vehicle less accessible,FALSE
+3957,990,Firefighting helmet,FALSE
+3958,990,NFPA standard rescue helmet,TRUE
+3959,990,Watch cap,FALSE
+3960,990,Nomex hood,FALSE
+3961,991,Your own safety,TRUE
+3962,991,Treating life-threatening injuries,FALSE
+3963,991,Helping law enforcement get the driver's name and insurance information,FALSE
+3964,991,"Preserving evidence, such as alcohol beverage bottles and vehicle positioning",FALSE
+3965,992,Controlling major bleeding,FALSE
+3966,992,Maintaining the patient's airway,FALSE
+3967,992,Ensuring your personal safety,TRUE
+3968,992,Gaining access to the patient,FALSE
+3969,993,It should only be considered stable after assessment by trained rescue personnel.,TRUE
+3970,993,It is stable if the ignition is turned off.,FALSE
+3971,993,It is stable if it is upright on all four wheels.,FALSE
+3972,993,"It is stable if the transmission is in ""Park"" or the parking brake is on.",FALSE
+3973,994,Fabric work gloves with non-slip palms,FALSE
+3974,994,Double-thickness latex gloves,FALSE
+3975,994,Leather gloves,TRUE
+3976,994,Elbow-length chemical-proof gloves,FALSE
+3977,995,Cut away the fabric portion of the airbag to get it out of the way.,FALSE
+3978,995,Use a portable fan to ventilate the car to remove the powder from the airbag.,FALSE
+3979,995,Lift the airbag and inspect the steering wheel for damage.,TRUE
+3980,995,Sharply strike the front bumper to make sure the second airbag has deployed.,FALSE
+3981,996,Watching for distracted drivers who are driving past the scene,TRUE
+3982,996,Evaluating the risk of fire caused by ruptured fuel lines,FALSE
+3983,996,Searching for sharp edges of broken glass and torn metal,FALSE
+3984,996,Ensuring the patient is properly packaged for transport,FALSE
+3985,997,Call for additional rescue units and transporting ambulances.,TRUE
+3986,997,Begin extrication of the most critically injured patient.,FALSE
+3987,997,Begin triage of all patients before deciding on additional resources.,FALSE
+3988,997,Begin to care for the patient closest to your vehicle.,FALSE
+3989,998,Infectious disease,FALSE
+3990,998,Mass casualty,FALSE
+3991,998,Hazardous materials,FALSE
+3992,998,All of these,TRUE
+3993,999,Inhalation,FALSE
+3994,999,Skin,FALSE
+3995,999,Ingestion,FALSE
+3996,999,All of these,TRUE
+3997,1000,bacteria.,TRUE
+3998,1000,viruses.,FALSE
+3999,1000,toxins.,FALSE
+4000,1000,biologics.,FALSE
+4001,1001,toxins.,FALSE
+4002,1001,bacteria.,FALSE
+4003,1001,biologics.,FALSE
+4004,1001,viruses.,TRUE
+4005,1002,Inhalation,FALSE
+4006,1002,Absorption,TRUE
+4007,1002,Ingestion,FALSE
+4008,1002,Injection,FALSE
+4009,1003,biologic agents.,FALSE
+4010,1003,allergens.,TRUE
+4011,1003,explosives.,FALSE
+4012,1003,nuclear agents.,FALSE
+4013,1004,"technique, distance, and serum.",FALSE
+4014,1004,"time, decontamination, and shielding.",FALSE
+4015,1004,"time, distance, and shielding.",TRUE
+4016,1004,"time, decontamination, and serum.",FALSE
+4017,1005,Acts of violence perpetrated by American citizens against the government of another country,FALSE
+4018,1005,Politically motivated act of violence that occurs within the United States,FALSE
+4019,1005,Interpersonal violence between family members,FALSE
+4020,1005,Groups or individuals directing violent acts at their own population or government,TRUE
+4021,1006,Nerve agents,FALSE
+4022,1006,Blister agents,FALSE
+4023,1006,Cyanide,TRUE
+4024,1006,All of these,FALSE
+4025,1007,Plastic explosives,FALSE
+4026,1007,Vesicants,TRUE
+4027,1007,Bomb containing radioactive material,FALSE
+4028,1007,Bacterial toxin,FALSE
+4029,1008,Establishing perimeter control,TRUE
+4030,1008,Identification of any indicators of a particular agent,FALSE
+4031,1008,Scene size-up,FALSE
+4032,1008,Activation of the notification process,FALSE
+4033,1009,Function of the target,FALSE
+4034,1009,Number of people present,FALSE
+4035,1009,Occurrence on the anniversary of a significant or symbolic historical event,FALSE
+4036,1009,All of these,TRUE
+4037,1010,Delta,FALSE
+4038,1010,Gamma,TRUE
+4039,1010,Beta,FALSE
+4040,1010,Alpha,FALSE
+4041,1011,Psychological and economic,FALSE
+4042,1011,Violence and intimidation,FALSE
+4043,1011,Chemical and biologic,FALSE
+4044,1011,Domestic and international,TRUE
+4045,1012,Incident Control System.,FALSE
+4046,1012,Interagency Communication System.,FALSE
+4047,1012,Incident Command System.,TRUE
+4048,1012,Interagency Command System.,FALSE
